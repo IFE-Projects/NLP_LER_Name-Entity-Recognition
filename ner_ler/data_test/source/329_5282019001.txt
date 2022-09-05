@@ -1,0 +1,9 @@
+Plant: Palo Verde 1.
+Emergency Core Cooling System Valve Leakage Resulting in an Unanalyzed Condition.
+ On March 31, 2019, at approximately 20:06 Mountain Standard Time (MST), PVNGS Unit 1 Shift Manager was informed that leakage at static system pressure from the "A" Train Emergency Core Cooling System (ECCS) was measured at approximately 100 milliliters per minute through a High Pressure Safety Injection (HPSI) system drain valve. This value exceeded the Large Break Loss of Coolant Accident (LOCA) analysis value of 3000 milliliters per hour (mL/hour), pressurized ECCS leakage from sources outside of containment. 
+
+ At 02:30 MST on April 01, 2019, the valve was flushed and the leakage was reduced below the analysis value to 600 mL/hour with the system at static pressure. Troubleshooting efforts continued and the HPSI system drain valve was replaced on April 18, 2018. A pressurized ECCS leak test that was completed on April 23, 2019, confirming zero leakage from the valve. 
+
+ The apparent cause was the connection of ECCS drain valves located outside of containment to an open-ended drain header that does not limit the potential radiological consequences of seat leakage. A design change is planned to install pipe caps on HPSI system drain valves. 
+
+ No similar conditions have been reported by PVNGS in the past three years.

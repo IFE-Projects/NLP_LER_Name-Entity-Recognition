@@ -1,0 +1,9 @@
+Plant: McGuire 1.
+Valid Actuation of the Unit 1 Reactor Protection System and Auxiliary Feedwater System.
+ At 1554 [EST] hours on May 3, 2019, with Unit 1 in Mode 1 at approximately 100 percent power, the reactor automatically tripped on Over Temperature Delta Teniperature following a pressure transient in the Reactor Coolant System. The trip was uncomplicated with all systems responding normally post-trip. Operations manually started the motor driven auxiliary feedwater pumps.
+
+ The cause was determined to be: The Control Room Supervisor and Reactor Operators involved failed to adhere to established administrative standards. 
+
+ The Control Room Supervisor and Reactor Operators involved failed to perform the correct level of pre-job brief in accordance with administrative standards. Adherence to the administrative standards would have ensured proper consideration of human factors and contingency actions prior to performing manual manipulations of the pressurizer pressure master controller. The licensed operators involved were removed from duty and are being remediated.
+
+ Planned Action: Complete remediation of the licensed operators.

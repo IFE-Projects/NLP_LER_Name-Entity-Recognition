@@ -1,0 +1,5 @@
+Plant: River Bend.
+Inadvertent Initiation and Injection of High Pressure Core Spray.
+ On September 03, 2020 at 2048 CT, River Bend Station (RBS) experienced a High Pressure Core Spray (HPCS) system inadvertent initiation and injection into the core while the station was at 92 percent power. Control Room Operators took manual control of Feedwater Level Control to maintain a stable reactor water level. Once it was verified that feedwater was not needed for level control, Operations manually closed the injection isolation valve and performed an override of the HPCS system. Closure of the HPCS Injection Valve rendered this system incapable of responding to an automatic actuation and was declared inoperable. 
+
+ This report is made in accordance with 10 CFR 50.73(a)(2)(v)(D) for any event or condition that could have prevented the fulfillment of the safety function of structure or system that is needed to mitigate the consequences of an accident.

@@ -1,0 +1,7 @@
+Plant: Seabrook.
+Manual Reactor Trips due to Control Rod Bank Unexpectedly Inserting.
+ On May 29, 2020 at 1404 Eastern Standard Time (EST), Operations initiated a manual reactor trip due to more than one control rod fully inserting into the core. All systems responded normally post-trip. Operations stabilized the plant in Mode 3. Decay heat removal was accomplished via the steam dumps in the steam pressure mode to the main condenser. Emergency feedwater actuated due to low-low steam generator level as expected. An investigation was performed, determining that the cause of the event was due to a loose or improperly seated stationary gripper regulation circuit card within one of the rod control system power cabinets. The suspect gripper card was replaced and functionally tested. Plant restart and power operation resumed. 
+
+ Subsequently, on June 06, 2020 at 0921, Operations initiated a manual reactor trip due to more than one control rod fully inserting into the core. Corrective actions resulted in replacing multiple circuit cards in the associated power cabinet with spare cards. All circuit card connector pins which are part of the card frame and card edge were reformed to tighten the electrical connections. Additionally, electrical termination inspections, and card seating and alignment checks were performed and verified satisfactory. 
+
+ The condition had no impact on public health and safety.

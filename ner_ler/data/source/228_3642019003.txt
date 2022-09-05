@@ -1,0 +1,7 @@
+Plant: Farley 2.
+Manual Reactor Trip due to 2C Reactor Coolant Pump High Vibration Indication.
+ On September 21, 2019, at 0744 CDT, while operating at 100% power, Farley Nuclear Plant (FNP) Unit 2 received a vibration alarm on the 2C Reactor Coolant Pump (RCP). Operators entered the applicable Annunciator Response Procedure (ARP). At 0800 CDT, the Control Room Operators manually tripped Unit 2 due to indicated vibrations on the 2C RCP exceeding procedural limits. The post-trip response was normal. All trains of Auxiliary Feed Water pumps actuated normally due to low Steam Generator (SG) levels post trip. Operators took appropriate action to stabilize the unit in Mode 3.
+
+ The investigation determined the most likely cause for the RCP vibration indication was the temporary in-phasing of the various contributing frequencies. The ARP contained insufficient information to allow the Control Room Operators to determine if the indications represented an actual vibration condition that threatened RCP operation. The Control Room Operators tripped the reactor based on available indications per the guidance of the ARP. Corrective Actions included revising the ARP to enhance the guidance for vibration conditions that require action to protect the RCP.
+
+ This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual actuation of systems listed in 10CFR50.73(a)(2)(iv)(B). FNP Unit 1 was not affected during this event.

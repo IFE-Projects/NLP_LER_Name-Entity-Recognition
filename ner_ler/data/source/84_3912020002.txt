@@ -1,0 +1,7 @@
+Plant: Watts Bar 2.
+Two Pressurizer Safety Valves Outside of Technical Specification Limits due to Set Point Drift.
+ On November 2, 2020, while at 0 percent power level and defueled, it was discovered that two Unit 2 pressurizer safety valves (PSVs), which had been removed during the October/November 2020 refueling outage (U2R3) and shipped off-site for testing, failed their as-found lift pressure test. The PSVs lifted below the Technical Specification (TS) 3.4.10 allowable lift setting value. Set point drift was the cause of the PSVs failures. This set point drift did not result in the PSVs inability to perform their safety function. 
+
+ The PSVs were replaced during the October/November 2020 refueling outage. 
+
+ This condition is being reported as a condition prohibited by Technical Specifications in accordance with 10 CFR 50.73(a)(2)(i)(B).

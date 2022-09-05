@@ -1,0 +1,5 @@
+Plant: River Bend.
+Weep Holes Discovered in G-Tunnel Wall Result in Inoperable Safety Related Equipment.
+ On June 5, 2020 at River Bend Station (RBS), weep holes were identified in the wall of the HVAC Chamber located adjacent to the G-Tunnel which could have resulted in the inoperability of safety related equipment. These weep holes were part of the original plant design of the HVAC Chamber. As a result, there was the unknown potential of water infiltration during a Probable Maximum Precipitation (PMP) event. If this infiltration had occurred, there was a cascading potential of an impact to safety related equipment within the G-Tunnel and connecting E and F Tunnels. 
+
+ This report is made in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event that could have prevented fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident.

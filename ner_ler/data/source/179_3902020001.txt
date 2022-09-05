@@ -1,0 +1,7 @@
+Plant: Watts Bar 1.
+Manual Reactor Trip due to Lowering Steam Generator Level Caused by a Hand Station Failure.
+ On February 19, 2020, at 0936 Eastern Standard Time (EST), the Watts Bar Nuclear Plant (WBN) Unit 1 reactor was manually tripped due to a loss of control of Steam Generator (SG) number 3 level. Concurrent with the reactor trip, the Auxiliary Feedwater system actuated as designed. All Control and Shutdown rods inserted properly. All safety systems responded as designed.
+
+ The direct cause of the event was a stuck pushbutton on the main feedwater regulating valve (MFRV) controller/hand station which provided a closing signal when an open signal was demanded. This occurred when performing a maintenance activity that placed the hand station in manual. This hand station was replaced following this event. In addition, a cause analysis has determined that manual control for automatic functions is not recognized as risk significant, therefore appropriate elimination/mitigation strategies are not utilized under controllable circumstances. Corrective actions include revising plant procedures to classify activities that replace automatic control availability with manual control action as risk significant and require risk evaluation and mitigation strategies. 
+
+ This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).

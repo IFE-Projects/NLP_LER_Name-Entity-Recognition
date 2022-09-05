@@ -1,0 +1,9 @@
+Plant: Diablo Canyon 2.
+Containment Spray Inoperable in Mode 4.
+ On November 30, 2019, at 1100 PST, with Unit 2 in Mode 4, Operations identified that both trains of containment spray had been made inoperable (DC control power removed) earlier in the day, at approximately 0237 hours as part of preparations for a planned Mode 5 entry. 
+
+ The containment spray pumps are required to be operable (along with the containment fan cooler units (CFCUs)) in Modes 1-4 in accordance with Technical Specification (TS) 3.6.6. With Containment Spray Pumps 2-1 and 2-2 inoperable, TS 3.6.6 Condition F requires immediate entry into TS 3.0.3. Since Unit 2 was in Mode 4, TS 3.0.3 required placing the unit in Mode 5 within 37 hours. At 1125 hours, both trains of containment spray were returned to operable and TS 3.6.6 and TS 3.0.3 were exited. The five CFCUs remained operable at all times throughout the inoperability of the containment spray pumps. 
+
+ This event was a result of human error. 
+
+ There was no impact on the health and safety of the public or plant personnel.

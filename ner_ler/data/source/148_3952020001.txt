@@ -1,0 +1,7 @@
+Plant: Summer 1.
+Condition Prohibited by Technical Specification 3.7.3.
+ On April 21, 2020, at approximately 0538 while the station was defueled, operators were performing Surveillance Test Procedure STP-130.005M. XVG09627B-CC VALVE OPERABILITY TESTING (MODE 5), Revision 1, when the Service Water Supply to Component Cooling Valve, XVG09627B-CC, failed to stroke open.
+
+ Satisfactory completion of STP-130.005M demonstrates the operability of a Component Cooling Water System valve that cannot be tested while the Plant is in Mode 1, per Technical Specification (TS) Surveillance Requirement 4.0.5. XVG09627B-CC failing to open resulted in a condition prohibited by TS 3.7.3 since the valve was determined to be inoperable for longer than allowed by the TS 3.7.3 Limiting Condition for Operation (LCO) action statement. XVG09627B-CC was returned to service with the completion of Work Order 1901340. 
+
+ This Licensee Event Report (LER) is being provided per the requirements of 10 CFR 50.73(a)(2)(i)(B) because XVG09627B-CC has been deemed to have been inoperable for a period that is greater than the 72-hour LCO allowed outage time.

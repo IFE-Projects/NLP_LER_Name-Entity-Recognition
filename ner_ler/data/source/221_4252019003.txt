@@ -1,0 +1,7 @@
+Plant: Vogtle 2.
+Transformer Deenergization Results in Emergency Diesel Generator and Auxiliary Feedwater Systems Starting.
+ At 1023 EDT, on October 9, 2019, with Unit 2 in Mode 1 and 100 percent power, an actuation of the Unit 2 A-Train Emergency Diesel Generator (EDG)[EK] and the Unit 2 A-Train Auxiliary Feedwater (AFW)[BA] Systems occurred. The reason for the EDG auto-start was the loss of power to the 4160V 1E electrical bus 2AA02 [EB] due to a fault at an offsite electrical switchyard. The AFW system started as a result of the undervoltage condition on the safety bus. The EDG automatically started and energized the bus as designed. 
+
+ Due to the automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B), specifically the Emergency Diesel Generator and the Auxiliary Feedwater Systems, this event is reportable under 10 CFR 50.73(a)(2)(iv)(A). Corrective actions have been taken to ensure that additional controls are in place over this offsite switchyard when the SAT is in operation. 
+
+ The operating crew responded correctly to the event. The applicable abnormal operating procedures were properly entered, and documentation met expectations.

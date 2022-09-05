@@ -1,0 +1,7 @@
+Plant: Cooper Station.
+Secondary Containment Rise in Differential Pressure Results in Loss of Safety Function.
+ On August 8, 2019, a spike in Secondary Containment occurred with differential pressure (DP) exceeding the Technical Specification limit of 0.25 inch of vacuum water gauge (wg) causing Secondary Containment to be inoperable for 7 minutes. The spike was due to Reactor Building heating, ventilation, and air conditioning (HVAC) supply filter media being advanced excessively causing DP to rise to 0.19 vacuum wg. The DP was not immediately identified by Control Room personnel due to Secondary Containment DP not reaching the high pressure alarm setpoint and they were unaware of the filters being advanced. 
+
+ Causal factors were that the condition of the supply filters was not properly prioritized and risk associated with the supply filter activities was not recognized and controlled properly due to it being classified as a skill of the craft activity. 
+
+ The operations department skill of the craft list was revised to delete activities such as advancing the supply filters that have plant operational risk. More formal controls are being implemented for operation and maintenance of the reactor building HVAC supply filters. Operations department wide communications are planned to discuss the event, causal factors, and corrective actions. There was no impact on nuclear safety, plant reliability, radiological safety, or industrial safety.

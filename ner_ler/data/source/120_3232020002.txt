@@ -1,0 +1,11 @@
+Plant: Diablo Canyon 2.
+Unit 2 Manual Reactor Trip due to Increased Main Generator Hydrogen Usage.
+ On July 17, 2020, at 13:46 Pacific Daylight Time, with Diablo Canyon Power Plant Unit 2 operating at 100 percent power, the reactor was manually tripped in accordance with plant procedures due to increasing hydrogen usage in the Unit 2 Main Generator. 
+
+ The reactor trip was uncomplicated, and the auxiliary feedwater system started as expected. 
+
+ This event is being reported per 10 CFR 50.73(a)(2)(iv)(A) due to a manual reactor trip and the associated automatic actuation of a specified safety system. 
+
+ The cause of the increased hydrogen usage was due to a leak in a weld segment located on the Unit 2 Main Generator exciter end stator coil cooling water manifold. 
+
+ There was no impact to the health and safety of the public or plant personnel.

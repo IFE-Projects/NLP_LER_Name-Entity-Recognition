@@ -1,0 +1,7 @@
+Plant: Braidwood 1.
+Train A and B Source Range Neutron Flux Trip Functions Bypassed During Plant Startup.
+ On April 23, 2021 at 1216 hours, with Unit 1 in Mode 2 during reactor startup activities, control room personnel identified that both Train A and Train B source range neutron flux reactor trip functions were bypassed, and immediately restored by taking the bypass switches to normal. The condition existed since April 21, 2021 at 0738 hours with the unit in Mode 5. In accordance with Technical Specification (TS) Limiting Condition for Operations (LCO) 3.3.1, Reactor Trip System (RTS) Instrumentation, the source range neutron flux channels are required in Modes 2, 3, 4 and 5 in accordance with TS Table 3.3.1-1. A review determined periods where TS 3.3.1 Conditions were not met, and of mode changes not in accordance with TS LCO 3.0.4. 
+
+ The cause of the event was failure of the Operations crew to adequately track equipment status in accordance with operating procedures and processes. 
+
+ This event is being reported as any operation or condition which was prohibited by Technical Specifications in accordance with 10 CFR 50.73(a)(2)(i)(B), and as any event or condition that could have prevented the fulfillment of the safety function needed to shut down the reactor and maintain it in a safe shutdown condition in accordance with 10 CFR 50.73(a)(2)(v)(A).

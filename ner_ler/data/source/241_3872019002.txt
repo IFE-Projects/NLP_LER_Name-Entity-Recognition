@@ -1,0 +1,9 @@
+Plant: Susquehanna 2.
+Inoperability of "C" Emergency Service Water Pump.
+ On August 28, 2019 at approximately 17:40, during lnservice Testing (IST) of the "A" loop of Emergency Service Water (ESW), the differential pressure for the "C" ESW pump (0P504C) was found to be 88.875 psid, which was below the established IST acceptance criteria. Based on the test results, the "C" ESW pump was in the IST Required Action Range, which requires the pump to be declared inoperable. At the time of discovery of this condition, Susquehanna was already in Technical Specification (TS) 3.7.2 Condition C for "A" loop maintenance. On August 29, 2019, the pump lift setting was adjusted and the "C" ESW pump was retested. The retest resulted in an acceptable differential pressure of 91.9 psid, which was in the Alert Range and no longer in the Required Action Range. TS 3.7.2 Condition C was exited on August 29, 2019 at approximately 15:45. On October 04, 2019, Susquehanna completed replacement of the "C" ESW pump. 
+
+ The direct cause was determined to be separation of the lower pump casing flange (bottom column to top case) resulting in a loss of differential pressure. The apparent cause was determined to be corrosion of the carbon steel bolting in raw water. This was accelerated by galvanic interactions with silt, Copper never-seize, and alloy steel. Completed corrective actions include replacement of the "C" ESW pump. Planned corrective actions include a review of the appropriate preventive maintenance (PM) frequency for pump replacement. 
+
+ Based on available information, the condition is considered to have existed for longer than allowed by TS 3.7.2. The condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications and 10 CFR 50.73(a)(2)(v) as an event or condition that could have prevented fulfillment of a safety function. 
+
+ There were no actual safety consequences associated with the condition.

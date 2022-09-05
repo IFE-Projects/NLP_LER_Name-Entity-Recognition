@@ -1,0 +1,7 @@
+Plant: Susquehanna 2.
+Valid Actuation of the Primary Containment Isolation System due to a Trip of Reactor Protection System Bus 2B.
+ On June 27, 2019, at 0937 a half scram signal was received on Unit 2, Division 2 of the Reactor Protection System (RPS). The half scram signal resulted in a trip of the 2B RPS instrument bus, a trip of the 2A Residual Heat Removal Service Water (RHRSW) Pump, a loss of the 2A and 2B Containment Radiation Monitors (CRMs), and Primary Containment Isolation System (PCIS) actuations. The loss of both CRMs resulted in entering Condition B of Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.4.6, “RCS Leakage Detection Instrumentation.” The PCIS actuation resulted in isolation of containment isolation valves in multiple systems and was determined to be reportable in accordance with 10 CFR 50.72(b)(3)(iv)(A) for the valid isolation signal. The 2B RPS instrument bus was transferred to its alternate power supply and the 2A and 2B CRMs were restored. The 2B RPS instrument bus was realigned to its normal source on July 2, 2019. The condition was also determined to be reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) for the valid PCIS signal. 
+
+ The event was determined to be caused by an age-related failure of a control relay on the normal power supply to the 2B RPS instrument bus. Corrective actions included replacing the failed relay. 
+
+ There were no actual safety consequences associated with the condition.

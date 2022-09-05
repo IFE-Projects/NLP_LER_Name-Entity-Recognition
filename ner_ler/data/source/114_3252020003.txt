@@ -1,0 +1,9 @@
+Plant: Brunswick 1.
+Automatic Specified System Actuations due to Loss of Offsite Power.
+ At 23:02 Eastern Daylight Time on August 3, 2020, with Unit 1 in Mode 1 at approximately 19% power during Hurricane Isaias, a loss of the transformer bus powering the Startup Auxiliary Transformer (SAT) resulted in a Loss of Offsite Power (LOOP). By design, all Main Steam Isolation Valves closed and an automatic reactor scram occurred. All control rods inserted as expected on the scram. At the time of this event the main generator was removed from service due to unrelated generator ground issues and all plant loads were being supplied by the SAT.
+
+ By design, the LOOP resulted in automatic actuation of Primary Containment Isolation System (PCIS) Group 1, 2, 3, 6, and 8 isolation valves. In addition, all four emergency diesel generators (EDGs) started, with EDGs 1 and 2 loading to their respective emergency buses per design. Reactor water level reached low level 1 following the scram resulting in automatic actuation of PCIS Groups 2, 6, and 8, by design. 
+
+ The electrical fault that caused the transformer bus powering the SAT to trip and subsequent LOOP was determined to be a result of storm generated debris. 
+
+ There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) due to valid actuation of the Reactor Protection System, PCIS, and EDGs.

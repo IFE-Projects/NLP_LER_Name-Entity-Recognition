@@ -1,0 +1,9 @@
+Plant: Palo Verde 2.
+Automatic Actuation of the Reactor Protection System Resulting from a Loss of Reactor Coolant Pumps.
+ On August 16, 2019, at approximately 0821 Mountain Standard Time, an automatic reactor trip of PVNGS Unit 2 occurred when the Reactor Protection System generated trips on all four channels for low departure from nucleate boiling ratio and high local power density due to the loss of power to all four Reactor Coolant Pumps. All control element assemblies fully inserted into the reactor core. A Main Steam Isolation Signal was manually actuated due to the loss of main condenser cooling water. This required manual actuation of the auxiliary feedwater and essential spray pond systems. 
+
+ When the main generator is connected to the switchyard grid, a generator under frequency condition is the only electrical fault that opens the output breakers without tripping the turbine and providing the electrical circuit logic needed to initiate a fast bus transfer of PVNGS non-class 1E 13.8 kilovolt (kV) loads. 
+
+ The direct cause of the reactor trip was attributed to the opening of main generator output breakers inside the Salt River Project (SRP) switchyard. The output breakers opened due to an invalid trip output signal initiated from a Schweitzer Engineering Laboratory relay (SEL-387) within the SRP switchyard protection system. The SEL-387 and cable running from the Unit 2 main generator protection cabinet to the SRP interface cabinet at the switchyard boundary were replaced. Subsequent testing was unable to identify a failure mode. SRP will be implementing a modification to the relay tripping scheme to provide redundancy that will provide required protection to the switchyard while eliminating a plant trip vulnerability. 
+
+ No previous similar events have been reported by PVNGS in the last 3 years.

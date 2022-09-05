@@ -1,0 +1,5 @@
+Plant: Sequoyah 2.
+Loss of Heater Drain Tank Flow Causes Turbine Runback and Manual Reactor Trip.
+ On December 12, 2019, at 0433 Eastern Standard Time (EST), Sequoyah Nuclear Plant Unit 2 was manually tripped as a result of a secondary system level control valve positioner failure. The failure of the valve led to reduced secondary system Heater Drain Tank flow and a unit down power. During the down power, manual reactor trip criteria was reached. All safety-related equipment operated as designed, all controls rods fully inserted as required, and the Auxiliary Feedwater system automatically initiated as expected. 
+
+ The failed positioner was replaced with a newer model. Investigation revealed that a fine adjust screw had loosened, preventing the valve positioner from correctly responding to control signals. An extent-of-condition was performed to identify other susceptible components, and actions have been taken to replace a necessary component with a newer model.

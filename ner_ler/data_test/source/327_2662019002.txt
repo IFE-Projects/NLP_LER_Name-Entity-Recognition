@@ -1,0 +1,7 @@
+Plant: Point Beach 2.
+Operation Not Maintained Within Pressure and Temperature Limit Report (PTLR) as Required by Technical Specification 3.4.3.
+ On April 9, 2019, following the Unit 1 Reactor Coolant System (RCS) cooldown for refueling (U1R38), PBNP identified where cold leg temperature was not maintained within the limits specified in the PTLR. An extent of condition review identified time intervals where both units had operated outside of the PTLR temperature limit. During these intervals, the technical specification required action completion times were not satisfied. 
+
+ Technical Specification 3.4.3, RCS Pressure and Temperature Limits Limiting Condition for Operation (LCO), requires that RCS pressure, temperature, and heat-up and cooldown rates be maintained within the limits specified in the PTLR. The LCO is applicable at all times and requires that if a limit is exceeded, initiate action to restore parameters and determine RCS is acceptable for continued operation prior to entering Mode 4. The RCS heat-up and cooldown rates have been maintained within the limits specified in the PTLR. However, the RCS was not maintained greater than the minimum temperature specified in the PTLR and the required action to determine the RCS acceptable for continued operation was not completed prior to entering Mode 4.
+
+ This event is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B), Operation or Condition Prohibited by Technical Specifications.

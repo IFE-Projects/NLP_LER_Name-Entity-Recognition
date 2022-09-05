@@ -1,0 +1,5 @@
+Plant: Fermi 2.
+Secondary Containment Declared Inoperable due to Opening Both Airlock Doors.
+ On May 29, 2019 at 2210 hours, during Security Force on Force Practice Drills both doors in the Secondary Containment (SC) air lock on the reactor building first floor were opened simultaneously for a period of approximately two seconds. During the drill exercise, the Controller failed to maintain the access control measures at the outer air lock door which resulted in additional drill personnel accessing through the door. 
+
+ The condition resulted in Technical Specification (TS) Surveillance Requirement (SR) 3.6.4.1.3 not being met. The doors were secured immediately. SC pressure during that time remained unchanged and within TS limits. There were no radiological releases associated with this event. Declaring Secondary Containment inoperable for not meeting TS SR 3.6.4.1.3 is reportable under 10 CFR 50.72(b)(3)(v)(C). This written report is required under 10 CFR 50.73(a)(2)(v)(C) as an event or condition that could have prevented the fulfillment of a safety function needed to control the release of radioactive material.

@@ -1,0 +1,13 @@
+Plant: Catawba 2.
+Containment Spray System Actuation due to Interaction of Procedure Enclosures Performed Concurrently.
+ On October 2, 2019, at 0415, with Unit 2 in Mode 5 at 0% power, an actuation of the containment spray system [BE] (NS) occurred during valve strokes of the 2A train containment spray header isolations while the 2B train containment spray pump was in recirculation. The NS system actuation occurred due to a conflict in procedure sections that were performed in parallel. The conflict resulted in a containment spray flow path via the 2B NS pump, which was running in recirculation to/ from the Refueling Water Storage Tank [RWST] (FWST), through the flow test cross-tie line and out the 2A spray header. The Unit 2 containment spray actuation was secured at 0416. 
+
+ The Unit 2 containment spray actuation was not part of a pre-planned evolution and is considered a valid system actuation. 
+
+ The causes of this event are as follows: 
+
+ • Operations failure to mark up flow diagrams for the evolution led to the failure to understand and evaluate interactions between procedure enclosures and the resulting impacts to the plant while performing enclosures concurrently, and 
+
+ • On-shift Operations Crew willingness to proceed with less than 100% certainty. 
+
+ The health and safety of the public was not affected by this event.

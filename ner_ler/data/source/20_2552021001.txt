@@ -1,0 +1,4 @@
+Plant: Palisades.
+Atmospheric Steam Dump Valves Inoperable due to Relay Failure.
+ At the Palisades Nuclear Plant, on June 16, 2021, at 1550 EDT, with the plant in Mode 1, at 100% power, operations identified an acrid odor in the control room. Investigation revealed that the steam dump control relay had failed, rendering all four atmospheric steam dump valves (ASDVs) inoperable. 
+ The relay was replaced and the ASDVs were returned to service. The plant remained stable in Mode 1 at 100% power throughout the event. The safety significance of this event was minimal. This event is reportable in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event or condition that at the time of discovery could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident.

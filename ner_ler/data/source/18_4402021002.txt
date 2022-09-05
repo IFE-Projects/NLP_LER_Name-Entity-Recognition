@@ -1,0 +1,7 @@
+Plant: Perry.
+Core Monitoring System Software Modeling Error Results in Conditions Prohibited by Technical Specifications.
+ On June 17, 2021, with Perry Nuclear Power Plant (PNPP) operating at 100 percent power, PNPP received a letter from Gneral Electric - Hitachi (GEH) issuing SC 21-04, Revision 1, "Fuel Support Side Entry Orifice Meta-Stable Flow for 2 Beam Locations in the BWR/6 Reactors," identifying that the Global Nuclear Fuels (GNF) model for fuel affected by the Side Entry Orifices did not accurately account for the loss coefficients at those core locations causing a local overprediction in Minimum Critical Power Ratio (MCPR) margin. This resulted in the determination by PNPP that a condition prohibited by Technical Specifications (TSs) had existed at PNPP and this report being made in accordance with 10 CFR 50.73(a)(2)(i)(B). 
+
+ The cause of the event is a legacy issue that is due to the flow geometries below the reactor core plate in the areas of Intermediate Range and Source Range neutron detector dry tubes, causing a local overprediction in MCPR margin resulting in exceeding the MCPR TS limit. 
+
+ Corrective actions include updating the Cycle 19 Core Operating Limits Report (COLR) and associated documents to account for SC 21-04, Revision 1, and updating the Thermal Limit Files in the core monitoring software.

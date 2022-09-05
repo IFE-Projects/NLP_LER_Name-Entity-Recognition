@@ -1,0 +1,11 @@
+Plant: Prairie Island 2.
+12 Diesel Driven Cooling Water Pump Auto Start due to Low System Pressure.
+ On January 26, 2021, the Prairie Island Nuclear Generating Plant (PINGP), 12 Diesel Driven Cooling Water Pump (DDCLP) auto started. Maintenance was in progress on 22 DDCLP and 121 Motor Driven Cooling Water Pump (MDCLP) was aligned as the replacement safety related pump for 22 DDCLP while non-safety related 21 Cooling Water (CL) pump was supporting the system loads. The 12 DDCLP auto started on a sensed low header pressure following the isolation of 22 Cooling Water Strainer for maintenance and subsequent auto initiation of backwash of the other Cooling Water Strainers. 
+
+ This event is reportable under 10CFR 50.73(a)(2)(iv)(A) due to a valid Emergency Service Water system actuation. 
+
+ There were no nuclear safety impacts. The system operated as designed. All systems responded normally. 
+
+ The direct cause of this event was low pressure at the discharge of 12 DDCLP due to the isolation of the Cooling Water Strainer while 22 DDCLP was isolated during low CL system flow conditions. 
+
+ The corrective actions included securing the 12 DDCLP. In addition, procedure updates are planned.

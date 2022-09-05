@@ -1,0 +1,7 @@
+Plant: Summer 1.
+Condition Prohibited by Technical Specification 3.6.1.1.
+ On November 21, 2019, at approximately 0217 while operating in Mode 1 at 30% reactor power, operators found the nitrogen supply header valves to the steam generators open and unlocked while performing Surveillance Test Procedure (STP) -115.001, "Penetration Isolation Verification". Satisfactory completion of STP-115.001 demonstrates Containment Integrity per Technical Specification (TS) Surveillance Requirement 4.6.1.1.a. The nitrogen supply header valves being open resulted in a condition prohibited by TS 3.6.1.1 since the valves were open longer than allowed by the TS 3.6.1.1.a Limiting Condition for Operation (LCO) action statement.
+
+ Immediate actions were taken to restore system alignment at the time of discovery. Since the Steam Generator secondary side was intact there was no direct open flow path from containment during the time the valves were open. 
+
+ This Licensee Event Report (LER) is being provided per the requirements of 10 CFR 50.73(a)(2)(i)(B) because Containment Integrity was not restored within the one hour LCO allowed outage time.

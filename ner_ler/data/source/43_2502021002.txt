@@ -1,0 +1,7 @@
+Plant: Turkey Point 3.
+Unrecognized Technical Specification Surveillance Requirement Non-Compliance.
+ On 4/15/2021 FPL identified that Reactor Protection System (RPS) Technical Specification Functional Unit (FU) 20 had not met Technical Specification Surveillance Requirements (TSSRs) during 5 discrete periods over the past 3 years. Due to RPS design limitations, FU20, Automatic Trip and Interlock Logic, could not be fully tested above the P8 interlock (45% reactor power). The trip functions not tested are automatically bypassed and not testable above the P8 interlock, but below P8 are active and TSSR 4.3.1.1 is applicable. During the identified periods the completion time was not met. Since the condition was unrecognized, action was not taken, resulting in discrete periods of non-compliance with the TSAS. 
+
+ The subject Actuation Logic Tests have since been completed and test frequencies adjusted in the Surveillance Frequency Control Program to accommodate the RPS system design. All FU20 trip functions are operable and within approved surveillance frequencies. 
+
+ This event is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B) for a condition prohibited by Technical Specifications.

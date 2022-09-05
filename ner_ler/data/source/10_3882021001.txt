@@ -1,0 +1,9 @@
+Plant: Susquehanna 2.
+Condition Prohibited by Technical Specifications due to Drift of Reactor Pressure Switch.
+ On July 6, 2021, the Unit 2 "D" Reactor Steam Dome Pressure - Low permissive pressure switch, Microswitch 2, was found outside of the Technical Specification (TS) 3.3.5.1 allowable value. The switch drifted outside of the lower allowable value which is intended to ensure that the Emergency Core Cooling System (ECCS) injection prevents the fuel peak cladding temperature from exceeding the limits of 10 CFR 50.46. 
+
+ Based on the information available, the condition likely existed for longer than allowed by TS 3.3.5.1, TS 3.5.1, and TS 3.0.3. As such, this is a condition prohibited by TS and is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B). In addition, since the "C" channel (PIS-B21-2N021C) was surveillance tested just prior to identification of the drift of the "D" channel (PS-B21-2N021D), redundant channels were inoperable at the same time impacting both Core Spray and LPCI functions; therefore, this is also considered a condition that could have prevented fulfillment of a safety function (10 CFR 50.73(a)(2)(v)(D)) and a common cause inoperability of independent trains or channels (10 CFR 50.73(a)(2)(vii)). 
+
+ The cause of the event is under investigation and will be provided under a supplement to this LER along with associated corrective actions. 
+
+ There were no actual consequences to the health and safety of the public as a result of this event.

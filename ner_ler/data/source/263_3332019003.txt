@@ -1,0 +1,7 @@
+Plant: FitzPatrick.
+Safety Relief Valves Out of Tolerance.
+ The As-Found test results for the eleven Safety/Relief Valve (S/RV) pilot assemblies removed and replaced during the 2018 Refueling Outage at James A. FitzPatrick Nuclear Power Plant (JAF) identified eight (8) S/RV pilot assemblies that lifted outside of the allowable tolerance required by Technical Specification Surveillance Requirement 3.4.3.1. Eight (8) two-stage S/RV’s were found out of tolerance high. The eight S/RV pilot assemblies are assumed to have been inoperable at some point in the operating cycle that preceded the 2017 Refueling Outage resulting in a condition reportable pursuant to 10 CFR 50.73(a)(2)(i)(B). 
+
+ The S/RV design features an electric actuation capability that provides a diversified means of opening the S/RV’s despite the out of tolerance condition. However, the electric lift function is considered a backup to the mechanical S/RV’s and is not credited in the accident analysis. Therefore, the TS inoperability of the eight (8) S/RV’s also resulted in a condition reportable pursuant to 10 CFR50.73(a)(2)(v)(D). 
+
+ The cause of the two-stage failures has been identified as corrosion bonding. The safety consequences associated with this event are considered low due to the electric actuation capability.

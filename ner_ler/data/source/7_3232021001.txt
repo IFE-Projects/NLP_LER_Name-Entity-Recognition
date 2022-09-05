@@ -1,0 +1,7 @@
+Plant: Diablo Canyon 2.
+Emergency Diesel Generator declared Inoperable due to Low Frequency Condition Discovery During Routine Surveillance.
+ On July 22, 2021, with Diablo Canyon Power Plant (DCPP) Unit 2, operating at 100 percent power, DCPP personnel determined that since June 30, 2021, Emergency Diesel Generator (EDG) 2-3 would not have been able to attain Technical Specification (TS) minimum frequency when started in automatic. Manual control of diesel frequency was not affected. This condition was discovered via a routine surveillance test which evaluates, in part, EDG frequency during standby and loading conditions. 
+
+ This event is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as an operation of the plant in a condition prohibited by DCPP TS due to the EDG frequency being outside TS required limits for a period beyond the TS required completion time. This event is also being reported pursuant to 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented fulfillment of a safety function. However, upon discovery, the remaining two of the three EDGs were operable. 
+
+ The condition was corrected and the EDG was restored to Operable status on July 22, 2021. A subsequent evaluation determined that the low frequency condition did not prevent EDG 2-3 from performing its specified safety function.

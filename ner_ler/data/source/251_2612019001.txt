@@ -1,0 +1,7 @@
+Plant: Robinson 2.
+Turbine Trip / Reactor Trip due to Main Generator Lockout.
+ At 0840 hours Eastern Daylight Time (EDT) on 08/11/2019 with the plant in Mode 1 at 100 percent power, H. B. Robinson Steam Electric Plant, Unit No. 2 (HBRSEP2), experienced an electrical fault within the main generator exciter. The exciter field breaker tripped due to a loss of generator field excitation, causing a main generator lockout. As a result, HBRSEP2 experienced an automatic turbine trip and subsequent reactor trip. Plant safety systems operated as designed. Auxiliary Feedwater Pumps started as expected. The plant was stabilized in Mode 3 and subsequently cooled to Mode 4. 
+
+ The exciter was removed and shipped from HBRSEP2 to a vendor where it was disassembled, tested and inspected. This inspection identified extensive exciter damage. Due to the extensive damage, the precise failure cause is indeterminate. 
+
+ Actions taken to correct the condition were to reinstall a refurbished exciter. HBRSEP2 returned to power operation on 09/03/2019. There was no impact to the health and safety of the public as a result of this event.

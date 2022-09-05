@@ -1,0 +1,7 @@
+Plant: Calvert Cliffs 2.
+Manual Reactor Trip due to Lowering Steam Generator Level Following Main Feedwater Regulating Valve Going Shut.
+ On March 21, 2021 at 2219 while returning Unit 2 to full power following a refueling outage, a manual reactor trip was initiated due to lowering water levels in 21 Steam Generator. This event was caused by 21 Steam Generator Feedwater Regulating Valve, 2CV1111, failing shut. 
+
+ Troubleshooting determined that 21 Steam Generator Feedwater Regulating Valve Positioner B, 2ZC1111B, had malfunctioned due to the presence of foreign material in the positioner. Since the redundant positioner, 21 Steam Generator Feedwater Regulating Valve Positioner A, 2ZC1111A, was already out of service, no automatic transfer to the redundant positioner occurred and 2CV1111 failed in the shut position. This resulted in 21 Steam Generator water levels lowering to near the automatic trip setpoint level at which point a manual reactor trip was initiated. Water levels were restored to 21 Steam Generator by a manual start of an Auxiliary Feedwater Pump. 
+
+ Following troubleshooting, Maintenance replaced both positioners and subsequently completed post maintenance testing to demonstrate the satisfactory operation of the positioners and 2CV1111. Operations then commenced actions to return Unit 2 to power operation.

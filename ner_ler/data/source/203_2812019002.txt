@@ -1,0 +1,7 @@
+Plant: Surry 2.
+Auxiliary Feedwater System Loss of Safety Function due to Check Valve Failure to Close.
+ At 2144 [EST] on 11/20/2019, with Unit 2 at 100 percent power, all three (3) Unit 2 Auxiliary Feedwater (AFW) pumps were declared inoperable due to the Unit 2 Turbine Driven (TD) AFW pump discharge check valve failing to completely close, which caused flow from a running Unit 2 Motor Driven (MD) AFW to partially recirculate back to the Emergency Condensate Storage Tank. At 2203 the two (2) MDAFW pumps were declared operable after the discharge isolation valves for the TDAFW pump were closed. 
+
+ The Unit 2 TDAFW discharge check valve condition existed from 10/28/19 to 11/20/19 and could have adversely impacted the ability of AFW to function properly. The cause of this event was determined to be excessive wear on the discharge check valve disc assembly parts causing the disc to stick partially open.
+
+ The safety consequences associated with this event are bounded by the safety analyses documented in UFSAR Chapter 14. The affected check valve's internal assembly parts were replaced. To prevent recurrence, a corrective action is planned to periodically inspect and/or replace the check valve internals, as needed, on both units. Unit 1 was not impacted by this event since it was in cold shutdown at the time.

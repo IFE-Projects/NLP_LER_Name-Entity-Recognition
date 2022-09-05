@@ -1,0 +1,7 @@
+Plant: Peach Bottom 3.
+Emergency Diesel Generator Shutdown due to Intercooler Low Pressure Results in Condition Prohibited by Technical Specifications.
+ On 2/26/20, Emergency Diesel Generator #1 (E-1) was started for a monthly surveillance test. Shortly after reaching full speed, E-1 tripped due to low intercooler coolant pressure. Troubleshooting identified air in the coolant system. Further investigation determined the air was introduced into the system during maintenance activities earlier in the month and not adequately vented at the conclusion of the maintenance.
+
+ The system was vented and returned to an operable status on 2/27/20. Corrective actions include revising procedures to improve guidance for venting. 
+
+ There were no actual safety consequences as a result of this event. This event is being reported pursuant to the requirements of 10 CFR 50.73(a)(2)(i)(B) for an operation or condition prohibited by Technical Specifications.

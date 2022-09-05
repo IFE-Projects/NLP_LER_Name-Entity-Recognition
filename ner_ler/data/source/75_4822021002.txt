@@ -1,0 +1,7 @@
+Plant: Wolf Creek.
+Compensatory Measures Implemented Late for Protected Area Boundary Vulnerability.
+ On January 1, 2021, at 0744 Central Standard Time (CST), with the plant in Mode 1 at 100 percent power, Wolf Creek Generating Station security personnel discovered an uncompensated security vulnerability that could have allowed unauthorized or undetected access to a protected area of the plant. Upon further review, it was realized that compensatory measures had not been implemented within the time required. Compensatory measures were then promptly established and an immediate investigation was conducted, which did not reveal any evidence of unauthorized entry or tampering. 
+
+ At 0830 CST, Security Management determined that this was a 1-hour reportable event in accordance with 10 CFR 73.71(b)(1). The shift manager made a 1-hour report to the NRC Operations Center at 0925 CST (ENS# 55054). 
+
+ This report is being submitted in accordance with the requirements of 10 CFR 73.71(a)(4), 73.71(b)(2), and 73.71(d).

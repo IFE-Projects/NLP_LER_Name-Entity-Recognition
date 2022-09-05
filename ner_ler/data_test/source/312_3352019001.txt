@@ -1,0 +1,9 @@
+Plant: St. Lucie 1.
+Automatic Reactor Trip Caused by Main Generator Ground Resulting in Generator Lockout/Loss of Load.
+ On April 25, 2019, St. Lucie was in Mode 1 at 100 percent reactor power. At 0918 hours the reactor tripped due to a generator lockout during reactive power lagging capability testing. The trip was uncomplicated and all safety systems responded as designed. The plant was stabilized in Mode 3 with decay heat removal via the main feedwater system and condenser steam bypass system. 
+
+ The direct cause of the generator lockout was attributed to a localized breach in the ground wall insulation of stator bar B17. The quarantined equipment was tested at the original equipment manufacturer (OEM) testing facility. The causal analysis could not establish a root cause for the defect. 
+
+ The generator repairs and post maintenance testing were successfully completed. 
+
+ Automatic reactor trips are analyzed events in the Updated Final Safety Analysis Report (UFSAR). The trip and post trip actions were uncomplicated. Therefore, this event had no impact on the health and safety of the public.

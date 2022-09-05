@@ -1,0 +1,9 @@
+Plant: Hope Creek.
+Safety Relief Valve (SRV) As-Found Setpoint Failures.
+ On June 14, 2021, Hope Creek Generating Station (HCGS) received results that two ‘as-found’ setpoint tests for safety relief valve (SRV) pilot stage assemblies (A and J) had exceeded the lift setting tolerance of +/- 3% of the nominal setpoint value prescribed in Technical Specification (TS) 3.4.2.1. Additionally, one SRV (R) did not lift when tested. 
+
+ This is a condition reportable under 10 CFR 50.73(a)(2)(i)(B). 
+
+ Setpoint exceedance for two of the SRV pilot stage assemblies is attributed to corrosion bonding between the pilot discs and seating surfaces, which is consistent with industry experience. This conclusion is based on previous cause evaluations and the repetitive nature of this condition at HCGS and within the BWR industry. The cause of the R SRV not lifting was main disc and piston thread wear. This conclusion is based on a failure analysis performed at the vendor. 
+
+ The affected SRV pilot assemblies were replaced with pre-tested, certified spare assemblies. The R SRV was replaced.

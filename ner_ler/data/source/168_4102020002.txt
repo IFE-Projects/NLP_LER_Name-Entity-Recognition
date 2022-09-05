@@ -1,0 +1,7 @@
+Plant: Nine Mile Point 2.
+Failure to Meet Technical Specification MSIV Stroke Times.
+ On March 6, 2020 while at 0% power and in Cold Shutdown (Mode 4), Nine Mile Point Unit 2 determined through surveillance testing that three Main Steam Isolation Valves did not to meet their Technical Specification (Tech Spec) closure time of less than 5 secs. Two of the three valves are in a common Main Steam Line.
+
+ This event is reportable under 10 CFR 50.73(a)(2)(v)(C) and 10 CFR 50.73(a)(2)(vii) for the failure of two MSIVs in a common line not meeting Technical Specification MSIV Stroke Times. 
+
+ The cause of the MSIV failures has been determined to be delayed air pack response. The delay was caused by a buildup of corrosion product and waxy foreign material believed to be dried pipe thread sealant or O-ring assembly lube that accumulated on the internal surfaces of the air pack during refurbishment by the vendor Trillium (previously Hiller). This report also is intended to satisfy the reporting requirements of 10 CFR Part 21.

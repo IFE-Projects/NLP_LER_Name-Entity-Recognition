@@ -1,0 +1,9 @@
+Plant: Cook 1.
+Condition Prohibited by Technical Specification due to an Inoperable Steam Generator Stop Valve Dump Valve.
+ On May 6, 2019, 1-MRV-222, Steam Generator 2 Stop Valve Train 'B' Dump Valve, was stroke timed in Mode 4, coming out of the U1C29 refueling outage. The valve stroked in approximately 4.4 seconds with an allowable time of 2.0 seconds. A second stroke was performed and the valve appeared to stroke much faster. After the packing was wetted, the valve was then retested and passed with a stroke time of 1.76 seconds.
+
+ On May 29, 2019, 1-MRV-222 was stroked for its quarterly test, and again failed with a stroke time of 6.84 seconds.
+
+ A Past Operability Determination Evaluation was performed and concluded that 1-MRV-222 was inoperable from May 7, 2019, when Unit 1 entered Mode 3, until it passed its surveillance after being repacked and tested on May 30, 2019. The time period over which 1-MRV-222 was inoperable exceeded the time allowed by Technical Specification (TS) 3.7.2, SGSVs. Unit 1 also entered a Mode of applicability with 1-MRV-222 inoperable, which is prohibited without meeting LCO 3.0.4.
+
+ Therefore, this event is reportable as an Operation or Condition Prohibited by TS in accordance with 10 CFR 50.73(a)(2)(i)(B).

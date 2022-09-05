@@ -1,0 +1,9 @@
+Plant: Callaway.
+Inoperability of CREVS B Train.
+ On July 17, 2019, the thermal overload relay for control room filtration fan B tripped when the fan was secured from surveillance testing. This resulted in the B train of the Control Room Emergency Ventilation System (CREVS) being declared inoperable at 2134 CDT, at which time Condition A of TS 3.7.10 was entered. The trip occurred approximately 4 hours and 48 minutes after the fan was started. The CREVS B train was restored to operable status on July 19, 2019 at 1710 CDT after the thermal overload relay was adjusted to prevent inadvertent tripping during normal operation. 
+
+ A modification to replace the motor control center bucket for control room filtration fan B was installed June 18, 2019. The thermal overload settings and the thermal overload device used in this modification were in accordance with electrical design calculation NG-23 which used design documents specifying a 3.15 brake horsepower (BHP). The calculation, however, was based on design documents specifying a brake horsepower value that had not been updated to reflect the results of testing performed on the fan by its manufacturer prior to installation at the Callaway Plant (i.e., during plant construction). This resulted in the establishment of a thermal overload relay setting too close to actual fan performance. Past operability was evaluated and could not be supported from the time the modification was installed to the time when the control room filtration fan tripped. 
+
+ This condition is required to be reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as a condition or operation prohibited by the Technical Specifications. 
+
+ The cause of the event was the fan motor current exceeding the setpoint of the thermal overload relay. Corrective actions include correcting the applicable design documents.

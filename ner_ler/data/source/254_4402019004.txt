@@ -1,0 +1,9 @@
+Plant: Perry.
+Loss of Feedwater Heating Results in Loss of Safety Function.
+ On August 6, 2019, at 1335 hours, while performing feedwater heater alignments, a partial loss of feedwater heating occurred due to the isolation of the 5A and 6A feedwater heaters, resulting in lowering the temperature of feedwater to the reactor vessel by approximately 38 degrees F. This caused the Turbine First-Stage pressure to be outside of the normal calibration value, thereby changing instrumentation setpoints, and resulting in the INOPERABILITY of Reactor Protection System (RPS) instrumentation functions for Turbine Stop Valve Closure and Turbine Control Valve Fast Closure, End of Cycle Recirculation Pump Trip (EOC-RPT) instrumentation, and Control Rod Block instrumentation. 
+
+ The Direct Cause is determined to be the continued rise of water level in the heater, after the emergency drain valve reached 100% demand, actuating the high-high isolation level switch. 
+
+ The apparent cause was determined to be inadequate organizational communication following a change in the feedwater heater level control tuning strategy. A contributing cause was determined to be a lack of written guidance for Instrument and Control (I&C) technicians to perform the feedwater heater mode transfer successfully.
+
+ The increase in risk for this event is considered very small in accordance with the Regulatory Guidance. This event is reported in accordance with 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment of a safety function.

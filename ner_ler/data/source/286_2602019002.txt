@@ -1,0 +1,7 @@
+Plant: Browns Ferry 2.
+Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints.
+ On May 29, 2019, the Tennessee Valley Authority was notified of as-found testing results that three Main Steam Relief Valves (MSRVs) from Unit 2 were outside the +/- 3 percent setpoint band required for operability. It was determined that these MSRVs failed due to corrosion bonding to the valve seat as a result of its platinum anti-corrosion coating flaking off. Previously, on April 27, 2018, MSRV BFN-2-PCV-001-0041 had been declared inoperable due to excessive leakage. Failure of this MSRV was caused by a delamination of a portion of the platinum anti-corrosion coating which lead to the leak. 
+
+ More than one MSRV was considered to be inoperable during the entire operating cycle and longer than permitted by Technical Specifications. The affected valves remained capable of maintaining reactor pressure within American Society of Mechanical Engineers code limits. 
+
+ All thirteen of the MSRV pilot valves have been replaced during the Unit 2 Spring 2019, refueling outage. The previous corrective action from LER 50-259/2018-007-00 to perform nitrogen leak testing prior to platinum coating had not yet been implemented for these valves. This continues to be the corrective action to prevent recurrence. In addition, an improved method of applying the platinum to the pilot discs will now be used which provides a more consistent and forgiving finish on the pilot valve seating surface.

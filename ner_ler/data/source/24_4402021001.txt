@@ -1,0 +1,7 @@
+Plant: Perry.
+Division 3 EDG Inoperability Resulting in an Operation or Condition Prohibited by Technical Specifications.
+ On June 1, 2021, with the Perry Nuclear Power Plant operating at 100 percent power an operation or condition prohibited by Technical Specifications occurred. During the monthly Division 3 Diesel Generator (DG) run on June 1, 2021, erratic output voltage was noted for approximately 45 seconds after start. At the time operations had reasonable expectation of operability and requested a Follow-up Operability Determination (FOD). Results from the Division 3 DG FOD could not support continued Operability of the Division 3 DG. The Division 3 DG was declared inoperable and unavailable on June 3, 2021 at 18:15. 
+
+ The most plausible cause for the erratic output voltage falling below the allowable band during startup is an internal infant component mortality failure of the voltage regulator. The component will be sent for failure analysis. 
+
+ On June 1, 2021 at 10:15, when erratic output voltage was first noted for the Division 3 Diesel Generator, entry into TS 3.8.1 Condition B and the accompanying actions did not occur. Surveillance requirement 3.8.1.1 was not performed as required within one hour and subsequent action TS 3.8.1 Condition F was also not met to be in Mode 3 in 12 hours. Since completion times were not met for TS 3.8.1 Condition F, this issue is reportable under 50.73(a)(2)(i)(B) as an operation or condition prohibited by the plant's technical specifications.

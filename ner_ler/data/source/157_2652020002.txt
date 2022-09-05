@@ -1,0 +1,7 @@
+Plant: Quad Cities 2.
+Electromatic Relief Valve 3D Did Not Actuate Due to Out of Specification Plunger.
+ On March 30, 2020, with the unit in shutdown, Quad Cities Nuclear Power Station (QCNPS) Unit 2, Electromatic Relief Valve (ERV) 2-0203-3D, 2D Main Steam Line Relief Valve, did not stroke in accordance with work package instructions. The valve was being tested to satisfy Technical Specification Surveillance Requirement (TS SR) 3.5.1.10, Verify each Automatic Depressurizing System (ADS) valve actuator strokes when manually actuated. All other Unit 2 ADS valves were found to stroke satisfactorily.
+
+ The cause of the failure was an out of specification plunger received from the vendor. The failure will be prevented by determining and implementing appropriate purchase requirements to ensure new plungers meet the vendor specifications for this part.
+
+ This is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B), any operation or condition which was prohibited by the plant's Technical Specification. TS 3.5.1 Condition H allows one ADS valve to be inoperable for a period of 14 days. This ADS valve was found to be inoperable for the entire cycle.

@@ -1,0 +1,9 @@
+Plant: Palo Verde 2.
+Automatic Actuation of the Reactor Protection System Resulting from a Loss of Reactor Coolant Pumps.
+ On February 26, 2021, at approximately 1033 Mountain Standard Time, a reactor trip of PVNGS Unit 2 occurred. A loss of power to the 13.8 kV non-class bus without a subsequent, expected fast bus transfer, caused two of four Reactor Coolant Pumps to trip. This resulted in an automatic, uncomplicated Unit 2 reactor trip when the Reactor Protection System generated trips on all four channels for low departure from nucleate boiling ratio and high local power density following a main turbine generator trip. 
+
+ The event was initiated by inadvertent contact of a test switch in the Salt River Project switchyard. The probable cause of the failure to initiate a fast bus transfer was found to be surface debris and contaminants on the circuit contacts of the fast bus transfer auto/manual selector switch. The switch was replaced on February 27, 2021. Unit 2 entered Mode 1 on February 28, 2021. 
+
+ No other Reactor Protection System actuation signals or actuations of plant engineered safety features systems occurred and all control element assemblies fully inserted into the reactor core. PVNGS Unit 1 and Unit 3 were operating at 100 percent power at the time of the event and were not impacted by the Unit 2 reactor trip. 
+
+ Two previous similar events were reported by PVNGS in the last 3 years via Licensee Event Reports (LER) 05000529-2019-001-00 and 05000530-2018-001-00.

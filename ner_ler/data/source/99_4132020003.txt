@@ -1,0 +1,7 @@
+Plant: Catawba 1.
+Valid Actuation of the Unit 1 Reactor Protection System and Auxiliary Feedwater System.
+ At 0925 [EST] hours on September 8, 2020, with Unit 1 in Mode 1 at approximately 100 percent power, Catawba Unit 1 experienced an automatic reactor trip on Overpower Delta Temperature. During routine Nuclear Instrumentation System calibration activities, Unit 1 Channel 1 Overpower Delta Temperature was placed in a tripped condition as part of a planned evolution. As a result of human error, an inadvertent Channel 2 Overpower Delta Temperature signal was received which initiated the reactor trip. The trip was not complex, with all systems responding normally post-trip. Because of the reactor trip, the Auxiliary Feedwater system actuated as expected due to an Anticipated Transient Without Scram Mitigation System Actuation Circuitry signal. 
+
+ The cause of the reactor trip was a human performance error in which a performer did not perform self-checking prior to pulling a Nuclear Instrumentation System power range drawer. Corrective actions include appropriate accountability and remediation actions with a focus on specific behaviors for all maintenance plant manipulations. 
+
+ There was no impact to the health and safety of the public.

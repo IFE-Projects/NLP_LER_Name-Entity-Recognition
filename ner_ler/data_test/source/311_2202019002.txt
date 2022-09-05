@@ -1,0 +1,7 @@
+Plant: Nine Mile Point 1.
+Condition Prohibited by Technical Specifications due to Vacuum Breaker Not Locked Closed.
+ On April 25, 2019, Nine Mile Point Unit 1 discovered that one vacuum breaker was not kicked closed, as required by Technical Specification 3.3.6.f.(2). The mode of applicability was entered three times on previous startups. This event is reportable under 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+
+ The cause of the event Operations personnel have not consistently implemented the Degraded Equipment Log (DEL)/Equipment Status Log (ESL) to track operability concerns of systems and components. Action to prevent recurrence is reinforce implementation of the process to institutionalize use of the DEL/ESL into day to day operations.
+
+ The event described in this LER is documented in the plant's corrective action program.

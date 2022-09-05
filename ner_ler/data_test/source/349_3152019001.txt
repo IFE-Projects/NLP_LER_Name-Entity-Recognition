@@ -1,0 +1,11 @@
+Plant: Cook 1.
+Two Main Steam Safety Valve Setpoints Found Outside Technical Specification Limits.
+ On March 4, 2019, Donald C. Cook Unit 1 was in Mode 1 and holding at approximately 49% reactor power while performing Technical Specification (TS) surveillance testing on the Main Steam Safety Valves (MSSVs) setpoints, just prior to the Unit 1 Cycle 29 (U1C29) Refueling Outage.
+
+ The Unit 1 Steam Generator (SG) #2 MSSVs 1-SV-1B-2 and 1-SV-2A-2 as found setpoints were above the TS allowable setpoint pressure of +/- 3% lift setpoint pressure. 
+
+ Based on the guidance in NUREG-1022, Revision 3, the Unit 1 SG #2 MSSVs were considered to be inoperable longer than allowed by TS. 
+
+ The cause of the failure was determined to be setpoint drift. The MSSV setpoints were adjusted and, after adjustment, the MSSVs passed the as left testing criteria of +/- 1% lift setpoint pressure. Since a similar cause was determined for both unsatisfactory as found lift pressures, this condition may have arisen over a period of time, and there is a likelihood that the affected MSSVs may not have been operable during plant operation. 
+
+ Therefore, this event is reportable as an Operation or Condition Prohibited by TS in accordance with 10 CFR 50.73(a)(2)(i)(B).

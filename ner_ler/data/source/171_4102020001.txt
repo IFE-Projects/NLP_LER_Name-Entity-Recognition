@@ -1,0 +1,5 @@
+Plant: Nine Mile Point 2.
+Manual Scram due to an Electro-Hydraulic Control Fluid Leak on the Turbine Control System.
+ On March 4, 2020 at 12:05, Nine Mile Point Unit 2 (NMP2) inserted a manual reactor scram due to lowering Electro-Hydraulic Control System (EHC) level in the turbine control system. An un-isolable leak occurred when a 1/2-inch stainless steel tube failed on the EHC supply header. The plant responded as designed following the manual scram with all safety systems remaining in a normal standby lineup. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as any event or condition that resulted in a manual or automatic actuation of any of the systems listed in 10 CFR 50.73(a)(2)(iv)(B). 
+
+ The cause of the event is inadequate procedure quality that prevented the performance of appropriate preventative maintenance resulting in cyclic fatigue failure of the EHC line. The corrective actions include improving the preventative maintenance procedure and system monitoring strategies.

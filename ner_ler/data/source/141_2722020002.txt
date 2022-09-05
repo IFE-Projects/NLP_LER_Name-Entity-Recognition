@@ -1,0 +1,7 @@
+Plant: Salem 2.
+Salem Unit 1 and Unit 2 RHR Availability for Emergency Core Cooling in Mode 4.
+ On 5/5/2020, an evaluation determined that in MODE 4, the temperature of the fluid in the residual heat removal (RHR) pump suction header exceeded the temperature which, under postulated shutdown loss of coolant accident (LOCA) conditions, could have resulted in cavitation of the RHR system. The condition is postulated to occur during both the injection phase, when suction is aligned to the refueling water storage tank (RWST) as well as the recirculation phase when suction is aligned to the Emergency Core Cooling (ECCS) sump. This postulated condition results in the inoperability of the RHR system while in MODE 4. 
+
+ Corrective actions to revise the affected procedures have been created. Interim corrective actions are in place until procedure revisions are completed. 
+
+ This event is reportable in accordance with 10 CFR 50.73(a)(2)(v)(D), 10 CFR 50.73(a)(2)(i)(B), and 10 CFR 50.73(a)(2)(vii).

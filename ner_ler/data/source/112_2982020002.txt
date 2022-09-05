@@ -1,0 +1,7 @@
+Plant: Cooper Station.
+Secondary Containment Differential Pressure Perturbation Results in Potential Loss of Safety Function.
+ On October 6, 2020, a spike in Secondary Containment differential pressure occurred exceeding the Technical Specifications limit of -0.25 inch of water gauge causing Secondary Containment to be inoperable for 3 minutes. The spike was due to a Reactor Building heating, ventilation, and air conditioning vortex damper that was binding and had an air leak in an associated instrument tubing. 
+
+ Causal factors were an elevated operating force necessary to reposition the vortex damper and an air-line leak that developed due to contact between instrument tubing and a support brace. 
+
+ The instrument tubing for the vortex damper was replaced and rubber material placed to prevent contact with the support brace. In addition, action will be taken to reroute the instrument tubing. Maintenance was performed to reduce the closing forces of the vortex damper. Maximum acceptable opening and closing forces will be determined and maintenance plans updated. There was no impact on nuclear safety, plant reliability, radiological safety, or industrial safety.

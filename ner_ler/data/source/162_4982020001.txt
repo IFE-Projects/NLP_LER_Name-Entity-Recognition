@@ -1,0 +1,7 @@
+Plant: South Texas 2.
+Automatic Actuation of Emergency Diesel Generators due to Lockout of Switchyard Electrical Bus.
+ On March 24, 2020 with Unit 1 defueled and Unit 2 at 100% power, the South Texas Project 345 kV south switchyard electrical bus unexpectedly de-energized. The de-energization of the south bus resulted in a loss of power to Standby Transformer 2 which was supplying power to the Engineered Safety Features (ESF) 4160V busses for the Unit 1 A- and C-Trains and Unit 2 B-Train. Emergency Diesel Generators 11, 13, and 22 automatically started in response to the undervoltage condition, as designed. 
+
+ The cause of this event was a human performance error made by a Transmission and Distribution Service Provider employee during planned relay testing in the switchyard. This event is reportable as an event that resulted in the automatic actuation of the Unit 1 and Unit 2 emergency AC electrical power systems and reactor containment fan coolers, as well as the Unit 2 Auxiliary Feedwater Pump. Planned corrective actions include procedure changes intended to increase oversight of switchyard work activities and assignment of a dedicated Switchyard Coordinator. 
+
+ The event did not result in any offsite release of radioactivity or increase of offsite dose rates and there were no personnel injuries or damage to any safety-related equipment associated with this event. Additionally, all ESF equipment operated as designed. Therefore, there was no adverse effect on the health and safety of the public.

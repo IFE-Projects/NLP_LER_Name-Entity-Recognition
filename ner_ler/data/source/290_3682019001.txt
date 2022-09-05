@@ -1,0 +1,7 @@
+Plant: Arkansas 2.
+Reactor Trip due to a Reactor Coolant Pump Motor Failure.
+ On May 26, 2019, the Arkansas Nuclear One, Unit 2 (ANO-2), reactor automatically tripped due to a fault and subsequent trip of Reactor Coolant Pump (RCP) 2P-32B. 
+
+ The direct cause of the event was determined to be the loss of stator core compression coupled with broken compression finger welds allowing a finger to migrate into contact with the RCP rotor. The broken finger plate section damaged the stator insulation resulting in a short to ground. 
+
+ The plant transient led to an automatic reactor trip due to a Plant Protection System actuation. After the reactor trip, the unit was stabilized in Mode 3 with Emergency Feedwater (EFW) initially being used to maintain plant temperature under automatic control.

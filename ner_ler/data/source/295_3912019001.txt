@@ -1,0 +1,7 @@
+Plant: Watts Bar 2.
+Manual Reactor Trip due to Main Feedwater Regulating Valve Failing Closed.
+ On May 22, 2019, at 0233 Eastern Daylight Time (EDT), Watts Bar Nuclear Plant Unit 2 reactor was manually tripped due to a failure of the Steam Generator (SG) number 2 Main Feedwater Regulating Valve (MFRV) during power ascension following a refueling outage. Concurrent with the reactor trip, the Auxiliary Feedwater system actuated as designed. All Control and Shutdown rods fully inserted. All safety systems responded as designed. 
+
+ This event was caused by a defective actuator diaphragm that led to premature failure and subsequent loss of control of the SG 2 MFRV. Contributing to this event, personnel missed an opportunity to identify the actuator diaphragm was defective during its replacement. Corrective actions include replacement of the defective diaphragm and revising the procedure for diaphragm inspection and installation. 
+
+ This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).

@@ -1,0 +1,5 @@
+Plant: Callaway.
+Mode 4 Entry with Inoperable Auxiliary Building Pressure Boundary.
+ On May 11, 2019, during mode ascension exiting from Refueling Outage 23, Callaway Plant entered Mode 4 from Mode 5 while not in compliance with Technical Specification 3.7.13, "Emergency Exhaust System (EES)." Specifically, a door that is a part of the Auxiliary Building pressure boundary was not closed prior to Mode 4 entry. This mode transition was not in compliance with the requirements of LCO 3.0.4. This event was previously reported as an event or condition that could have prevented fulfillment of a safety function per ENS 54061, but that notification is being retracted.
+
+ This event was caused by the failure to initiate equipment out of service tracking when a pressure boundary door was impaired. Callaway administrative procedures for control of hazard barriers will be revised to ensure that mode change restrictions associated with hazard barrier impairment are appropriately tracked.

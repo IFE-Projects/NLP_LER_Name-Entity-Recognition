@@ -1,0 +1,5 @@
+Plant: Comanche Peak 2.
+LTOP Power Operated Relief Valve (PORV) Setpoint.
+ On February 2, 2019 at 1500, Westinghouse reported that while reviewing the Low Temperature Overpressure (LTOP) system analysis of record (CN-SCS-04-100, Rev. 3) for areas of margin that could offset the increase in differential pressure required to support the Mechanical Stress Improvement Project (MSIP), errors were discovered. On March 9, 2019 an evaluation was completed that determined the Unit 2 LTOP system had been inoperable in the past for longer than allowed by Technical Specifications. Corrective actions include changing the LTOP PORV lift settings, on both Units 1 and 2 to meet the protection requirements of 10 CFR 50 Appendix G, Fracture Toughness Requirements.
+
+ All times listed in this report are Central Standard Time (CST).

@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Unit 2 Automatic Reactor Trip on Low-Low #24 Steam Generator Water Level.
+ On October 12, 2020, at 0026, Donald C. Cook Nuclear Plant Unit 2 Reactor automatically tripped from 100% power due to a Low-Low Steam Generator (SG) Water Level in #24 SG. 
+
+ The initiating event for this trip was a Human Performance Error that resulted in a degraded Main Condenser Vacuum. Auxiliary Operators were in the process of realigning blowdown, when a procedure use error resulted in a reduction of Vacuum. Unit 2 Control Room Operators recognized the degrading condenser vacuum, and took action to raise Main Feedwater demand while directing field operators to close a valve to restore vacuum. Vacuum subsequently recovered; however, Main Feedwater Pump performance had degraded to the point that sufficient Feedwater flow could not be supplied to the SGs to avoid tripping on Low-Low SG Water Level in #24 SG. 
+
+ The cause of this error was a procedure use error and the immediate corrective action was restoration of the SG Blowdown System to a normal operational alignment. This event was reported via Event Notification 54944 in accordance with 10 CFR 50.72(b)(2)(iv)(B), and 10 CFR 50.72(b)(3)(iv)(A). This event is also reportable as a Licensee Event Report in accordance with 10 CFR 50.73(a)(2)(iv)(A).

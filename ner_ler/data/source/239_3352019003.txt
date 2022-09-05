@@ -1,0 +1,9 @@
+Plant: St. Lucie 1.
+Inoperability of Emergency Diesel Generator due to Cracked Crankshaft.
+ On July 15, 2019, St. Lucie Unit 1 was in Mode 1 at 100 percent reactor power. At 0839 hours, the 1B Emergency Diesel Generator (EDG) was started for the monthly 1 hour loaded-run surveillance. At 0919 hours, the 1B EDG tripped due to high jacket water temperature. The subsequent investigation revealed that the 1B2 radiator fan on the 1B EDG was not rotating and that the 1B2 EDG crankshaft for the radiator fan was sheared. 
+
+ Repairs were made, and the 1B EDG was returned to service on July 28, 2019 at 1717 hours. The forensic investigation of the shaft and the root cause report for the failure were finalized on August 30, starting the 60-day reportability clock for this report. These reports provided evidence that the 1B2 EDG was inoperable for a time longer than permitted by the Technical Specifications. 
+
+ Metallurgy determined that the crankshaft tapered end failure was caused by fatigue. 
+
+ Based on the diverse methods for supplying electric power at the site, this condition had no major impact on the health and safety of the public.

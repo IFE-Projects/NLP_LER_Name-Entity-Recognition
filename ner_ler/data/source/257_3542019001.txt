@@ -1,0 +1,5 @@
+Plant: Hope Creek.
+Manual Scram and Manual Actuation of Reactor Core Isolation Cooling.
+ At 1906 EDT on August 3 2019, while in OPCON 1 at 93.8 percent power, operators identified degrading main condenser vacuum and commenced reducing power. Degrading vacuum was due to the circulating water cooling tower bypass valve failing open At 1947, the reactor was manually scrammed from 37 percent due to loss of condenser vacuum. Reactor feedwater pumps (RFP) tripped when reactor pressure vessel (RPV) water level rose to level 8 (+54 inches) because the reactor feedwater startup level control valve (SULCV) failed open Operators initiated the reactor core isolation cooling (RCIC) system, recovered a RFP and secured RCIC after establishing control of RPV water level The failed equipment was replaced. 
+
+ This event is reportable per 10 CFR 50 73(a)(2)(iv)(A).

@@ -1,0 +1,9 @@
+Plant: Pilgrim.
+Manual Reactor Scram due to Degrading Condenser Vacuum.
+ On Friday, May 17, 2019 at 2303 [EDT], with the reactor at approximately 70% core thermal power, Pilgrim Nuclear Power Station initiated a manual reactor scram due to degrading condenser vacuum as a result of the trip of Seawater Pump B. Investigation into the cause identified the Seawater Pump B breaker ground sensing relay in the tripped state. 
+
+ Following the Seawater Pump B trip and reactor scram, Main Condenser parameters responded as expected to a loss of seawater pump transient, no anomalies were noted. There were no radiological releases due to this event. All control rods inserted fully. All other plant systems responded as designed. 
+
+ This event had no impact on the health and/or safety of the public. 
+
+ This report is submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A).

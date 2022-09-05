@@ -1,0 +1,7 @@
+Plant: Peach Bottom 3.
+Failure of Reactor Mode Switch Results in Condition Prohibited by Technical Specifications.
+ On 10/21/19, Unit 3 was being shut down for a scheduled refueling outage. When the Reactor Mode Switch was moved to the Shutdown position, a reactor scram did not occur as expected. The operator depressed the nearby manual scram pushbuttons in accordance with plant procedures, which resulted in a successful scram of the reactor. 
+
+ An Unusual Event was declared as a result of this condition. Local, State and NRC notifications were made (ENS #54340). 
+
+ Investigation determined an internal connection in the switch had failed. The switch was repaired during the refueling outage. There were no actual safety consequences as a result of this condition.

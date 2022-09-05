@@ -1,0 +1,7 @@
+Plant: Braidwood 1.
+Unit Trip on Low Steam Generator Level due to Failure of a Controller on a Feedwater Regulating Valve.
+ On September 23, 2019 at 1106 hours, Braidwood Unit 1 reactor tripped due to lowering steam generator water levels following closure of the 1B steam generator feed water (FW) regulating valve. 
+
+ The cause of the event was an unexpected, premature internal failure of the FW regulating valve digital valve controller (DVC). Corrective actions completed included replacement of the failed DVC for the 1B FW regulating valve, as well as the DVCs for the remaining three Unit 1 steam generator FW regulating valves. Planned corrective actions include replacing the DVCs for Unit 2 Unit steam generator FW regulating valves at the next Unit 2 refueling outage. 
+
+ This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) for "Any event or condition that resulted in manual or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section, ..." Specifically, for 1) 10 CFR 50.73(a)(2)(iv)(B)(1) for the "Reactor protection system (RPS) including: reactor scram or reactor trip," and 2) 10 CFR 50.73(a)(2)(iv)(B)(6) for the "PWR auxiliary or emergency feedwater system."

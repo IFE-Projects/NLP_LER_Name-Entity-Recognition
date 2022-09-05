@@ -1,0 +1,7 @@
+Plant: Farley 2.
+Main Steam Safety Valve Lift Pressure Outside of Technical Specifications Limits due to Setpoint Drift.
+ On October 6, 2020, while in Mode 1 at 95% power level, it was discovered that a Unit 2 Main Steam Safety Valve (MSSV) failed its as-found lift pressure test. The MSSV lifted below the Technical Specification (TS) 3.7.1 allowable lift setting value. Setpoint drift due to inherit stresses created within the fabrication process of the spring is the most likely cause of the MSSV setpoint failure. 
+
+ It is likely that the MSSV was outside of the TS limits longer than the allowable completion times for the associated Required Action Statements during the operating cycle in all applicable modes of operation. Therefore, this condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS. The MSSV setpoint was adjusted to within the TS limits and returned to service restoring compliance. 
+
+ The MSSV that failed the surveillance setpoint test was replaced with a refurbished valve during the 2R27 refueling outage and sent to vendor for analysis.

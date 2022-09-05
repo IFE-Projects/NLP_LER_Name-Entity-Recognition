@@ -1,0 +1,7 @@
+Plant: Perry.
+Combustible Gas Mixing Compressor Inoperability resulting in a Technical Specification Violation.
+ On February 3, 2020, while performing testing on Combustible Gas Mixing Compressor (CGMC) B it tripped on thermal overload approximately 20 seconds after start. The trip resulted in Inoperability for the B compressor. Troubleshooting determined that the overload relay was degraded. On March 6th, 2020 it was discovered that a procedure inadequacy for overload relay testing resulted in a past inoperability of the CGMC B from November 1, 2019 to February 14, 2020. This is in violation of Technical Specification 3.6.3.3, which requires restoration within 30 days or be in in mode 3 within 12 hours. Due to instances of inoperability of CGMC A during this time period, this also resulted in a loss of safety function for the system. 
+
+ The direct cause was determined to be a degraded overload relay. The apparent cause was determined to be inadequate procedural guidance for testing the overload relay. The procedure was revised for clarification of testing this type of overload relay. 
+
+ The safety significance of this event is considered very small in accordance with the Regulatory Guidance. This event is reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as an operation or condition prohibited by the plant technical specifications, and 10 CFR 50.73(a)(2)(v)(C) as an event or condition that could have prevented the fulfillment of a safety function of the Combustible Gas Mixing System.

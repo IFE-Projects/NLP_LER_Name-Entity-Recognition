@@ -1,0 +1,9 @@
+Plant: Millstone 2.
+Failure of Two Main Steam Safety Valves to Lift Within the Technical Specification Acceptance Criteria.
+ With the plant in MODE 1 at 100% power on April 21 and April 22, 2020, set pressure testing of Millstone Power Station Unit 2 (MPS2) Main Steam Safety Valves (MSSVs) was conducted per plant procedures. Two MSSVs, 2-MS-242 and 2-MS-245, failed to lift within the +/-3% acceptance criteria listed in Technical Specification (TS) 3.7.1.1. Each valve was retested and declared operable before the next valve was tested. 
+
+ The most likely cause of the failure of two MSSVs to lift within the required set pressure range is disc to seat micro-bonding (seat sticking). 
+
+ Both valves were returned to operable status by two successive tests with results within +/-1% of the set pressure. This was accomplished without adjustment, well within the four hours allowed by the action statement and each valve was declared operable before the next valve was tested. Engineering performed an evaluation that concluded that there is reasonable assurance that valves 2-MS-242 and 2-MS-245 will lift at their design set pressures throughout the coming surveillance interval. 
+
+ This event is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by the plant's TS.

@@ -1,0 +1,5 @@
+Plant: Turkey Point 3.
+Technical Specification Action Not Taken for Unrecognized Inoperable Source Range Channel.
+ On 8/19/2020 during a reactor startup, a disparity was observed between the indicated values of both primary Source Range channels. A prompt investigation determined that one of the two Source Range channels was not indicating properly and that it was inoperable. A subsequent Past Operability Review concluded that the malfunctioning Source Range channel was inoperable from 4/1/2020 until it was repaired and declared operable on 8/24/2020. During this period Unit 3 had performed a total of three (3) reactor power manipulations when Technical Specifications required two Source Range channels to be operable. Since the status of the inoperable Source Range channel was unrecognized, actions prescribed by the applicable Technical Specification were not taken. 
+
+ This condition is reportable pursuant to 10 CFR 50.73 (a)(2)(i)(B) for a condition that was prohibited by plant Technical Specifications.

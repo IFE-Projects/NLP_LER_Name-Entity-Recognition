@@ -1,0 +1,5 @@
+Plant: Farley 2.
+Inoperable Containment Isolation Valve due to Design Control Error.
+ On April 12, 2019, with Farley Nuclear Plant (FNP) Unit 2 in Mode 6 (refueling) it was determined through surveillance testing that Containment Isolation Valve (CIV) Q2P16MOV3131 (MOV-3131), Service Water (SW) From Reactor Coolant Pump (RCP) Air Cooler would not close on a simulated Safety Injection (SI) Signal. Following troubleshooting it was identified on April 24, 2019 (Mode 6) that MOV-3131 was incorrectly wired. An omission error completed in a previous design change (October 2017) created a wiring discrepancy that prevented MOV-3131 from closing on an SI signal. This condition is being reported pursuant to the requirements of 10 CFR50.73(a)(2)(i)(B) as an operation prohibited by the Technical Specifications for the inoperable containment isolation valve.
+
+ The wiring discrepancy was caused by an engineering human performance error during issuance of a design change. The circuit wiring was corrected, post-maintenance testing was completed satisfactorily, and the valve was returned to service.

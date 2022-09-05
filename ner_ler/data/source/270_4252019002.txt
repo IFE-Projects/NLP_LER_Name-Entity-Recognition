@@ -1,0 +1,7 @@
+Plant: Vogtle 2.
+Microswitch Failure Causes Closure of Main Steam Isolation Valve and Subsequent Automatic Reactor Trip.
+ At 0945 EDT on July 19, 2019, with Unit 2 in Mode 1 and 100 percent power, the reactor automatically tripped due to the Loop 2 'B' Main Steam Isolation Valve failing shut. All systems responded as designed. All control rods fully inserted into the core, auxiliary feedwater started, and decay heat was removed through the main steam lines through the steam dumps and into the condenser. The plant was stabilized in Mode 3. 
+
+ Due to the automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B), specifically the Reactor Protection System and the Auxiliary Feedwater System, this event is reportable under 10 CFR 50.73(a)(2)(iv)(A). 
+
+ Because all systems responded as designed and had no adverse effects on the health and safety of the public, this event is of very low safety significance.

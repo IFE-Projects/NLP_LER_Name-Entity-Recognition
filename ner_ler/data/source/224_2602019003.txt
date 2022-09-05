@@ -1,0 +1,7 @@
+Plant: Browns Ferry 2.
+Automatic Reactor Scram During Startup due to Intermediate Range Monitor Noise.
+ On October 1, 2019, at approximately 0307 Central Daylight Time (CDT), Browns Ferry Nuclear Plant (BFN) Unit 2 received a reactor scram signal from less than 1% power that originated from the Neutron Monitoring System. There were no complications associated with this scram. All required safety systems functioned as designed. The initiating condition was discovered to be a scram signal due to electrical noise induced when the pushbutton was depressed for driving Source Range Monitors (SRMs) C and D out concurrently. 
+
+ On October 1, 2019, at approximately 0605 CDT, Operations personnel completed Event Notification 54302 to the NRC. 
+
+ The root cause of this event was that BFN engineering and leadership demonstrated weaknesses in risk perception related to the failure to advocate for and implement a permanent solution to the long standing Intermediate Range Monitor (IRM) noise susceptibility issue. Specifically, the IRM system design is not robust enough to mitigate the effects of noise intrusion. Corrective actions which will reduce or mitigate the probability of recurrence are to implement a process to manage the risk of identified equipment vulnerabilities; to implement time constant modifications to BFN Units 1, 2, and 3 which will make the system more robust against noise spiking; and to revise the Bridging and Mitigation Strategy Development procedure to explicitly require review of OE during bridging or mitigation strategy development.
