@@ -9,7 +9,7 @@ preprocess:
     - path: assets/fashion_brands_eval.jsonl
       md5: 5113dc04e03f079525edd8df3f4f39e3
     - path: scripts/preprocess.py
-      md5: c1b6ad0e6e5ad7102a6d3fb0de7a4101
+      md5: a1a912a37d5a490951cd6b8f819652ab
   outs:
     - path: corpus/fashion_brands_training.spacy
       md5: 091356654aa1746555cf8e601c245a66
@@ -21,7 +21,7 @@ train:
   cmd: python -m spacy run train
   script:
     - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/fashion_brands_training.spacy
-      --paths.dev corpus/fashion_brands_eval.spacy
+      --paths.dev corpus/fashion_brands_eval.spacy --gpu-id 0
   deps:
     - path: corpus/fashion_brands_training.spacy
       md5: 091356654aa1746555cf8e601c245a66
@@ -29,7 +29,7 @@ train:
       md5: 9ca87d0e0a330acdcfeec7360ba3495e
   outs:
     - path: training/model-best
-      md5: 75802d045663b060c1eebe35b1e8e551
+      md5: 45dbccc2ad95330580d61e97d49988ef
   spacy_version: 3.3.1
   spacy_git_version: 5fb597f77
 evaluate:
@@ -45,5 +45,18 @@ evaluate:
   outs:
     - path: training/metrics.json
       md5: d0b2f931f7d73d6cf7fc63d603b0e3c1
+  spacy_version: 3.3.1
+  spacy_git_version: 5fb597f77
+package:
+  cmd: python -m spacy run package
+  script:
+    - python -m spacy package training/model-best packages --name ner_fashion --version
+      0.0.0 --force
+  deps:
+    - path: training/model-best
+      md5: 45dbccc2ad95330580d61e97d49988ef
+  outs:
+    - path: packages/en_ner_fashion-0.0.0/dist/en_ner_fashion-0.0.0.tar.gz
+      md5: e6c5d0ab062ab0ab0be4f62266a842f0
   spacy_version: 3.3.1
   spacy_git_version: 5fb597f77

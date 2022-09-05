@@ -8,6 +8,7 @@ vars:
   train: "fashion_brands_training"
   dev: "fashion_brands_eval"
   patterns: "fashion_brands_patterns"
+  gpu: 0
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
@@ -58,7 +59,7 @@ commands:
   - name: "train"
     help: "Train a named entity recognition model"
     script:
-      - "python -m spacy train configs/${vars.config} --output training/ --paths.train corpus/${vars.train}.spacy --paths.dev corpus/${vars.dev}.spacy"
+      - "python -m spacy train configs/${vars.config} --output training/ --paths.train corpus/${vars.train}.spacy --paths.dev corpus/${vars.dev}.spacy --gpu-id ${vars.gpu}"
     deps:
       - "corpus/${vars.train}.spacy"
       - "corpus/${vars.dev}.spacy"
