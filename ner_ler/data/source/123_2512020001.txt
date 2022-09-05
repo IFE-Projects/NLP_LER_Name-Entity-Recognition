@@ -1,0 +1,5 @@
+Plant: Turkey Point 4.
+Automatic Reactor Trip Caused by Main Generator Lockout due to Exciter Fault.
+ On 7/5/2020 at 21:09 hours, while Unit 4 was operating in Mode 1 at 100% power, a Main Generator Lockout caused the Unit 4 Turbine to trip, automatically tripping the Reactor. The Main Generator Lockout was caused by a loss of two Voltage Regulator power supplies. All safety systems operated as required in response to the equipment failure. The Auxiliary Feedwater System automatically initiated as designed. This event is reportable pursuant to 10 CFR 50.73 (a)(2)(iv)(A), due to automatic actuation of the Reactor Protection System and Auxiliary Feedwater System. 
+
+ Corrective actions included replacement of the Exciter PMG and rotating assembly and re-sealing the Exciter housing.

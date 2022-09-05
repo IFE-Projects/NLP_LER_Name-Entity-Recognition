@@ -1,0 +1,7 @@
+Plant: Nine Mile Point 1.
+Manual Reactor Scram due to Pressure and Power Oscillations.
+ On April 29, 2019 at 16:33, Nine Mile Point Unit 1 inserted a manual reactor scram dueto pressure and power oscillations. The High Pressure Coolant Injection (HPCI) System automatically initiated, on low reactor vessel water level, as designed. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as any event or condition that resulted in a manual or automatic actuation of any of the systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+
+ The cause of the event is the organization did not effectively incorporate appropriate !earnings from previous NMP events and operating history that would have provided adequate flexibility in the operating strategy to mitigate the risks of increased oscillations. The scope of the corrective actions is to incorporate operational history and events into Special Operating Procedures (SOPs).
+
+ The event described in this LER is documented in the plant's corrective action program.

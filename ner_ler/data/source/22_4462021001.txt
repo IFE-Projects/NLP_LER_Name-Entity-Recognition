@@ -1,0 +1,7 @@
+Plant: Comanche Peak 2.
+Reactor Trip due to Fault on Main Transformer 2MT1.
+ On June 07, 2021, Unit 2 was operating at approximately 100% power. At 1527, a fault occurred in Unit 2 Main Transformer Number 1 (2MT1) which resulted in a generator lockout relay automatic trip of the Unit 2 Main Turbine and reactor. Arcing between the "B" phase high voltage bushing and adjacent components on the top of the main transformer ignited the remaining bushing dielectric material and bushing oil. Automatic fire suppression was initiated and the fire was extinguished in 19 minutes. Entry into the Emergency Plan was not required. Operators responded to the event in accordance with approved procedures and safely placed the plant in Mode 3. 
+
+ The cause of this event was failure of the 2MT1 "B" phase high voltage bushing. The cause of the 2MT1 "B" phase high voltage bushing failure has not yet been determined. A failure analysis on the bushing is being performed. Results of the failure analysis will be provided in a supplemental report. Other corrective actions include repair or replacement of the damaged 2MT1 transformer components, post-work electrical diagnostic testing, oil sample testing, and an extent of condition review. 
+
+ All times are in Central Daylight Time (CDT).

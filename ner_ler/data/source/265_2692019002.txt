@@ -1,0 +1,5 @@
+Plant: Oconee 1.
+Unit 1 Core Flooding System Loss of Safety Function.
+ On July 24, 2019 with Unit 1 in Mode 1, Operations was venting the 1A Core Flood Tank (CFT) in accordance with plant procedures to lower the nitrogen pressure. Upon reaching the desired pressure, Operations attempted to stop the venting by closing a remotely-operated isolation valve (1CF-5) in the vent line. This valve failed to fully close which resulted in the 1A CFT pressure continuing to drop below the Technical Specification (TS) required limit of 575 psig. Another manually operated isolation valve was closed and nitrogen was added to the 1A CFT to restore pressure within the TS required range. 
+
+ While the Core Flood System contains two (2) Core Flood Tanks, both tanks are required to mitigate certain accident scenarios and is considered a single-train system. When the 1A CFT became inoperable as a result of a component failure, it resulted in a loss of safety function and is therefore being reported under 10 CFR 50.73(a)(2)(v)(d).

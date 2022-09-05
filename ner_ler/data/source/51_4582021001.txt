@@ -1,0 +1,7 @@
+Plant: River Bend.
+Manual Reactor Scram due to Loss of Main Condenser Vacuum.
+ On March 25, 2021 at 09:01 CDT, River Bend Station was operating at 93% reactor power when Main Condenser vacuum began to lower. Reactor power was lowered in an attempt to maintain Main Condenser vacuum. At 09:18 a manual reactor scram was initiated from approximately 80% reactor power due to Main Condenser vacuum continuing to lower. All control rods fully inserted and there were no complications. All systems responded as designed. 
+
+ The loss of vacuum was caused by the in-service Steam Air Ejector Suction Valve closing due to faults within the valve’s control components. The Steam Air Ejector Suction Valve function was restored by replacing the faulted components. 
+
+ River Bend Station will establish a program to test the fail-as-is function of the Steam Air Ejector Suction Valves every outage.

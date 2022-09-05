@@ -1,0 +1,7 @@
+Plant: Braidwood 1.
+The Unit 1 Train A Auxiliary Feedwater Pump Was Inoperable due to a Failed Suction Pressure Lead/Lag Card.
+ On October 3, 2020, during a shiftly channel check of Unit 1 Train A (1A) auxiliary feedwater (AF) pump suction pressure, it was identified that the deviation between the Train A and Train B pump suction pressures exceeded the deviation channel check acceptance criteria. It was determined the associated suction pressure indication, 1PT-AF051, was inoperable due to failed suction pressure lead/lag card. On October 3, 2020 at 1000 hours, the Technical Specification (TS) Limiting Conditions for Operation (LCO) 3.7.5 Condition A for an inoperable train of AF was entered. The lead/lag card was replaced, the 1A AF pump was restored to operable status and the TS LCOs were exited on October 4, 2020 at 0111 hours. 
+
+ The cause of the lead/lag card failure was an integrated circuit failure resulting in the card output no longer changing as the card was no longer registering a change in input. The corrective action was the replacement of the lead/lag card. 
+
+ As the 1A AF pump card inoperability condition existed for a longer period of time than is allowed by TSs, this event is reported in accordance with 10 CFR 50.73(a)(2)(i)(B), "any operation or condition which was prohibited by the plant's Technical Specifications."

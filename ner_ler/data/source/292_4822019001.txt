@@ -1,0 +1,7 @@
+Plant: Wolf Creek.
+Loss of Startup Transformer Results in Emergency Diesel Generator Actuation.
+ On May 24, 2019, at 1310 Central Daylight Time (CDT), while operating in Mode 1 at 100% power, a trip of the startup transformer resulted in a loss of offsite power to the safety-related 4.16 kV NB002 bus. This caused the actuation of the "B" Emergency Diesel Generator as well as a valid auxiliary feedwater actuation signal.
+
+ The presence of recently deceased birds in the area, along with the pattern of arc strikes, indicated that the probable cause of the startup transformer trip was a fault caused by bird activity in the vicinity of the secondary side bushings. Further inspection revealed that birds had been nesting within the bushing covers previously installed to prevent faults due to rodents. This condition was previously reported on May 24, 2019 (ENS 54087) in accordance with 10 CFR 50.72(b)(3)(Iv)(A) for a valid specified system actuation. 
+
+ The startup transformer was restored and declared operable on May 27, 2019, at 1258 CDT. There was no impact to the health and safety of the public as a result of this event. All safety-related equipment performed as expected in response to the loss of offsite power to the NB002 bus.

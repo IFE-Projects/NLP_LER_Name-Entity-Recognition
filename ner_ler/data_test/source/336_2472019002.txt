@@ -1,0 +1,7 @@
+Plant: Indian Point 2.
+Automatic Reactor Shutdown due to Turbine Trip Caused by Generator Trip.
+ On March 24, 2019 at approximately 1445 during a power ascension from a previous trip with indicated reactor power at approximately 96%, the reactor automatically tripped on a turbine trip due to a direct trip from the Main Generator regulator cubicle. All control rods fully inserted and plant equipment responded normally to the unit trip. This reactor protection system (RPS) actuation was reported under 10 CFR 50.72(b)(2)(iv)(B). 
+
+ The auxiliary feedwater system actuated following the automatic trip as expected. This specified system actuation was reported under 10 CFR 50.72(b)(3)(iv)(A). During the event offsite power remained available and stable. No primary or secondary reliefs lifted, and all required safety systems functioned properly. The plant was stabilized in hot standby (Mode 3) with decay heat being removed via the steam generators to the atmospheric steam dumps.
+
+ This event had no effect on the public health and safety.

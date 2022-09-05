@@ -1,0 +1,7 @@
+Plant: Palo Verde 2.
+Unit 2 Reactor Trip During Plant Protection System Surveillance Testing.
+ On May 19th, 2021, during the periodic scheduled performance of Plant Protection System (PPS) functional testing, an invalid actuation of the Safety Injection Actuation Signal, Containment Isolation Actuation Signal, and Main Steam Isolation Signal (MSIS) of both trains occurred. This led to a reactor trip and the start of the Diesel Generators and Essential Spray Pond pumps. In addition, Low Steam Generator level signals actuated the Auxiliary Feedwater Actuation Signals which started both essential Auxiliary Feedwater pumps. 
+
+ The Unit 2 reactor tripped because of High Pressurizer Pressure that occurred as a result of a transient initiated by the MSIS actuation and rapid closure of the Main Steam Isolation Valves. This event was initiated by a failure of the Engineered Safety Features Actuation System (ESFAS) test circuit which caused a loss of hold power circuit continuity for critical ESFAS trip paths through the PPS Relay Hold Switch which allowed the trip signals to initiate the applicable plant response. The PPS components involved with the trip were replaced on May 21, 2021, and plant operation was restored. 
+
+ At the time of the trip, PVNGS Unit 1 was operating at 100 percent power and Unit 3 was in a refueling outage. Neither unit was impacted by the event. No previous similar events have been reported by PVNGS.

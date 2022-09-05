@@ -1,0 +1,9 @@
+Plant: Point Beach 1.
+Main Feedwater Pump Trip Results in Manual Reactor Trip.
+ At 1646 on July 31, 2021, with Unit 1 operating in MODE 1 at full power, Operators removed Unit 1 from service by manually tripping the reactor when operators identified control board indications warranting prompt removal of the reactor from service. 
+
+ All control rods fully inserted into the core due to the manual trip. The auxiliary feedwater system started as expected when a valid system actuation occurred after the reactor trip. There was no emergency core cooling system actuation and offsite power was maintained throughout the event. After the reactor trip, equipment anomalies occurred for which the operators effectively responded. 
+
+ The cause of the condition requiring the manual reactor trip was a failure of the main steam generator feedwater pump B motor. Corrective actions included replacement of the main steam generator feedwater pump B motor and additional maintenance activities for anomalies identified during the reactor trip. 
+
+ This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).

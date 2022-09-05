@@ -1,0 +1,11 @@
+Plant: Palo Verde 2.
+Unit 2 Reactor Trip on Low Steam Generator Level Signal.
+ This Licensee Event Report addresses an event on March 3, 2020, when the Unit 2 Reactor automatically tripped on a low Steam Generator (SG) 1 level signal. 
+
+ The low SG level occurred because of a trip of both of the Main Feedwater Pumps (MFWPs), which tripped during restoration of power to the MFWPs Lube Oil (LO) control panels. A Reactor Power Cutback (RPC) signal was initiated upon loss of the MFWPs, followed by the reactor trip on low SG level. Auxiliary Feedwater Actuation Signals (AFAS) were then received and the Auxiliary Feedwater pumps, the Essential Spray Pond (ESP) pumps and the Emergency Diesel Generators (DGs) actuated as a result. This event is reportable under 10CFR 50.73(a)(2)(iv)(A) due to the Reactor Protection System (RPS), AFAS, and ESP/DGs actuations per NUREG 1022 Revision 3. 
+
+ The cause of the event was attributed to a lack of guidance in the operating procedures related to the impact of de-energization and re-energization of the MFWP A and B LO control panels. The cause was also attributed to the lack of a redundant power source to prevent both MFWPs from tripping simultaneously which led to the Unit trip. 
+
+ The corrective actions include procedure revisions as well as a design modification. 
+
+ No previous similar events have been reported to the NRC by PVNGS in the prior three years.

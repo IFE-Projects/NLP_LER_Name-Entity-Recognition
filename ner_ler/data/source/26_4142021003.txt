@@ -1,0 +1,7 @@
+Plant: Catawba 2.
+Containment Penetration Failure Resulting in Integrated Leak Rate Test Failure.
+ At 1751 on May 25, 2021, it was determined the local leak rate test (LLRT) for the 2EMF-IN containment penetration did not meet 10 CFR 50 Appendix J requirements for both the inboard and outboard containment isolation valves. The LLRT was performed during the C2R24 refueling outage at which time primary containment was not required to be operable. The leakage assigned to the penetration also resulted in total containment leakage exceeding the allowed overall leakage (La). The valves were repaired and retested satisfactorily prior to entering the mode of applicability. 
+
+ The most likely cause of the leakages from 2MISV5230 and 2MISV5231 is the degradation of the elastomer seat aggravated by the presence of a buildup of debris in the seating area and overly conservative testing methodology. 
+
+ This event was reported to the NRC as an eight-hour, non-emergency Event Notification Number 55275 on May 25, 2021, per 10 CFR 50.72(b)(3)(ii)(A), “event or condition that the nuclear power plant, including its principal safety barriers, being seriously degraded”.

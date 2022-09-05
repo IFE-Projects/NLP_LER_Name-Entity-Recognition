@@ -44,7 +44,7 @@ evaluate:
       md5: 75802d045663b060c1eebe35b1e8e551
   outs:
     - path: training/metrics.json
-      md5: d0b2f931f7d73d6cf7fc63d603b0e3c1
+      md5: b3ad09df116c852443869dc11e736a17
   spacy_version: 3.3.1
   spacy_git_version: 5fb597f77
 package:

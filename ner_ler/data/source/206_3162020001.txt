@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Failure of Source Range Nuclear Instrumentation Resulting in a Condition Prohibited by Technical Specifications.
+ On November 13, 2019, with Unit 2 in Mode 3, Operators were conducting rod drop measurement tests and the Channel 2 Source Range Neutron Flux Detector failed to indicate properly. A partial calibration of the detector channel was performed and declared operable. Following calibration, the detector again failed to respond as expected to reactor rod withdrawals during sub-critical physics testing. 
+
+ An evaluation concluded that the channel 2 source range detector was inoperable longer than allowed by Technical Specifications. Additionally, both channel 1 and channel 2 source range detectors were simultaneously inoperable for approximately 25 minutes on November 13, 2019. During the time when both source range detectors were inoperable, there were other nuclear instrumentation monitors available to alert Operators of any unexpected increase in neutron flux within the reactor core. The cause of the failure was determined to be a degraded connection on a newly installed triaxial cable connector. The cable and the degraded connectors were replaced with an installed spare. 
+
+ Therefore, this event is reportable as an Operation or Condition Prohibited by Technical Specifications in accordance with 10CFR50.73(a)(2)(i)(B) and as an Event or Condition that Could Have Prevented Fulfillment of a Safety Function in accordance with 10CFR50.73(a)(2)(v)(A).

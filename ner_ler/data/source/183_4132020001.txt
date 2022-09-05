@@ -1,0 +1,5 @@
+Plant: Catawba 1.
+Valid Actuation of the Unit 1 Reactor Protection System and Auxiliary Feedwater System.
+ At 1800 [EST] hours on February 12, 2020, with Unit 1 in Mode 1 at approximately 100 percent power, Catawba Unit 1 experienced an automatic reactor trip that was triggered by a self-revealing generator lockout signal. Degraded brushes in the generator exciter failed to establish adequate excitation to keep the generator online. The trip was not complex, with all systems responding normally post-trip. Because of the reactor trip, the Auxiliary Feedwater system actuated as expected due to an Anticipated Transient Without Scram Mitigation System Actuation Circuitry signal. 
+
+ The cause of the reactor trip is that the station did not establish and maintain an effective single point vulnerability preventative maintenance mitigation strategy for the turbine exciter. There was no impact to the health and safety of the public.

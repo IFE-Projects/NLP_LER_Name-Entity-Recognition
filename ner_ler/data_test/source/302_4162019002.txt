@@ -1,0 +1,13 @@
+Plant: Grand Gulf 1.
+Manual Reactor Shutdown due to Loss of Service Water.
+ On May 12, 2019, Grand Gulf Nuclear Station (GGNS) shutdown the reactor by moving the mode switch from RUN to SHUTDOWN due to a partial loss of Plant Service Water (PSW), in accordance with plant procedures. 
+
+ The partial loss of PSW was caused by a partial loss of power to PSW pumps, and degraded capacity in one PSW well. Loss of power to plant service water pumps was caused by animal intrusion onto electrical service lines. 
+
+ Drywell temperature briefly exceeded the technical specification limit but did not cause a loss of safety function, and Standby Service Water (SSW) was manually initiated to supply engineered safety function room and control room coolers. 
+
+ Completed corrective actions include restoration of electrical service, procedure revisions, and training. Planned corrective actions include improved plant and engineering focus on degraded systems, installation of more robust electrical service, and a revised maintenance strategy for plant service water components. 
+
+ This report is made pursuant to 10 CFR 50.73(a)(2)(iv)(A) for the actuation of the reactor protection system and initiation of SSW per 10 CFR 50.73(a)(2)(iv)(B); and 10 CFR 50.73(a)(2)(v)(D) for the potential loss of safety function. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety for this event.

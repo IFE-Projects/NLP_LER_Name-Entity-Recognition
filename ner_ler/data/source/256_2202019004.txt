@@ -1,0 +1,5 @@
+Plant: Nine Mile Point 1.
+Average Power Range Monitors Declared Inoperable.
+ On August 4, 2019 at 1745, Reactor Recirculation Pump #11 (RRP 11) tripped. Following the RRP trip, the Average Power Range Monitors (APRMs) flow bias trips were inoperable due to reverse flow through the RRP. The APRMs were restored to operable on August 4, 2019 at 1807 when the RRP 11 discharge blocking valve was manually closed by operations, eliminating the reverse flow condition through the pump. This event is reportable under 10 CFR 50.72(b)(3)(v)(A) and 10 CFR 50.73(a)(2)(v)(A) as any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: (A) Shut down the reactor and maintain it in a safe shutdown condition. 
+
+ The cause of the RRP 11 trip is a degraded tachometer generator on the associated motor generator set. Corrective actions to prevent recurrence are to revise the preventative maintenance strategy to replace the tachometer generator every two years. The event described in this LER is documented in the plant's corrective action program.

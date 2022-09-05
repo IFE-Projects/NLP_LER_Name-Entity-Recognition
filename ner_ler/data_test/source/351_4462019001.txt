@@ -1,0 +1,5 @@
+Plant: Comanche Peak 2.
+Manual Reactor Trip due To Feedwater Isolation Valve Closure.
+ At 0317 on March 2, 2019, Comanche Peak Nuclear Power Plant (CPNPP) Unit 2 was manually tripped due to an unexpected closure of Feedwater Isolation Valve 2-04 and loss of Steam Generator 2-04 level control. All systems functioned as designed and the Unit 2 Auxiliary Feedwater Pumps started as designed due to low level in Steam Generator 2-04. There was no impact on Unit 1. 
+
+ The cause of this event was the inadvertent actuation of a Feedwater circuit relay which caused Feedwater Isolation Valve 2-04 to close. Corrective actions include a site wide stand down on the event and suspension of activities involving relay checks. All times in this report are approximate and Central Standard Time unless noted otherwise.

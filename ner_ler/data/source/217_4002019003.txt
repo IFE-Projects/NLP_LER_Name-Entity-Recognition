@@ -1,0 +1,7 @@
+Plant: Harris.
+Both Source Range Nuclear Instruments Inoperable.
+ On October 14, 2019, while in Mode 5, both Source Range (SR) Nuclear Instruments (NIs) were inoperable simultaneously. NI-32 was inoperable on October 12 for surveillance testing, and was restored by October 15. NI-31 was removed from service to support an emergent maintenance activity on October 14, and was restored the same day. However, NI-31 remained inoperable after restoration due to an invalid indication of a steadily increasing count rate. This issue was not identified until October 15, 2019, when NI-31 failed a channel check. 
+
+ Work was planned to address NI-31, with NI-32 operable. However, on November 8, 2019, while in Mode 6, NI-32 began exhibiting an invalid count increase. This was identified on November 9, 2019, after a failed channel check, and NI-32 was declared inoperable. NI-31 and NI-32 were inoperable simultaneously until NI-32 was repaired on November 9, 2019. NI-31 was repaired November 15, 2019. The cause of NI-31's degraded performance was borated water intrusion into the detector well from overfilling the lower reactor cavity the previous outage. 
+
+ The cause of NI-32's degraded performance was a failed potentiometer associated with the power supply. These unrelated issues have both been repaired. The loss of control of the lower cavity water level was addressed by adding additional monitoring capability (camera) to track any slow changes in lower cavity water level.

@@ -1,0 +1,7 @@
+Plant: Quad Cities 1.
+Control Room Emergency Ventilation Air Conditioning System Inoperable due to Incorrect Breaker Setting.
+ On April 14, 2020, at 1645 hours CDT, the Quad Cities Nuclear Power Station (QCNPS) Unit 1 and Unit 2 Control Room Emergency Ventilation (CREV) Air Conditioning (AC) system was declared inoperable due to a trip of the Refrigeration Condensing Unit (RCU) feed breaker. Technical Specification (TS) 3.7.5 Condition A was entered at that time. Control Room operators discovered that the indicating light for the RCU was not lit. An operator was dispatched and found that the feed breaker had tripped. At 1705 hours CDT the feed breaker was reset restoring RCU light indication in the control room. A full RCU feed breaker inspection, adjustment of the breaker trip setting, and post maintenance testing (PMT) of the breaker and system were completed on April 16, 2020 with TS 3.7.5 Condition A exited at 0453 hours. 
+
+ The causes of the event were (1) failure to adequately update guidance documents in a timely manner and (2) maintenance not adequately documenting the difference between as-found and work instruction breaker setting values during the RCU feed breaker preventative maintenance (PM) in 2013. 
+
+ This is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D), any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident.

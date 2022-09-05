@@ -1,0 +1,5 @@
+Plant: Comanche Peak 2.
+Automatic Actuation of Auxiliary Feedwater System.
+ At 2151 on May 14, 2019, Comanche Peak Nuclear Power Plant (CPNPP):experienced a loss of the Stephenville 138 KV transmission line causing the Unit 2, 6900 V Safeguards buses (2EA1 and 2EA2) to transfer to the alternate off site power source and an actuation of Train A and Train B, Unit 2 blackout sequencers and an automatic start of both Unit 2 Motor Driven Auxiliary Feedwater pumps (MDAFWPs) and the Unit 2 Turbine Driven Auxiliary Feedwater pump (TDAFWP). The Emergency. Diesel Generators did not start since theywere not required to start due to the successful bus transfer. There was no impact on Unit 1.
+
+ The cause of this event was a ground fault upstream of the Stephenville 138 KV transmission line causing undervoltage to CPNPP. Neither the upstream fault nor the Stephenville transmission line undervoltage were due to CPNPP equipment. The Unit 2 MDAFWPs and TDAFWP were stopped and returned to automatic. The off site source was recovered at 0256 on May 15, 2019. All times in this report are approximate and Central Daylight Time unless noted otherwise.

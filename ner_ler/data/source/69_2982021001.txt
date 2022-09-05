@@ -1,0 +1,11 @@
+Plant: Cooper Station.
+Secondary Containment Differential Pressure Perturbation Exceeds Technical Specifications.
+ On February 9, 2021, Reactor Building differential pressure (d/p) became unstable and exceeded the Technical Specifications limit of -0.25 inches of water gauge (wg) resulting in Secondary Containment being declared inoperable. 
+
+ Two causal factors were identified for this event. The first being that Reactor Building d/p controller 'A' has not been tuned to quickly respond to changing environmental conditions. The second factor is that there were no interim actions in place to bridge the gap identified in previous events. 
+
+ Reactor Building d/p controller 'A' was optimally tuned. Follow up troubleshooting showed the as-left settings of the controller would be capable of maintaining Reactor Building d/p within limits when exposed to similar barometric pressure fluctuations. 
+
+ There was no impact on nuclear safety, plant reliability, radiological safety, or industrial safety. 
+
+ Event Notification 55098 was submitted on February 9, 2021, due to the unplanned inoperability of Secondary Containment.

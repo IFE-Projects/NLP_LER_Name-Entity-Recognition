@@ -1,0 +1,13 @@
+Plant: Beaver Valley 1.
+Manual Reactor Trip at 15% Power due to Lifting of the 1A Main Steam Safety Valve.
+ On November 4, 2019, at 0535 Eastern Standard Time, the Beaver Valley Power Station Unit 1 reactor was manually tripped at approximately 15% reactor power due to secondary system perturbations that caused the 1A Main Steam Safety Valve (MSSV) to lift. The 1A MSSV opened, instead of the expected opening of the 1A Atmospheric Dump Valve (ADV), as the tolerance range for ADV pressure switch overlapped the tolerance range for 1A MSSV. The 1A MSSV closed just prior to the trip. 
+
+ The Reactor Trip was without complications. All control rods fully inserted into the core. The plant was stabilized in Mode 3 with normal Main Feedwater System in service. 
+
+ The reason for the MSSV opening prior to the 1A ADV opening was due to the as-left setpoint of the 1A ADV pressure switch during its calibration in the prior refueling outage. The setpoint drifted high and was found to be above the opening setpoint of the MSSV.
+
+ The pressure switch input to the 1A ADV was adjusted to within the tolerance band prior to reactor startup. An Engineering Evaluation established new setpoint and reset values for the three ADVs. 
+
+ This event was reported per Event Notification 54369 as an actuation of the Reactor Protection System per 10 CFR 50.72(b)(2)(iv)(B). 
+
+ This event is being reported pursuant to 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in the manual actuation of the Reactor Protection System.

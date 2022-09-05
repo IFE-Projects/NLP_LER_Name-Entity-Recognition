@@ -1,0 +1,5 @@
+Plant: Columbia.
+Breach of Secondary Containment.
+ On July 28th, 2021, Columbia Generating Station was in Mode 1 at 100% reactor power when a Secondary Containment (Reactor Building) roof hatch was opened to support maintenance activities. The breach in Secondary Containment resulted in Surveillance Requirement 3.6.4.1.2 not being met. Maintenance personnel did not notify Operations prior to opening the roof hatch and Technical Specification Action Statement (TSAS) 3.6.4.1.A was not entered as required. The breach also resulted in Secondary Containment exceeding the Technical Specification (TS) limit of vacuum of less than 0.25 inches of vacuum water gauge. 
+ While TS limits were briefly exceeded, the resulting pressure excursion was bounded by analytical results; and thus, there were no safety consequences for this condition. This event was reported under reporting criteria 10 CFR 50.72(b)(3)(v)(C) and 50.72(b)(3)(v)(D) as Event Notification #55385. 
+ Work instructions contained insufficient detail to ensure applicable TS impacts were identified leading to Energy Northwest staff operating in knowledge space.

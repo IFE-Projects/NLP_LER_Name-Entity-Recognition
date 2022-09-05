@@ -1,0 +1,5 @@
+Plant: Sequoyah 1.
+Automatic Actuation of Emergency Diesel Generators due to Loss of Power to 6.9KV Shutdown Board.
+ On December 16, 2019, at 03:58 Eastern Standard Time (EST), Sequoyah Nuclear Plant Unit 1 experienced a loss of 1B-B 6.9 kilo-Volt (KV) Shutdown Board offsite power when the normal feeder breaker from the 1C 6.9 KV Unit Board to the 1B-B 6.9 KV Shutdown Board tripped. This resulted in a loss of offsite power to the 1B-B 6.9 KV Shutdown Board, which automatically started all four emergency diesel generators as designed. The 1B-B 6.9 KV Shutdown Board was automatically reenergized from its associated emergency diesel generator, and was subsequently transferred back to an alternate offsite power supply. 
+
+ The cause of the feeder breaker trip was an overcurrent relay component failure, specifically a metal oxide varistor of the incorrect voltage rating, which actuated the breaker overcurrent protection. The failed relay was replaced with a new relay of the proper voltage rating. An extent of condition will be performed as plant conditions permit to evaluate any other 250 VDC rated applications that may have incorrect voltage components.

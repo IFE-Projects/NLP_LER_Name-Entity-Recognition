@@ -1,0 +1,7 @@
+Plant: Cooper Station.
+Reactor Building Doors Opened Simultaneously Could Have Resulted in Loss of Safety Function.
+ On May 1, 2020, at approximately 08:25, an individual traversed into the Reactor Building through both the inner and outer airlock doors, however, upon checking the inner airlock door to ensure it had latched closed, the door opened. The individual let the door close and checked the door again, with the same result. Upon checking the door a third time, another individual was proceeding to enter the Reactor Building and opened the outer airlock door. At 08:31, an alarm in the control room indicated that both Reactor Building doors were open, resulting in a Secondary Containment breach. Secondary Containment was declared inoperable and Technical Specification (TS) Limiting Condition for Operation (LCO) 3.6.4.1, Condition A was entered. At 08:36, one access door was verified closed, Secondary Containment was declared operable and TS LCO 3.6.4.1, Condition A was exited.
+
+ It was discovered that the inner Reactor Building door solenoid locking mechanism was in a degraded condition. At times, the locking solenoid pin was sticking or moving very slowly, but sometimes it worked correctly. The degraded solenoid locking mechanism was replaced and verification of proper operation was completed on May 5, 2020. 
+
+ This event is considered to have low safety significance. Event Report 54690 was made to the Nuclear Regulatory Commission.

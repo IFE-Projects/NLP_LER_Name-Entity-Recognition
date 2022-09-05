@@ -1,0 +1,9 @@
+Plant: St. Lucie 1.
+Reactor Coolant Pump Motor Ground Results in Reactor Coolant Pump Trip and Subsequent Automatic Reactor Trip.
+ On September 7, 2019, St. Lucie was in Mode 1 at 100 percent reactor power. At 0824 the Unit 1 Reactor tripped automatically on a low Reactor Coolant System flow actuation of the Reactor Protection System. The trip was uncomplicated and all safety systems responded as designed. The plant was stabilized in Mode 3 with decay heat removal via the main feedwater system and condenser steam bypass system.
+
+ The direct cause was an electrical fault in the 1A1 Reactor Coolant Pump (RCP) motor. The electrical fault was initiated after a cooling water pipe for the 1A1 RCP motor's upper bearing failed and the leaking water entered the motor enclosure. The root cause evaluation determined there were inadequate technical controls over the use of generic reuse specifications and engineering quality instructions during a 2010 modification of RCP motor cooling water piping. 
+
+ The 1A1 RCP motor was replaced, and post maintenance testing was successfully completed. St. Lucie Unit 1 was returned to service on September 21, 2019. 
+
+ Automatic reactor trips are analyzed events in the Updated Final Safety Analysis Report (UFSAR). The trip and post trip actions were uncomplicated. Therefore, this event had no impact on the health and safety of the public.

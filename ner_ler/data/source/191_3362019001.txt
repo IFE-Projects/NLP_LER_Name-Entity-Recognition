@@ -1,0 +1,9 @@
+Plant: Millstone 2.
+Manual Reactor Trip due to Loss of the 'A' Steam Generator Feed Pump.
+ On December 27, 2019 at 0704 while operating in MODE 1 at 100 percent power, operators manually tripped the Millstone Power Station Unit 2 (MPS2) reactor due to lowering steam generator levels caused by a loss of flow from the 'A' Steam Generator Feed Pump (SGFP). 
+
+ The direct cause was the failure of the coupling connecting the MPS2 'A' Steam Generator Feed Pump (M2P1A) to the Steam Generator Feed Pump Turbine (M2H-5A). 
+
+ The failed 'A' SGFP coupling was replaced and MPS2 was returned to service. 
+
+ The actuation of Reactor Protection System (RPS) and Auxiliary Feedwater System (AFW) is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual or automatic actuation of systems listed in 10 CFR 50. 73(a)(2)(iv)(B).

@@ -1,0 +1,9 @@
+Plant: North Anna 2.
+Manual Reactor Trip on Degrading Condenser Vacuum due to a Failed Weld.
+ On March 2, 2019 North Anna Unit 2 Operations personnel were lowering reactor power in preparation for a scheduled refueling outage. Condenser vacuum began to degrade and personnel entered the Abnormal Operating Procedure for Low Condenser Vacuum. The reactor was manually tripped at approximately 12% power. The Operations crew entered the reactor trip procedure and stabilized the Unit in Mode 3 at normal operating pressure and temperature. The manual reactor trip was not complicated and shift personnel responded appropriately. After the trip, decay heat was removed by the Steam Generator Pressure Operated Relief Valves and Unit 2 was cooled down to support a scheduled refueling outage. 
+
+ The direct cause of the degrading condenser vacuum was a failed socket weld downstream of a High Pressure Turbine Main Steam Supply Header Drain Valve on the condenser (steam) side.
+
+ A 4-hour report per 10CFR50.72(b)(2)(iv)(B) at 0013 hours on March 3, 2019 was made for a manual actuation of the reactor protection system. 
+
+ The reactor trip is reportable per 10CFR50.73(a)(2)(iv)(A) for a manual actuation of the reactor protection system.

@@ -1,0 +1,9 @@
+Plant: Arkansas 1.
+Reactor Manual Trip due to Temporary Loss of Non-Vital 4160 Volt Bus.
+ On March 14, 2021 at 1315 Central Daylight Time (CDT), Arkansas Nuclear One, Unit 1 (ANO-1) was manually tripped due to an indicated degraded voltage and momentary loss of the non-vital 4160VAC bus A-2. Degraded voltage of the non-vital 4160VAC bus A-2 resulted in de-energizing the vital 4160VAC bus A-4. All systems responded as designed and the plant was stabilized in MODE 3 (Hot Standby). 
+
+ The cause of this event was a bent primary moveable contact in the 4160VAC Non-Vital bus A-2 Potential Transformer (PT) drawer. The damage to the primary moveable contact was corrected and repaired. 
+
+ The most likely cause was the ANO-1 Stator Drop accident in 2013 and subsequent repair of the 4160VAC Non-Vital bus A-2. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety or radiological safety. No radiological releases occurred due to this event.

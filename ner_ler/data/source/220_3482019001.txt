@@ -1,0 +1,7 @@
+Plant: Farley 1.
+Pressurizer Safety Valve Lift Pressure Outside of Technical Specifications Limits due to Setpoint Drift.
+ On October 11, 2019, while at 0% power level and defueled, it was discovered that a Unit 1 pressurizer safety valve (PSV), which had been removed during the October 2019 refueling outage (1R29) and shipped off-site for testing, failed its as-found lift pressure test. The PSV lifted below the Technical Specification (TS) 3.4.10 allowable lift setting value. Setpoint drift is the cause of the PSV failure.
+
+ It is likely that the PSV was outside of the TS limits longer than the allowable completion times for the associated Required Action Statements during the previous operating cycle in all applicable modes of operation. Therefore, this condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS. 
+
+ The PSV was replaced during the October 2019 refueling outage.

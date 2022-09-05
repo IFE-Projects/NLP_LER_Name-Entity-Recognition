@@ -1,0 +1,7 @@
+Plant: Watts Bar 1.
+Automatic Start of the Emergency Diesel Generators due to an Equipment Failure During Transfer of Power Source for the 1B-B Shutdown Board.
+ On May 20, 2020, at 0521 Eastern Daylight Time (EDT), with Watts Bar Nuclear Plant (WBN) Unit 1 defueled and Unit 2 in Mode 3, an actuation of the Emergency Diesel Generator (EDG) System occurred while transferring the 1B-B 6.9kV Shutdown Board (SDBD) from the maintenance feed to its normal power supply. All safety systems responded as designed. 
+
+ The cause of the event was determined to be the actuating arm on the maintenance supply breaker that engages the fast transfer switch associated with the control circuitry for the normal supply breaker was not properly aligned. This resulted in loss of power to the 1B-B 6.9 kV SDBD and the start of all four EDGs. The 1B-B 6.9 kV SDBD was repowered from the 1B-B EDG, and restored to offsite power at 0721. Corrective actions were put in place to revise the maintenance procedures for overhaul and installation of 6.9 kV breakers to clarify checks of the fast transfer switch and breaker actuating arm. 
+
+ This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).

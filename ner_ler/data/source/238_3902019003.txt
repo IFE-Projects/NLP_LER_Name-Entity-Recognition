@@ -1,0 +1,7 @@
+Plant: Watts Bar 1.
+Manual Reactor Trip due to Main Feedwater Regulating Valve Failing Closed.
+ On August 31, 2019, at 2055 Eastern Daylight Time (EDT), the Watts Bar Nuclear Plant (WBN) Unit 1 reactor was manually tripped due to a loss of Steam Generator (SG) number 2 level control. Concurrent with the reactor trip, the Auxiliary Feedwater system actuated as designed. All Control and Shutdown rods inserted properly. All safety systems responded as designed. 
+
+ This event was likely caused by diaphragm case bolt relaxation. This relaxation resulted in additional load on the bolt holes of the diaphragm, causing tearing and failure. Corrective actions include replacement of the defective diaphragm and revising the diaphragm case bolt torque requirement in the vendor manual and maintenance procedure. 
+
+ This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).

@@ -1,0 +1,7 @@
+Plant: Catawba 1.
+Unacceptable Indication Identified During Reactor Pressure Vessel Head Nozzle Penetration Inspection.
+ During the performance of reactor vessel closure head (RVCH) inspections, at 2220 EDT on May 12, 2020, it was determined the Unit 1 RVCH nozzle penetration 18 did not meet ASME code case N-729-4 requirements. A surface examination (penetrant test) identified a linear indication on nozzle penetration 18. The indication was not through-wall as determined by ultrasonic testing examination, is not service induced and is attributed to a localized weld fabrication anomaly. 
+
+ Surface conditioning of the weld in the area of the indication was performed which completely removed the linear indication. An engineering evaluation performed determined the as-left condition of the weld was acceptable for continued service. The ultrasonic testing examination and repair activity performed met the requirements of ASME code case N-729-4. 
+
+ This event was reported to the NRC as an eight-hour, non-emergency Event Notification Number 54707 on May 13, 2020 per 10 CFR 50.72(b)(3)(ii)(A). This report is being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(A), "any event or condition that results in the condition of the nuclear power plant, including its principal safety barriers, being seriously degraded."

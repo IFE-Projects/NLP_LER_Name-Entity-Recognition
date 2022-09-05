@@ -1,0 +1,9 @@
+Plant: Grand Gulf 1.
+Primary Containment Personnel Airlock Potential Loss of Safety Function due to Inadequate Door Closure.
+ On September 11, 2019 at 5:19pm, the Grand Gulf Nuclear Station primary containment was unable to fulfill its safety function because both doors on one airlock were open simultaneously for approximately thirty seconds.
+
+ The cause of this event is that the 208 primary containment airlock inner door latch pin position is not included in the electrical interlock or indication circuits. This caused the condition by allowing the outer airlock door open permissive to be met when the inner airlock door was not properly latched in the closed position. The 208-foot elevation airlock doors were immediately closed and verified latched and sealed. Additional corrective actions include revising the system operating procedure and the local operating placard instructions and a modification to ensure the proper closure, latching, and sealing of the 208-elevation airlock door. 
+
+ This report is made pursuant to 10 CFR 50.73(a)(2)(v)(C) for an event or condition that at the time of discovery could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety for this event.

@@ -1,0 +1,3 @@
+Plant: Turkey Point 3.
+Unit 3 Manual Reactor Trip Following Grid Disturbance.
+ On 5/18/19 at 11:08am, the Turkey Point Unit 3 reactor was manually tripped from 100% power due to lowering levels in all three Steam Generators. Auxiliary Feedwater automatically actuated and was subsequently secured at 11:53am during plant post-trip restoration. The cause of the event was a grid disturbance that resulted in the Turbine Control Valve (TCV) position deviation faults. All four of the TCVs drifted closed in response to the faults by design. As a result, levels in all three Steam Generators steadily decreased, prompting the Unit 3 Reactor Operator to initiate a manual trip of the Unit 3 reactor. All systems responded as designed during the transient.

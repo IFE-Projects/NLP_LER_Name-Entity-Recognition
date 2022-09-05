@@ -1,0 +1,5 @@
+Plant: Nine Mile Point 1.
+Control Room Air Treatment System Inoperable.
+ On May 3, 2020 at 17:50 while at 100% power in Mode 1, Nine Mile Point Unit 1 (NMP1) discovered that the fan bearing of the Control Room Ventilation Circulation Fan was inoperable. Upon investigation of a step change in noise from the Control Room Ventilation Circulation Fan, maintenance discovered that the fan bearing had failed. Since the fan is a single component (supported by redundant motors), the Control Room Air Treatment System (CRATS) was in a condition that could have prevented the fulfillment of its safety function. Therefore, this condition is reportable under 10 CFR 50.73(a)(2)(v)(D) as any event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to: (D) Mitigate the consequences of an accident.
+
+ The #11 fan pillow block bearing, #11 motor sheave and key were replaced, and the system was restored to operable on May 8, 2020 at 20:11.

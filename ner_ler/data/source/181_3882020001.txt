@@ -1,0 +1,7 @@
+Plant: Susquehanna 2.
+Manual Scram due to Rising Main Condenser Backpressure Caused by Failure of an Offgas Recombiner Inlet Valve.
+ On February 14, 2020 at 00:25, Susquehanna Steam Electric Station (SSES) Unit 2 reactor was manually scrammed due to rising Main Condenser backpressure caused by a loss of the Unit 2 Offgas Recombiner. This event was reported by Notification EN 54525 in accordance with 10 CFR 50.72(b)(2)(iv)(B) and (b)(3)(iv)(A). This event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual actuation of the Reactor Protection System (RPS) (including reactor scram), as well as associated isolation and actuation of other systems listed in 10 CFR 50.73(a)(2)(iv)(B), including the Reactor Core Isolation Cooling (RCIC) system. 
+
+ The most probable cause was an inadvertent closure (drifting closed) of the Unit 2 Offgas Recombiner System Inlet Control Valve. Stroking, disassembly, reassembly, and air operated valve diagnostics alleviated the cause of the inadvertent closure. 
+
+ There were no actual safety consequences associated with the condition.

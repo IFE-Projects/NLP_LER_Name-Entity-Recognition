@@ -1,0 +1,7 @@
+Plant: Catawba 2.
+Indication Identified During Reactor Pressure Vessel Head Nozzle Penetration Inspection.
+ On April 20, 2021, during the performance of the Catawba Nuclear Station Unit 2 reactor vessel closure head (RVCH) examinations, it was determined the Unit 2 RVCH nozzle penetration 74 did not meet the requirements of 10 CFR 50.55a(g)(6)(ii)(D) and ASME code case N-729-6. A relevant ultrasonic testing (UT) leak path indication was identified on Unit 2, nozzle penetration 74. The indication was confirmed in the J-groove weld with supplemental eddy current and liquid penetrant surface examinations. A bare metal visual examination of the RVCH was performed with no visual evidence of head penetration leakage detected. 
+
+ The cause of the Unit 2 RVCH nozzle penetration 74 relevant indication is due to Primary Water Stress Corrosion Cracking (PWSCC) from the Alloy 82/182 weld application in the primary system. Unit 2 RVCH nozzle penetration 74 was repaired in accordance with the NRC approved Westinghouse embedded flaw repair method (WCAP-15987-P-A) and Duke Energy relief request RA-21-0145. 
+
+ This event was reported to the NRC as an eight-hour, non-emergency Event Notification Number 55201 on April 21, 2021, per 10 CFR 50.72(b)(3)(ii)(A). This report is being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(A), "any event or condition that results in the condition of the nuclear power plant, including its principal safety barriers, being seriously degraded."

@@ -1,0 +1,9 @@
+Plant: Grand Gulf 1.
+Loss of High Pressure Core Spray due to Instrument Inverter Failure.
+ On August 28, 2019, at 13:16, the Grand Gulf Nuclear Station Unit 1, Control Room received High Pressure Core Spray (HPCS) Out-of-Service annunciator, HPCS SYS OOSVC. HPCS was declared INOPERABLE and the following Technical Specification (TS) Action statements were entered: ECCS TS 3.5.1 Action B.1 and Primary Containment Isolation Valves TS 3.6.1.3 Action A.1.
+
+ The Direct Cause for the event is that the HPCS system instrument inverter lost inverter output that resulted in the inability to automatically initiate HPCS. Immediate corrective actions were taken to replace the instrument inverter restoring HPCS to an operable condition on August 28, 2019, at 23:15.
+
+ This report is made pursuant to 10 CFR 50.73(a)(2)(v)(D) for an event or condition that at the time of discovery could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety for this event.

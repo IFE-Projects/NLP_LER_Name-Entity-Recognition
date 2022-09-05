@@ -1,0 +1,7 @@
+Plant: Hatch 1.
+1A EDG Inoperable due to Water in Day Tank.
+ On 5/8/20 at 1714, while taking a fuel sample from the 1A Emergency Diesel Generator (EDG) day tank, 14.73 gallons of water was found in the tank. The water was immediately drained from the day tank. Additionally. from 5/14/20 through 5/16/20, the day tank and the main fuel oil storage tank (FOST) were drained, cleaned, inspected and returned to service. A past operability review was conducted and on 12/03/20 the results concluded that the EDG would not have been able to perform its safety function with the amount of water found in the day tank. 
+
+ The source of water in the day tank was from accumulated water in the FOST being pumped to the day tank during a fuel transfer system surveillance on 4/29/20. Water from an underground pipe leak had entered a nearby pull box, traversed conduit connecting to the FOST manway, collected in the manway and then seeped into the FOST through threaded connections on top of the tank. 
+
+ The direct cause of the event was clogging of the FOST manway drains which allowed water to collect in the manway. There was no maintenance strategy to inspect and clean the manway drains. This was corrected by cleaning debris from the drains and implementing a maintenance strategy for periodic cleaning.

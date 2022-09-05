@@ -1,0 +1,3 @@
+Plant: River Bend.
+Initiation of Standby Service Water due to Inadequate Monitoring of System Parameters During Maintenance Activities.
+ On April 4, 2019, the operating Normal Service Water pumps tripped on low suction pressure, resulting in the initiation of the Standby Service Water System. The low suction pressure condition was caused by inadequate monitoring of system parameters during operation in an off-normal system configuration. After the event, both the Normal and Standby Service Water Systems were returned to their normal configurations. This event did not constitute a loss of Shut Down Cooling. This event was of minimal significance to the health and safety of the public.

@@ -1,0 +1,7 @@
+Plant: Hatch 2.
+Primary Containment Penetration Exceeded Maximum Allowable Primary Containment Leakage Rate (La).
+ On January 4, 2020 at 1109 EST, with Unit 2 operating at 100% rated thermal power, it was determined that the maximum allowable primary containment leakage rate (La) as defined in 10CFR50, Appendix J, "Primary Reactor Containment Leakage Testing for Water-Cooled Power Reactors", had been exceeded under postulated accident conditions. 
+
+ Engineering troubleshooting efforts identified the degraded primary containment penetration and noted that leakage past two primary containment isolation valves (PCIVs) was causing La to be exceeded under postulated accident conditions. Additional valves downstream of the PCIVs were closed to return primary containment back to operable status. 
+
+ The cause of the PCIV failures is currently unknown and will be determined during valve disassembly during a planned outage. At that time, the PCIVs will be repaired and returned to operable status.

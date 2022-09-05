@@ -1,0 +1,12 @@
+Plant: Callaway.
+Unplanned Loss of Switchyard Bus B Results in System Actuation.
+ On April 17, 2019 at approximately 0137 CDT, a valid actuation of the "A" emergency diesel generator (EDG) at the Callaway plant occurred due to inadvertent tripping of the "B" switchyard bus. The plant was in No Mode (defueled) when the switchyard 345-kV main generator output breaker (MDV53) was closed to backfeed the unit auxiliary transformer. MDV53 immediately reopened due to a ground located on a set of current transformers that set up an unwanted path for current to flow between the protection circuits for switchyard breakers MDV53 and MDV55. De-energization of the "B" switchyard bus resulted in de-energization of two transformers in the switchyard circuit connection to the 4.16-kV NB01 safety bus. The loss of voltage on the NB01 bus triggered the "A" EDG actuation.
+
+ The following root causes were identified: 
+ 1. Ineffective management by the Transmission Substations department of a design scope change introduced a design error, i.e., an extraneous jumper that enabled the unwanted current path to the breaker protection circuits. 
+ 2. Engineering supervision assumed the Transmissions Substations design process included an independent review, and thus, an independent review was not requested. 
+ Corrective actions to prevent recurrence include:
+ 1. Revising the Engineering Design Quality Review Process procedure to require an independent review of Callaway specific schematic and wiring diagrams. 
+ 2. Establishing procedural requirements for reviewing the design review documentation from Transmission Substations. 
+
+ The automatic actuation of the emergency diesel generator was a valid actuation and is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A). There was no impact to the health and safety of the public as a result of this event. Systems responded as expected (i.e., per design) in response to de-energization of the "B" switchyard bus.

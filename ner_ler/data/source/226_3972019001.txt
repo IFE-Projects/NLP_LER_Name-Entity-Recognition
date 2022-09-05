@@ -1,0 +1,7 @@
+Plant: Columbia.
+Loss of Diesel Starting Air During Maintenance Leads to Loss of High Pressure Core Spray System.
+ On September 24, 2019, at 2338 PDT during maintenance to drain an air receiver in the High Pressure Core Spray (HPCS) Diesel Starting Air (DSA) system a pressure control valve (PCV) vented, due to a leaking isolation valve, causing the in-service air receiver pressure to drop below the minimum Technical Specifications value. Operations declared the HPCS Diesel Generator, HPCS Service Water, and the HPCS system inoperable.
+
+ The root cause of the event was that the plant procedure was revised in 2009 to open the air start motor cross connect valve to retain all 4 air start motors available for diesel start which is not in accordance with current licensing/design bases. Corrective actions include revision to station procedures and repair of the leaking isolation valve. 
+
+ This is reportable under 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment of the safety function of structures or systems that are needed to mitigate the consequences of an accident. This event was reported under 10 CFR 50.72(b)(3)(v)(D) as Event Notification #54292.

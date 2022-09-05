@@ -1,0 +1,9 @@
+Plant: Cooper Station.
+Valve Test Failures Result in a Condition Prohibited by Technical Specifications and a Loss of Safety Function.
+ On March 4, March 5, and March 6, 2019, three of eight Target Rock safety relief valve (SRV) pilot assemblies, removed during Refueling Outage 30, failed to lift within Technical Specifications (TS) lift setpoint requirements The pressure setpoint of the first failed pilot assembly was 1090 psig, the SRV pilot assembly lifted at 1256.2 psig. The pressure setpoint of the second failed pilot assembly was 1080, the SRV pilot assembly lifted at 1208.5 psig. The pressure setpoint of the third failed pilot assembly was 1090, the SRV pilot assembly lifted at 1124.2 psig. Three subsequent lifts were performed for all failed SRV pilot assemblies and the results were within the TS pressure setpoint tolerances.
+
+ The cause of the failures was determined to be corrosion bonding.
+
+ Although the setpoint lift pressures of the SRV pilot valve assemblies exceeded TS requirements, an analysis of this event concluded the thermal limits and American Society of Mechanical Engineers overpressure transients did not exceed allowable limits. Public safety was not at risk. Safety to plant personnel and plant equipment was not at risk. 
+
+ A TS Amendment to TS 3.4.3 will be submitted that will address the failure to meet the TS criteria for the Target Rock two-stage SRVs. Following submittal, a tracking mechanism will be established for TS change approval.

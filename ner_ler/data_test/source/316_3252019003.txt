@@ -1,0 +1,7 @@
+Plant: Brunswick 1.
+False High Reactor Water Level Results in Automatic Specified System Actuations.
+ At 23:07 Eastern Daylight Time on April 21, 2019, with Unit 1 in Mode 1 at approximately 100 percent power, the Main Turbine and both Reactor Feed Pumps (RFPs) tripped resulting in a reactor scram and reactor water level dropping below Low Level (LL) 1 and 2. The LL1 resulted in Group 2 (i.e., floor and equipment drain isolation valves), Group 6 (i.e., monitoring and sampling isolation valves), and Group 8 (i.e., shutdown cooling isolation valves) isolations. The LL2 resulted in Group 3 (i.e., Reactor Water Cleanup) isolation, a secondary containment isolation signal, and High Pressure Coolant Injection and Reactor Core Isolation Cooling (RCIC) automatically starting and injecting into the vessel. All control rods inserted as expected during the scram and all systems responded as designed. 
+
+ The Main Turbine and both RFPs tripped due to two out of three level instruments sensing a false high reactor water level. The false signal was a result of hydrogen deflagration in the reactor level condensing chamber due to a flaw in the original design. 
+
+ There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) due to actuations of the Reactor Protection System, Primary Containment Isolation System, Emergency Core Cooling System, and RCIC.

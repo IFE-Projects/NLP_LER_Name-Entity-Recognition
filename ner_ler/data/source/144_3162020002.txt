@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Plant Shutdown Required by Technical Specifications due to Reactor Coolant System Leakage.
+ On May 1, 2020, at 1059, a Unit 2 shutdown was completed in accordance with Technical Specification (TS) 3.4.13, Condition B for Reactor Coolant System (RCS) Operational Leakage. At 0354, Operators detected an estimated 8 gallons per minute (gpm) RCS leak. The source of the leak could not be identified and TS 3.4.13, Condition A was entered for unidentified RCS leakage in excess of the 0.8 gpm limit. Subsequently, at 0754, TS 3.4.13, Condition B was entered, when the 4 hour limit to complete the required action of Condition A, to reduce leakage to within limits, could not be met. 
+
+ The cause of the leakage was due to a weld failure on the 2NRV163, RCS Loop #3 Pressurizer Spray Control Valve, 0.5 inch telltale line. The lower telltale on 2NRV163 was cut and a welded plug was installed. The lower telltale on 2NRV164, Reactor Coolant Loop #4 to Pressurizer Spray Control Valve was also cut and a welded plug was installed to address extent of condition and prevent a similar event. The location of the weld failure was evaluated and determined not to be Reactor Coolant Pressure Boundary leakage. 
+
+ The Unit 2 shutdown was reported via Event Notification 54687 in accordance with 10 CFR 50.72(b)(2)(i). The completion of the plant shutdown required by TS is reportable as a Licensee Event Report in accordance with 10 CFR 50.73(a)(2)(i)(A).

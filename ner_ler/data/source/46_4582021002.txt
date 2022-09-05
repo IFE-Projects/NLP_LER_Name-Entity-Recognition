@@ -1,0 +1,5 @@
+Plant: River Bend.
+Automatic Reactor Scram due to Turbine Control System Communication Fault.
+ On April 2, 2021 at 1017 CT, River Bend Station was operating at 86% reactor power when a turbine trip signal caused a Main Turbine trip and an automatic reactor scram. All control rods fully inserted and there were no complications. All systems responded as designed. 
+
+ The Main Turbine trip and reactor scram were caused by a random, spurious communication error within the Ovation Turbine Control System. The condition was repaired by replacing a communication module in the remote panel.

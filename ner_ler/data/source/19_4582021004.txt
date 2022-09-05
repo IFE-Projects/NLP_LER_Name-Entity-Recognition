@@ -1,0 +1,9 @@
+Plant: River Bend.
+Core Monitoring System Software Modeling Error Resulted in Conditions Prohibited by Technical Specifications.
+ On June 17, 2021, with River Bend Station (RBS) operating at 100 percent power, Entergy received a letter from GE Hitachi issuing SC 21-04, Revision 1, "Fuel Support Side Entry Orifice Meta-Stable Flow for 2 Beam Locations in the BWR/6 Reactors," identifying that the Global Nuclear Fuels (GNF) model for fuel affected by the Side Entry Orifices did not accurately account for the loss coefficients at those core locations causing a local overprediction in Minimum Critical Power Ratio (MCPR) margin. This resulted in the determination by Entergy that a condition prohibited by Technical Specifications (TSs) had existed at RBS and this report being made in accordance with 10 CFR 50.73(a)(2)(i)(B). 
+
+ The cause of the event was GNF had not accurately accounted for the loss coefficients at applicable core locations causing a local overprediction in MCPR margin resulting in exceeding the MCPR TS limit. 
+
+ Corrective actions include implementing a penalty to Operating Limit MCPR (OLMCPR) in the core monitoring system via an update to the databank to include all penalties associated with GEH letter SC 21-04, Revision 1, and an update to the current Core Operating Limits Report (COLR). 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety, nor radiological safety.

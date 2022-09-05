@@ -1,0 +1,7 @@
+Plant: Watts Bar 1.
+Control Room Emergency Ventilation System Inoperable due to Main Control Room Door Being Left Open.
+ At 1511 Eastern Standard Time (EST) on March 1, 2021, a Main Control Room (MCR) alarm was received for low control room positive pressure. In response to the alarm, a Control Room Envelope (CRE) door was found ajar and immediately closed. Technical Specification Limiting Condition for Operation (LCO) 3.7.10, Control Room Emergency Ventilation System (CREVS), was declared not met for both trains and Condition B entered. At 1513 EST on March 1, 2021, the alarm cleared, CREVS was declared operable and LCO 3.7.10, Condition B was exited. 
+
+ The direct cause of this event was a human performance error when an individual traversing the control building complex did not fully challenge and ensure a MCR envelope boundary door was properly latched and secured. Contributing to this event, standards had not been properly established, communicated, and reinforced with plant staff related to operation of plant doors. Immediate corrective actions included closing the MCR door and coaching the individual. Actions to reduce the probability of recurrence include the development and communication of management expectations associated with operating plant doors. 
+
+ This condition is being reported as an event or condition that could have prevented fulfillment of a safety function needed to mitigate the consequences of an accident in accordance with 10 CFR 50.73(a)(2)(v)(D).

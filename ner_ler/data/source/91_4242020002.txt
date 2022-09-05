@@ -1,0 +1,7 @@
+Plant: Vogtle 1.
+Oil Leak Causes Ultimate Heat Sink to be Inoperable Longer than Allowed by Technical Specifications.
+ On September 29, 2020, Vogtle Electric Generating Plant Unit 1 was operating in Mode 1 at 100 percent power. The quarterly preventive maintenance (PM) was performed on the gearbox for fan 4 of the Unit 1, B-train Nuclear Service Cooling Water (NSCW) system. During this PM, it was discovered that the oil level in the gearbox was low. The last time the gearbox was verified to be full was July 7, 2020. Based on troubleshooting performed on the gearbox in November 2020, the oil only leaked out of the gearbox while it was running and leaked approximately 1.14 gallons per day while in operation. After reviewing the Integrated Plant Computer (IPC) data, the last time the fan ran was September 6. It was during this run on September 6, that the oil level in the gearbox would have dropped below the required level for the gearbox to remain operational. 
+
+ When the oil level dropped on September 6, Technical Specification (TS) 3.7.9 Condition B should have been entered because one of the fan/spray cells was inoperable. However, because the oil level was not known to be low, this Condition was not entered. 
+
+ TS 3.7.9 Required Action B.1 has a completion time of seven days or in accordance with the Risk Informed Completion Time Program. Because this condition was not entered, the plant operated in a condition prohibited by TS from the period of September 13 through November 4, when the leak was repaired.

@@ -1,0 +1,7 @@
+Plant: Brunswick 1.
+Setpoint Drift in Main Steam Line Safety Relief Valves Results in Three Valves Inoperable.
+ On August 12, 2020, BSEP received test results for the eleven main steam line safety relief valves (SRVs) removed from Unit 1 during the spring 2020 refuel outage (RFO). Three of the eleven valves were found to have as found pilot valve lift setpoints outside the +/-3 percent tolerance required by Technical Specification (TS) 3.4.3, which requires ten of the eleven installed SRVs to be operable. Since less than ten SRVs were operable, this event is being reported per 10 CFR 50.73(a)(2)(i)(B) as operation prohibited by the plant’s TS. At the time the test results were received, Unit 1 was shutdown for an unrelated maintenance outage. 
+
+ The direct cause of the out of tolerance as-found lift setpoints was corrosion bonding of the SRV pilot discs to the pilot seats. The root cause of the corrosion bonding was inadequate procedures in place when these valves were refurbished and installed in the 2018 RFO. Subsequent to the 2018 installation of these SRVs, as a result of the Root Cause Evaluation associated with LER 1-2018-003, dated August 9, 2018 (i.e., ADAMS Accession Number ML18221A552), corrective actions were completed revising the associated procedures to prevent this condition from recurring. 
+
+ All eleven of the SRV pilot valves were replaced with certified spares before Unit 1 startup from the spring 2020 RFO. These spares were rebuilt utilizing the revised procedures.

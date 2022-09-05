@@ -1,0 +1,7 @@
+Plant: Surry 1.
+Failure to Align Angle Drive to Pump Results in Inoperable Emergency Service Water Pump.
+ On June 23, 2019, with Units 1 and 2 at 100% power, the packing gland on the 1B Emergency Service Water Pump (ESWP) failed during periodic pump testing and the pump was declared inoperable. The packing gland was repaired and the pump was returned to service on June 24, 2019. During the next scheduled pump test on July 21, 2019, another packing failure occurred. Subsequent investigation revealed that both packing failures were caused by the angle drive to pump shaft not being aligned when the pump was replaced in May 2019. The decision making was not appropriate in that only first line supervisors were consulted before making the decision not to perform the alignment The decision should have been elevated to ensure a broader group of personnel were involved in the decision. 
+
+ The ESWP 1B to angle drive alignment was performed in accordance with procedures and returned to service. Additionally, corrective actions will include a revision to the maintenance procedure and other changes focusing on improving proficiency and decision making. 
+
+ This report is submitted pursuant to 10 CFR 50.73(a)(2)(i)(B) due to operations prohibited by Technical Specifications. Based on a risk assessment, the risk impact was determined to be of very low significance.

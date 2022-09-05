@@ -1,0 +1,9 @@
+Plant: FitzPatrick.
+Automatic Scram due to Main Turbine Trip on High RPV Water Level.
+ On January 31, 2020, an automatic scram occurred as a result of a main turbine trip on high Reactor Pressure Vessel (RPV) water level. The plant was at reduced power in preparation for maintenance activities. When the ‘A’ Reactor Feed Pump (RFP) was removed from service, the ‘A’ RFP discharge check valve (34FWS-4A) failed to immediately close resulting in a rapid increase in RPV level. A high RPV level trip signal resulted in the ‘B’ RFP trip and Main Turbine trip. 
+
+ This event resulted in the automatic actuation of the Reactor Protection System and containment isolations in multiple systems, reportable per 10 CFR 50.73(a)(2)(iv)(A). When Secondary Containment automatically isolated, a differential pressure excursion momentarily exceeded Technical Specification limits, a condition reportable in accordance with 10 CFR 50.73(a)(2)(v)(C). 
+
+ The cause of the event was determined to be due to a failure of the A’ RFP discharge check valve (34FWS-4A) to close. 
+
+ There were no actual safety consequences as a result of this event. The ‘B’ RFP was restored to service and the condensate and feedwater systems remained available for post-scram recovery.

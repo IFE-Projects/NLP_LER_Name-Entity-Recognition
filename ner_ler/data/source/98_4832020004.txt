@@ -1,0 +1,9 @@
+Plant: Callaway.
+Violation of TS 3.8.1 "AC Sources - Operating".
+ On September 9, 2020, a review of trend data identified a significant increase in makeup to the 'A' emergency diesel generator (DG) jacket water expansion tank, as applicable to a period of time that began on August 5, 2020. Specifically, the makeup water supply control valve cycled 25 times between August 5, 2020 and September 9, 2020. Prior to August 5, 2020, this valve had not cycled since April 15, 2020. 
+
+ The 'A' DG was declared inoperable on September 9, 2020 due to excessive jacket water leakage through KJV00771A, 'A' DG Jacket Water Heater Relief Valve. The 'A' DG was returned to operable status after KJV00771A was isolated on September 9, 2020. The valve was then removed and tested, and a replacement valve was installed in its place on September 10, 2020. 
+
+ The cause of this event was excessive jacket water leakage through KJV00771A, which had failed to seat due to debris becoming trapped in the valve seat after the valve was opened to manually vent the jacket water system after maintenance on August 5, 2020. 
+
+ Immediate corrective action for this event was to replace KJV00771A. Additionally, a corrective action to prevent recurrence was implemented, in which a night order was issued prohibiting the use of either KJV00771A or KJV00771B, ('B' DG jacket water heater relief valve) for venting the jacket water systems of the DGs, until the final resolution of this issue is complete.

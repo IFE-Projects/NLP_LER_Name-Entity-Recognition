@@ -1,0 +1,9 @@
+Plant: Millstone 3.
+Automatic Reactor Trip due to Main Generator Ground Fault.
+ On April 1, 2020, at 16:25, Millstone Power Station Unit 3 (MPS3) was in Mode 1 at 100 percent reactor power, when an automatic reactor trip occurred as a result of a main generator/turbine trip initiated by a main generator protection system actuation from a ground fault. All control rods inserted on the trip. The station electrical buses automatically transferred to their alternate offsite source. 
+
+ The direct cause of the trip was a ground fault on the 'C' phase of the Normal Station Service Transformer (NSST) Isolated Phase Bus Duct (IPBD) due to water intrusion and buildup in an IPBD transition section which caused a turbine generator trip, and subsequently a reactor trip.
+
+ Access door gaskets in this IPBD section were sealed with RTV to prevent water intrusion and drains were installed on each phase of the IPBD. 
+
+ The actuation of the Reactor Protection System (RPS) and the Auxiliary Feedwater System (AFW) is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual or automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B).

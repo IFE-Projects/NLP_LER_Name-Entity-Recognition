@@ -1,0 +1,5 @@
+Plant: Quad Cities 1.
+Main Steam Line Drain Valve Declared Inoperable due to Improper Torque Switch Setting.
+ On July 1, 2020 and July 23, 2020, engineering identified the torque switch setting on the Unit 2 and Unit 1 Main Steam Line (MSL) outboard drain (1(2)-0220-2) motor operated valves (MOV) were found to be nonconservative with respect to the valve's design function under the expected worst-case operating conditions. Both valves were initially evaluated and declared operable because the valve was closed (safety function position) and was not required to be opened during the normal two-year operating cycle. On September 11, 2020 at 1100 CDT, Operations determined that although the valves were performing their isolation function, operability was no longer supported and the MSL outboard drain valves were declared inoperable. 
+
+ This issue is being reported under 10CFR50.73(a)(2)(i)(B) for any operation or condition which was prohibited by the plant's Technical Specifications (TS) because TS 3.6.1.3 Action Statement A.1 was not completed within the required time in July 2020 during the initial discovery of the torque switch setting issue.

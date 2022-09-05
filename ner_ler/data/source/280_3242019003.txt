@@ -1,0 +1,7 @@
+Plant: Brunswick 2.
+High Pressure Coolant Injection (HPCI) Inoperable.
+ At 21:27 Eastern Daylight Time (EDT) on June 12, 2019, during routine testing on Unit 2, the High Pressure Coolant Injection (HPCI) turbine experienced an overspeed trip. Following the overspeed trip, the turbine coasted down and reset, then restarted and rolled to rated conditions as-designed. As a result, the response time of the system exceeded the 60-second acceptance criteria, thereby rendering the system inoperable. Reactor Core Isolation Cooling (RCIC) System and Automatic Depressurization System (ADS) remained operable during this event. 
+
+ Failure of Unit 2 HPCI to meet the 60 second response time acceptance criteria was caused by a momentary failure of the Electric Governor – Remote (EG-R) to control HPCI Turbine speed during the initial turbine roll. The EG-R Actuator was replaced and the testing was repeated successfully with the response time acceptance criteria met. Historical data was reviewed on Unit 1 and it was confirmed that this condition was isolated to Unit 2.
+
+ The safety significance of this event is minimal. There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D).

@@ -1,0 +1,7 @@
+Plant: Perry.
+Loss of Safety Function due to Low Pressure Core Spray Inoperability.
+ On May 24, 2019, at 0730 hours, the Low Pressure Core Spray (LPCS) system was declared inoperable due to the inoperability of the Emergency Service Water (ESW) A pump. ESW A pump was declared inoperable based on a loss of continuity through the breaker control power closing fuses. Since LPCS is a supported system and a single train safety system, as specified in site procedures, LPCS inoperability is considered a loss of safety function and is reportable. 
+
+ The cause for ESW A inoperability is that the Non-Licensed Operators (NLO) did not recognize that the control power fuses (AX) for ESW A pump breaker closing power were not fully seated following installation, after recent breaker racking activities. Corrective actions include changes to Switchgear, and Electrical Operator Safety training lesson plans, and a discussion of the event during NLO continuing training. 
+
+ The safety significance of this event is considered very small. This event is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented the fulfillment of a safety function needed to mitigate the consequences of an accident.

@@ -1,0 +1,7 @@
+Plant: FitzPatrick.
+Unanalyzed Condition due to Unprotected Control Circuits Running Through Multiple Fire Areas.
+ During a review of industry Operating Experience, James A. FitzPatrick Nuclear Power Plant (JAF) identified that unprotected control circuits for non-safety related oil pumps routed through different fire areas. The concern is that a postulated fire in one area can cause short circuits potentially resulting in secondary fires or cable failures in other fire areas where the cables are routed.
+
+ The control circuits for the Turbine Generator Emergency Bearing Lube Oil Pump (94P-2), Emergency Seal Oil Pump (94P-13), and Reactor Feed Pump Turbine Emergency Oil Pumps (31P-7A and 31P-7B) are unfused and would not be protected. Cables for these control circuits are routed in safety-related trays with safety-related cables thru fire zones in Battery Charger Rooms, Battery Room Corridor, Cable Spreading Room, Relay Room, and Control Room. 
+
+ The cause of the condition is that the original plant design, prior to 10 CFR 50 Appendix R, did not include overcurrent protection for control circuits in all applicable Safe Shutdown Analysis circumstances. Compensatory actions were established for the affected Fire Zones until the affected circuits were modified.

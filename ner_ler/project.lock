@@ -1,0 +1,30 @@
+evaluate:
+  cmd: python -m spacy run evaluate
+  script:
+    - python -m spacy evaluate training/model-best corpus/ler_eval.spacy --output
+      training/metrics.json
+  deps:
+    - path: corpus/ler_eval.spacy
+      md5: 160ac50e12072cd5a8486952903224ae
+    - path: training/model-best
+      md5: 9726f9f47a1abe36faff57983f0ed026
+  outs:
+    - path: training/metrics.json
+      md5: f75a4ce9258174be9c3bf110287f5310
+  spacy_version: 3.3.1
+  spacy_git_version: 5fb597f77
+train:
+  cmd: python -m spacy run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/ler_training.spacy
+      --paths.dev corpus/ler_eval.spacy --gpu-id 0
+  deps:
+    - path: corpus/ler_training.spacy
+      md5: 160ac50e12072cd5a8486952903224ae
+    - path: corpus/ler_eval.spacy
+      md5: 160ac50e12072cd5a8486952903224ae
+  outs:
+    - path: training/model-best
+      md5: 9726f9f47a1abe36faff57983f0ed026
+  spacy_version: 3.3.1
+  spacy_git_version: 5fb597f77

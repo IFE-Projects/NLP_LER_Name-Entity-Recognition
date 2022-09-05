@@ -1,0 +1,7 @@
+Plant: Browns Ferry 1.
+High Pressure Coolant Injection System Declared Inoperable due to Steam Supply Isolation.
+ On July 12, 2019, at approximately 1640 Central Daylight Time (CDT), the Unit 1 High Pressure Coolant Injection (HPCI) system unexpectedly received a Group 4 Primary Containment Isolation System (PCIS) signal which closed the HPCI inboard and outboard steam supply valves. Operations personnel declared HPCI inoperable and entered Technical Specification (TS) 3.5.1, "Emergency Core Cooling System (ECCS) - Operating," Condition C. 
+
+ The causes of this event were that Electrical Maintenance personnel failed to follow EPI-0-075-RLY001, "Functional Test of Pressure Suppression Chamber Head Tank Pump Suction Valve Interlock Relays," as written by not verifying panel number or wire number and by failing to use a peer check as required; and that the workers failed to apply maintenance fundamentals and technical skills with appropriate rigor when using test equipment. 
+
+ Corrective actions include implementing accountability actions for the individuals involved in this event in accordance with TVA's processes, briefing personnel in Electrical Maintenance on the causes and lessons learned from this event, and performing a dynamic learning activity with electricians involved to cover volt-ohm meter usage.

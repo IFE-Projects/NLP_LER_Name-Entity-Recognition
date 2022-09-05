@@ -1,0 +1,7 @@
+Plant: Brunswick 1.
+Manual Reactor Scram During Startup due to all Bypass Valves Fully Opening.
+ At 12:55 Eastern Daylight Time (EDT) on March 22, 2020, with Unit 1 in Mode 2, stabilized at 2% power, during startup from a refueling outage, all four main turbine Bypass Valves (BPVs) fully opened unexpectedly. This created an unexpected reactor depressurization and cooldown which resulted in the operating crew inserting a manual reactor scram. The scram was uncomplicated and all control rods inserted as expected during the scram. 
+
+ All BPVs fully opened as a result of the Turbine Control System (TCS) pressure setpoint not being set correctly. This error went undetected until the low main condenser vacuum isolation signal to the BPVs cleared during the startup sequence, at which time the BPVs fully opened. 
+
+ There was no impact on the health and safety of the public or plant personnel. This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) due to manual actuation of the Reactor Protection System (RPS).
