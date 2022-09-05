@@ -1,0 +1,7 @@
+Plant: Cook 1.
+Condition Prohibited by Technical Specifications due to Loss of Train B Reserve Power.
+ On February 26, 2021, Donald C. Cook Nuclear Plant Unit 1 and Unit 2 were operating at 100 percent power when an electrical fault occurred between the high side of the Reserve Feed Auxiliary Transformer (RAT) and associated breaker on the Train B Reserve Feed for both units. This caused the circuit breakers to open, removing access to one of the two immediate offsite power sources, and Unit 1 and Unit 2 Train B Reserve Feed was declared inoperable. The Train A Reserve Feed offsite power source, all four Emergency Diesel Generators, and the backup offsite power source remained fully functional. 
+
+ Field investigations resulted in finding a failed bus structure in a loop feed enclosure, which supplied both units. Due to the extensive troubleshooting time required to identify the cause of the problem, enforcement discretion was requested to allow exceeding the 72 hour completion time of Required Action A.3 of Technical Specification 3.8.1 AC Sources - Operating, by an additional 48 hours to complete repairs. Enforcement discretion was granted and repairs were completed on March 2, 2021, within the period of enforcement discretion. The cause of the issue was due to insulator contamination and moisture inside the enclosure. Heaters were installed to prevent condensation of moisture inside the enclosure. 
+
+ The event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B), Operation or Condition Prohibited by Technical Specifications.

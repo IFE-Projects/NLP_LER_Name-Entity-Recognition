@@ -1,0 +1,9 @@
+Plant: Waterford 3.
+Control Room Air Filtration Equipment Failure Resulting in a Condition Prohibited by Technical Specification 3.7.6.1.
+ On December 25, 2020 at 0537, Waterford 3 Steam Electric Station Control Room operators observed HVC-213A (Control Room Emergency Air Filtration Unit (EFU) Train A recirculation damper) out of its normal position during a control board walk down. Control Room EFU Train A was declared inoperable. During the restoration of the system, HVC-205A (Control Room EFU Train A inlet damper) failed open. HVC-205A was repaired and Control Room EFU Train A was declared operable on December 29, 2020 at 0200. During the past operability review, firm evidence was discovered that the condition observed on December 25, 2020 would have affected the operability of Control Room EFU Train A starting on December 21, 2020 at 1732, when HVC-213A initially moved from its intermediate to open position as indicated on the plant computer. Therefore, the total time Control Room EFU Train A was inoperable was 7 days, 8 hours and 28 minutes, exceeding the Technical Specification 3.7.6.1 allowed outage time. 
+
+ During as-found testing of the removed hydramotor from HVC-213A, the hydraulic pump/motor assembly seized causing excessive motor current. The hydramotor hydraulic pump/motor assembly was determined to be faulty. 
+
+ Corrective action included restoring the system to operable status and revising the shiftly walkdown checklists to allow a means to detect these components being out of their normal position. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety or radiological safety. No radiological release occurred due to this event.

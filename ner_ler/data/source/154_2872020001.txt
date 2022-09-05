@@ -1,0 +1,9 @@
+Plant: Oconee 3.
+Unit 3 Manual Reactor Trip due to Reaching Feedwater Heater Level Limit in Operating Procedure.
+ On April 10, 2020 at 2125 EDT, Oconee Unit 3 was manually tripped from 32% power based on the water level in the 3F1 Feedwater Heater. At the time of the trip, Unit 3 was reducing power as part of a planned shutdown for a refueling outage. The trip was initiated in accordance with procedural guidance that called for tripping the Reactor and Main Turbine if a large Feedwater tube leak exists and any 'F' Feedwater Heater Level indicates >/= 14" while the Reactor is greater than 25% power. At the time of the trip it was thought that there had been a significant tube leak in the 3F1 Feedwater Heater. Subsequent investigation determined there was no tube leak associated with the increased level in the 3F1 heater. 
+
+ Post-trip plant response was normal and plant conditions were controlled and maintained within the allowances of Technical Specifications with no safety system actuations.
+
+ An ongoing cause analysis has determined that the unit trip was due to an overly restrictive heater level limit placed in the operating procedure that did not account for the various heater levels that occur during power reductions.
+
+ This event was reported as a 4-hour notification to the NRC on April 11, 2020, in Event Notification (EN) number 54661 under 10 CFR 50.72(b)(2)(iv)(B) - Reactor Protection System (RPS) Actuation - Critical (Manual Reactor Trip). The event is also reportable under 10 CFR 50.73(a)(2)(iv)(A) as an actuation of the RPS.

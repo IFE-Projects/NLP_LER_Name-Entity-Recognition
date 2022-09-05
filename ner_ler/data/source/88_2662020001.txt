@@ -1,0 +1,7 @@
+Plant: Point Beach 1.
+Reactor Coolant System Pressure Boundary Leak on Steam Generator Bowl Drain Line Results in Operation Prohibited by Technical Specifications.
+ On October 3, 2020, Point Beach Unit 1 was shut down for refueling outage U1R39. At 0913 hours while performing inspections during the MODE 3 descending walkdown, a through-weld leak was identified on the steam generator (SG) 1B channelhead drain line at the drain isolation valve weld. 
+
+ The cause of the condition was high cycle fatigue that initiated from a small weld defect at the root of the socket fillet weld. Corrective actions included the removal of the weld defect and the drain valve and installing a cap on the SG channelhead drain line 1B. 
+
+ This event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(A) and 10 CFR 50,73(a)(2)(i)(B).

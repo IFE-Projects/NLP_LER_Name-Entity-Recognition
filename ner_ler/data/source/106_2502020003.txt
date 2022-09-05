@@ -1,0 +1,5 @@
+Plant: Turkey Point 3.
+Automatic Reactor Trip due to High Source Range Flux During Reactor Startup.
+ On 8/19/2020 at approximately 13:22, a plant startup on Turkey Point Unit 3 was in progress when the reactor automatically tripped while critical in Mode 2 and power increasing in the Source Range. The reactor trip signal was initiated by one of two Source Range Nuclear Power Instrumentation Channels exceeded its trip setpoint. 
+
+ This event is reportable pursuant to 10 CFR 50.73 (a)(2)(iv)(A) for the initiation of the Reactor Protection System (RPS).

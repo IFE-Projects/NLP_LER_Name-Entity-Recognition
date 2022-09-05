@@ -1,0 +1,11 @@
+Plant: Callaway.
+Reactor Trip due to Source Range Hi-Flux.
+ At 2303 on May 16, 2019, Callaway plant tripped during reactor startup due to a Source Range (SR) Hi-Flux trip signal, which resulted in reactor protection system and auxiliary feedwater system actuations. The control room operators failed to block the SR Hi-Flux trip prior to reaching the setpoint of 10E5 counts per second. All plant systems responded as expected. 
+
+ Analysis identified the following causes and contributing causes: 
+ 1. The Reactor Operators did not have an appropriate strategy for monitoring SR detector count rate relative to other critical parameters that were being monitored. 
+ 2. The Control Room Supervisor was also fulfilling the role of Reactivity Management Senior Reactor Operator but became distracted from this primary function. The reactor startup procedure required going to several attachments and performing lower priority steps prior to blocking the SR Hi-Flux trip, thus delaying performance of this action. 
+ 3. The reactor startup procedure did not support expeditious action to block the SR Hi-Flux trip. 
+ 4. Operators were not aware of the time constraints when blocking the SR Hi-Flux trip. 
+
+ Corrective actions include revising the reactor startup procedure to ensure the correct monitoring behaviors and revising the standard to require an additional Senior Reactor Operator who can focus solely on reactivity control.

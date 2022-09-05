@@ -1,0 +1,3 @@
+Plant: Calvert Cliffs 2.
+Auxiliary Feedwater Pump Inoperable due to Improper Reset of Trip Throttle Valve.
+ On August 10, 2021 it was determined that the 22 Auxiliary Feedwater (AFW) Pump trip throttle valve was not reset properly in March 2021. As a result, the 22 AFW Pump was determined to be inoperable for a period longer than allowed by the technical specification condition completion time. The 22 AFW Pump was subsequently reset properly. The cause of the improper reset of 22 AFW Pump trip throttle valve was due to inadequate procedural guidance. Actions were taken to update the procedure providing additional detail to ensure the trip throttle valve is reset properly.

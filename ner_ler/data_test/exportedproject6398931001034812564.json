@@ -1,0 +1,1964 @@
+{
+  "name" : "SuccessLERSecond Test_Rossella",
+  "slug" : null,
+  "description" : "This project is relate to S-40337-04-002 PoC NLP Document AI. The object is a set ov event downloaded from the LER database\r\n\r\nTesting by Rossella",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "301_4462019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037270999,
+    "updated" : 1662037299131
+  }, {
+    "name" : "302_4162019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271041,
+    "updated" : 1662039932333
+  }, {
+    "name" : "303_4832019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271058,
+    "updated" : 1662040031544
+  }, {
+    "name" : "304_4832019006.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271074,
+    "updated" : 1662040093489
+  }, {
+    "name" : "305_2372019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271119,
+    "updated" : 1662040181823
+  }, {
+    "name" : "306_3692019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271152,
+    "updated" : 1662040376667
+  }, {
+    "name" : "307_3732019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271179,
+    "updated" : 1662040451818
+  }, {
+    "name" : "308_3642019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271246,
+    "updated" : 1662040592519
+  }, {
+    "name" : "309_2202019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271270,
+    "updated" : 1662040738532
+  }, {
+    "name" : "310_4582019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271298,
+    "updated" : 1662040989942
+  }, {
+    "name" : "311_2202019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271326,
+    "updated" : 1662041068594
+  }, {
+    "name" : "312_3352019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271406,
+    "updated" : 1662041128971
+  }, {
+    "name" : "313_3902019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271455,
+    "updated" : 1662041262398
+  }, {
+    "name" : "314_3902019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271484,
+    "updated" : 1662041361799
+  }, {
+    "name" : "315_4552019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271517,
+    "updated" : 1662041409531
+  }, {
+    "name" : "316_3252019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271549,
+    "updated" : 1662041532373
+  }, {
+    "name" : "317_3312019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271567,
+    "updated" : 1662041671035
+  }, {
+    "name" : "318_4002019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271673,
+    "updated" : 1662041756881
+  }, {
+    "name" : "319_4832019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271712,
+    "updated" : 1662041826823
+  }, {
+    "name" : "320_2202019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271740,
+    "updated" : 1662041994000
+  }, {
+    "name" : "321_3272019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271758,
+    "updated" : 1662042040655
+  }, {
+    "name" : "322_2632019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271802,
+    "updated" : 1662042188507
+  }, {
+    "name" : "323_2932019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271830,
+    "updated" : 1662042340761
+  }, {
+    "name" : "324_3642019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271858,
+    "updated" : 1662042426802
+  }, {
+    "name" : "325_4132019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271888,
+    "updated" : 1662042581529
+  }, {
+    "name" : "326_2662019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271915,
+    "updated" : 1662042692003
+  }, {
+    "name" : "327_2662019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037271942,
+    "updated" : 1662042777421
+  }, {
+    "name" : "328_4582019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272000,
+    "updated" : 1662042817218
+  }, {
+    "name" : "329_5282019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272031,
+    "updated" : 1662042864855
+  }, {
+    "name" : "330_3242019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272062,
+    "updated" : 1662042981971
+  }, {
+    "name" : "331_4252019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272098,
+    "updated" : 1662043035615
+  }, {
+    "name" : "332_3252019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272127,
+    "updated" : 1662365958881
+  }, {
+    "name" : "333_3882019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272150,
+    "updated" : 1662366026103
+  }, {
+    "name" : "334_3252019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272195,
+    "updated" : 1662366209547
+  }, {
+    "name" : "335_3252019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272233,
+    "updated" : 1662371353783
+  }, {
+    "name" : "336_2472019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272261,
+    "updated" : 1662371406814
+  }, {
+    "name" : "337_3662019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272289,
+    "updated" : 1662371521000
+  }, {
+    "name" : "338_2602019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272319,
+    "updated" : 1662371612793
+  }, {
+    "name" : "339_4132019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272348,
+    "updated" : 1662371810938
+  }, {
+    "name" : "340_3662019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272378,
+    "updated" : 1662372220958
+  }, {
+    "name" : "341_2472019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272409,
+    "updated" : 1662372597943
+  }, {
+    "name" : "342_4452019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272438,
+    "updated" : 1662372773683
+  }, {
+    "name" : "343_4452019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272542,
+    "updated" : 1662373143699
+  }, {
+    "name" : "344_3822019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272568,
+    "updated" : 1662373168935
+  }, {
+    "name" : "345_2962019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272604,
+    "updated" : 1662373410768
+  }, {
+    "name" : "346_2442019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272631,
+    "updated" : 1662373549585
+  }, {
+    "name" : "347_2982019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272657,
+    "updated" : 1662373723889
+  }, {
+    "name" : "348_3242019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272684,
+    "updated" : 1662373815666
+  }, {
+    "name" : "349_3152019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272711,
+    "updated" : 1662376534416
+  }, {
+    "name" : "350_3392019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272737,
+    "updated" : 1662376638050
+  }, {
+    "name" : "351_4462019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272763,
+    "updated" : 1662376906382
+  }, {
+    "name" : "352_3742019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662037272789,
+    "updated" : 1662377142292
+  } ],
+  "annotation_documents" : [ {
+    "name" : "301_4462019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662039909066,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662037299025,
+    "updated" : 1662039909066
+  }, {
+    "name" : "302_4162019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040012714,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662039932251,
+    "updated" : 1662040012714
+  }, {
+    "name" : "303_4832019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040069726,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040031473,
+    "updated" : 1662040069727
+  }, {
+    "name" : "304_4832019006.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040170981,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040093415,
+    "updated" : 1662040170981
+  }, {
+    "name" : "305_2372019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040371242,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040181639,
+    "updated" : 1662040371242
+  }, {
+    "name" : "306_3692019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040431070,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040376586,
+    "updated" : 1662040431070
+  }, {
+    "name" : "307_3732019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040584738,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040451763,
+    "updated" : 1662040584739
+  }, {
+    "name" : "308_3642019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040753644,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040592470,
+    "updated" : 1662040753644
+  }, {
+    "name" : "309_2202019003.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662040972083,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040738480,
+    "updated" : 1662040972083
+  }, {
+    "name" : "310_4582019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041036894,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662040989887,
+    "updated" : 1662041036894
+  }, {
+    "name" : "311_2202019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041108626,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041068533,
+    "updated" : 1662041108627
+  }, {
+    "name" : "312_3352019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041254720,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041128913,
+    "updated" : 1662041254720
+  }, {
+    "name" : "313_3902019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041353534,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041262343,
+    "updated" : 1662041353534
+  }, {
+    "name" : "314_3902019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041404979,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041361746,
+    "updated" : 1662041404979
+  }, {
+    "name" : "315_4552019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041524035,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041409469,
+    "updated" : 1662041524035
+  }, {
+    "name" : "316_3252019003.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041641500,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041532319,
+    "updated" : 1662041641501
+  }, {
+    "name" : "317_3312019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041742801,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041670983,
+    "updated" : 1662041742801
+  }, {
+    "name" : "318_4002019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041797979,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041756820,
+    "updated" : 1662041797980
+  }, {
+    "name" : "319_4832019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662041981951,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041826771,
+    "updated" : 1662041981951
+  }, {
+    "name" : "320_2202019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042025272,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662041993944,
+    "updated" : 1662042025272
+  }, {
+    "name" : "321_3272019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042181783,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042040601,
+    "updated" : 1662042181783
+  }, {
+    "name" : "322_2632019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042336786,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042188452,
+    "updated" : 1662042336786
+  }, {
+    "name" : "323_2932019003.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042411579,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042340709,
+    "updated" : 1662042411579
+  }, {
+    "name" : "324_3642019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042585233,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042426752,
+    "updated" : 1662042585233
+  }, {
+    "name" : "325_4132019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042680780,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042581479,
+    "updated" : 1662042680780
+  }, {
+    "name" : "326_2662019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042720120,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042691946,
+    "updated" : 1662042720120
+  }, {
+    "name" : "327_2662019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042800871,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042777368,
+    "updated" : 1662042800871
+  }, {
+    "name" : "328_4582019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042854631,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042817164,
+    "updated" : 1662042854631
+  }, {
+    "name" : "329_5282019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662042964576,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042864803,
+    "updated" : 1662042964577
+  }, {
+    "name" : "330_3242019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662043029443,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662042981919,
+    "updated" : 1662043029443
+  }, {
+    "name" : "331_4252019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365955204,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662043035570,
+    "updated" : 1662365955205
+  }, {
+    "name" : "332_3252019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366015812,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365958822,
+    "updated" : 1662366015812
+  }, {
+    "name" : "333_3882019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366194785,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366026053,
+    "updated" : 1662366194785
+  }, {
+    "name" : "334_3252019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371348469,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366209404,
+    "updated" : 1662371348469
+  }, {
+    "name" : "335_3252019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371404525,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371353699,
+    "updated" : 1662371404525
+  }, {
+    "name" : "336_2472019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371497416,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371406755,
+    "updated" : 1662371497416
+  }, {
+    "name" : "337_3662019003.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371590703,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371520924,
+    "updated" : 1662371590703
+  }, {
+    "name" : "338_2602019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371803780,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371612739,
+    "updated" : 1662371803781
+  }, {
+    "name" : "339_4132019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372207313,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371810890,
+    "updated" : 1662372207313
+  }, {
+    "name" : "340_3662019002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372590441,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372220910,
+    "updated" : 1662372590441
+  }, {
+    "name" : "341_2472019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372752943,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372597884,
+    "updated" : 1662372752943
+  }, {
+    "name" : "342_4452019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373134651,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372773626,
+    "updated" : 1662373134651
+  }, {
+    "name" : "343_4452019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373227387,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373143621,
+    "updated" : 1662373227387
+  }, {
+    "name" : "344_3822019004.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373392035,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373168890,
+    "updated" : 1662373392035
+  }, {
+    "name" : "345_2962019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373516386,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373410717,
+    "updated" : 1662373516386
+  }, {
+    "name" : "346_2442019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373713899,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373549536,
+    "updated" : 1662373713899
+  }, {
+    "name" : "347_2982019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373807649,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373723763,
+    "updated" : 1662373807649
+  }, {
+    "name" : "348_3242019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376533028,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373815620,
+    "updated" : 1662376533028
+  }, {
+    "name" : "349_3152019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376613950,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376534361,
+    "updated" : 1662376613950
+  }, {
+    "name" : "350_3392019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376901737,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376637987,
+    "updated" : 1662376901737
+  }, {
+    "name" : "351_4462019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377137709,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376906170,
+    "updated" : 1662377137709
+  }, {
+    "name" : "352_3742019001.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377142275,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377142234,
+    "updated" : 1662377142275
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "chaut"
+  }, {
+    "level" : "CURATOR",
+    "user" : "chaut"
+  }, {
+    "level" : "USER",
+    "user" : "chaut"
+  }, {
+    "level" : "CURATOR",
+    "user" : "rossella"
+  }, {
+    "level" : "USER",
+    "user" : "rossella"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Coreference mentions",
+    "description" : "coreference type annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "nam",
+      "tag_description" : "nam"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Coreference relations",
+    "description" : "coreference relation annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "anaphoric",
+      "tag_description" : "anaphoric"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Dependency flavors",
+    "description" : "Dependency flavors",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "basic",
+      "tag_description" : "basic"
+    }, {
+      "tag_name" : "enhanced",
+      "tag_description" : "enhanced"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Named Entity for LER",
+    "description" : "For testing and demo, this labels contain only three primary labels which are the PLACE, DATE, INSTANCE.",
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "TEST_PLACE",
+      "tag_description" : "Place that the incident happened."
+    }, {
+      "tag_name" : "TEST_DATE",
+      "tag_description" : "The date that the incident happened."
+    }, {
+      "tag_name" : "TEST_INSTANCE",
+      "tag_description" : "The machine/block (instance) that the incident happened."
+    }, {
+      "tag_name" : "cause",
+      "tag_description" : "a cause of the event, or initial event"
+    }, {
+      "tag_name" : "corrective",
+      "tag_description" : null
+    }, {
+      "tag_name" : "eventEnd",
+      "tag_description" : "when theevent was solved"
+    }, {
+      "tag_name" : "eventStart",
+      "tag_description" : "the date when the event start"
+    }, {
+      "tag_name" : "facility",
+      "tag_description" : "the facility where the event happened"
+    }, {
+      "tag_name" : "LOC",
+      "tag_description" : null
+    }, {
+      "tag_name" : "status",
+      "tag_description" : "indication of a status of a system or component"
+    }, {
+      "tag_name" : "symptom",
+      "tag_description" : null
+    }, {
+      "tag_name" : "system",
+      "tag_description" : "the main system/ component involved"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Named Entity tags",
+    "description" : "Named Entity annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "LOC",
+      "tag_description" : "Location"
+    }, {
+      "tag_name" : "LOCderiv",
+      "tag_description" : "Location derivative"
+    }, {
+      "tag_name" : "LOCpart",
+      "tag_description" : "Hyphenated part is location"
+    }, {
+      "tag_name" : "ORG",
+      "tag_description" : "Organization"
+    }, {
+      "tag_name" : "ORGderiv",
+      "tag_description" : "Organization derivative"
+    }, {
+      "tag_name" : "ORGpart",
+      "tag_description" : "Hyphenated part is organization"
+    }, {
+      "tag_name" : "OTH",
+      "tag_description" : "Other: Every name that is not a location, person or organisation"
+    }, {
+      "tag_name" : "OTHderiv",
+      "tag_description" : "Other derivative"
+    }, {
+      "tag_name" : "OTHpart",
+      "tag_description" : "Hyphenated part is Other"
+    }, {
+      "tag_name" : "PER",
+      "tag_description" : "Person"
+    }, {
+      "tag_name" : "PERderiv",
+      "tag_description" : "Person derivative"
+    }, {
+      "tag_name" : "PERpart",
+      "tag_description" : "Hyphenated part is person"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Operation",
+    "description" : "operation to be done with specified in tokenIDs token/tokens in order to correct",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "delete",
+      "tag_description" : "delete"
+    }, {
+      "tag_name" : "insert_after",
+      "tag_description" : "insert after"
+    }, {
+      "tag_name" : "insert_before",
+      "tag_description" : "insert before"
+    }, {
+      "tag_name" : "replace",
+      "tag_description" : "replace"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal Dependencies (v2)",
+    "description" : "The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.\r\n\r\nThe following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations originally described in Universal Stanford Dependencies: A cross-linguistic typology (de Marneffe et al. 2014).\r\n\r\n© 2014-2017 Universal Dependencies contributors.\r\n\r\nSee also: https://universaldependencies.org/u/dep/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "acl",
+      "tag_description" : "clausal modifier of noun (adjectival clause)"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "case",
+      "tag_description" : "case marking"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement"
+    }, {
+      "tag_name" : "clf",
+      "tag_description" : "classifier"
+    }, {
+      "tag_name" : "compound",
+      "tag_description" : "compound"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "unspecified dependency"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element"
+    }, {
+      "tag_name" : "dislocated",
+      "tag_description" : "dislocated elements"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive"
+    }, {
+      "tag_name" : "fixed",
+      "tag_description" : "fixed multiword expression"
+    }, {
+      "tag_name" : "flat",
+      "tag_description" : "flat multiword expression"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object"
+    }, {
+      "tag_name" : "list",
+      "tag_description" : "list"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker"
+    }, {
+      "tag_name" : "nmod",
+      "tag_description" : "nominal modifier"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject"
+    }, {
+      "tag_name" : "nummod",
+      "tag_description" : "numeric modifier"
+    }, {
+      "tag_name" : "obj",
+      "tag_description" : "object"
+    }, {
+      "tag_name" : "obl",
+      "tag_description" : "oblique nominal"
+    }, {
+      "tag_name" : "orphan",
+      "tag_description" : "orphan"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "reparandum",
+      "tag_description" : "overridden disfluency"
+    }, {
+      "tag_name" : "root",
+      "tag_description" : "root"
+    }, {
+      "tag_name" : "vocative",
+      "tag_description" : "vocative"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal POS tags (v2)",
+    "description" : "These tags mark the core part-of-speech categories from the Universal Dependencies project. To distinguish additional lexical and grammatical properties of words, use the universal features.\r\n\r\n© 2017 Universal Dependencies contributors\r\n\r\nSee: https://universaldependencies.org/u/pos/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjective"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adposition"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverb"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "CCONJ",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "INTJ",
+      "tag_description" : "interjection"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "noun"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "numeral"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "particle"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronoun"
+    }, {
+      "tag_name" : "PROPN",
+      "tag_description" : "proper noun"
+    }, {
+      "tag_name" : "PUNCT",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "subordinating conjunction"
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verb"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other"
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",
+    "features" : [ {
+      "name" : "chunkValue",
+      "tag_set" : null,
+      "uiName" : "Tag",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Chunk tag",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Chunk",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference",
+    "features" : [ {
+      "name" : "referenceRelation",
+      "tag_set" : {
+        "name" : "Coreference relations",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceRelation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference relation",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "referenceType",
+      "tag_set" : {
+        "name" : "Coreference mentions",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceType",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference type",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Coreference",
+    "type" : "chain",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",
+    "features" : [ {
+      "name" : "flavor",
+      "tag_set" : {
+        "name" : "Dependency flavors",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Flavor",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "DependencyType",
+      "tag_set" : {
+        "name" : "UD Universal Dependencies (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Dependency",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Lemma",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "lemma Annotation",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Lemma",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "lemma",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Features",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Morphological features",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Morphological features",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "morph",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "features" : [ {
+      "name" : "identifier",
+      "tag_set" : null,
+      "uiName" : "identifier",
+      "type" : "kb:<ANY>",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Linked entity",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "value",
+      "tag_set" : {
+        "name" : "Named Entity for LER",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Named entity type",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Named entity",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Correction",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Correct this token using the specified operation.",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "operation",
+      "tag_set" : {
+        "name" : "Operation",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "An operation taken to change this token.",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Orthography Correction",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "features" : [ {
+      "name" : "coarseValue",
+      "tag_set" : {
+        "name" : "UD Universal POS tags (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "UPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Universal part-of-speech tag",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "PosValue",
+      "tag_set" : null,
+      "uiName" : "XPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Language-specific part-of-speech tag",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Part of speech",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+    "features" : [ ],
+    "uiName" : "SemArg",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemPred",
+    "features" : [ {
+      "name" : "arguments",
+      "tag_set" : null,
+      "uiName" : "arguments",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Arguments of the semantic predicate",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "WITH_ROLE",
+      "link_type_name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArgLink",
+      "link_type_role_feature_name" : "role",
+      "link_type_target_feature_name" : "target",
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "category",
+      "tag_set" : null,
+      "uiName" : "category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Category of the semantic predicate, e.g. the frame identifier.",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "SemPred",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Form",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Original surface text",
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Surface form",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ {
+      "name" : "lemma",
+      "tag_set" : null,
+      "uiName" : "lemma",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "morph",
+      "tag_set" : null,
+      "uiName" : "morph",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "pos",
+      "tag_set" : null,
+      "uiName" : "pos",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test_Rossella",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test_Rossella",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1660552103398,
+  "updated" : 1662037303531,
+  "anonymous_curation" : false,
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 4,
+    "project" : {
+      "id" : 6,
+      "name" : "SuccessLERSecond Test_Rossella",
+      "slug" : "successlersecond-test",
+      "description" : "This project is relate to S-40337-04-002 PoC NLP Document AI. The object is a set ov event downloaded from the LER database\r\n\r\nTesting by Rossella",
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1660552103398,
+      "updated" : 1662037303531,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "maxRecommendations" : 3,
+    "name" : "[Named entity@value] Multi-Token Sequence Classifier (OpenNLP NER)",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.ner.OpenNlpNerClassificationTool",
+    "traits" : null
+  }, {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "maxRecommendations" : 3,
+    "name" : "[Named entity@value] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.6,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":false}"
+  } ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  }
+}

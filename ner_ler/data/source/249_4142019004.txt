@@ -1,0 +1,7 @@
+Plant: Catawba 2.
+Condition Prohibited by Technical Specification and Loss of Safety Function due to Refueling Water Storage Tank Volume Below the Minimum Requirement.
+ On August 18, 2019, at 1700 hours, while aligned for purification of the Unit 2 Refueling Water Storage Tank (RWST), Catawba entered an unplanned action statement per Technical Specification (TS) Limiting Condition for Operation (LCO) 3.5.4 "RWST," Condition B. The Unit 2 RWST wide range (WR) level was discovered at a volume below the minimum TS required value when accounting for uncertainty. The Unit 2 RWST was removed from purification and makeup was immediately started. Unit 2 exited TS LCO 3.5.4 Condition B at 1744 on August 18, 2019. 
+
+ At the time of the event, the Unit 2 RWST level narrow range (NR) channels were unavailable for completion of the TS Surveillance Requirement (SR) due to a previously known issue. Operators at the time failed to recognize that using WR level indication required accounting for additional instrument uncertainty. While actual level in the U2 RWST was later confirmed greater than the amount required for accident mitigation, the surveillance could not be met. 
+
+ The cause of this event is overconfidence and a lack of validating assumptions regarding equipment deficiencies associated with the event, as well as a formal evaluation process was not used to fully evaluate risk when the NR indications were lost. The health and safety of the public was not affected by this event.

@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Manual Reactor Trip and Automatic Safety Injection due to Failed Open Pressurizer Spray Valve.
+ On September 4, 2020, at 22:04, Unit 2 control room operators completed a planned power reduction from 100 percent to 92 percent reactor power in preparation to perform Main Turbine Stop and Control Valve testing. As Reactor Coolant System (RCS) pressure reached 2235 psig, one of two Pressurizer Spray Valves began to close as expected and the other valve traveled unexpectedly to the fully open position. The operators were unable to close the failed open valve and manually tripped the reactor at 22:42 due to lowering RCS pressure. RCS pressure continued to lower below the safety injection (SI) actuation setpoint and an automatic SI occurred. All safety systems responded as expected and RCS pressure recovered to normal. 
+
+ The cause of the failed open valve was due to foreign material from the control air supply lodged in the positioner spool valve. The valve positioner and electro-pneumatic transmitter were replaced which returned the valve back into service. Planned corrective actions include installing point of use filtration upstream of susceptible valve positioners or replace associated regulating valves to include a filter. 
+
+ This event was reported via Event Notification 54885 in accordance with 10 CFR 50.72(b)(2)(iv)(A), 10 CFR 50.72(b)(2)(iv)(B), and 10 CFR 50.72(b)(3)(iv)(A). This event is reportable as a Licensee Event Report in accordance with 10 CFR 50.73(a)(2)(ivXA).

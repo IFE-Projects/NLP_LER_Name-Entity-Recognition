@@ -1,0 +1,9 @@
+Plant: Grand Gulf 1.
+Primary Containment Outer Airlock Door Inoperable due to Unacceptable Leak Rate.
+ On February 22, 2021, Grand Gulf Nuclear Station’s Primary Containment Outer Airlock located on 208’ elevation exceeded the Technical Specification (TS) Surveillance Requirements 3.6.1.2.1 leakage rate during the premaintenance barrel test due to gross leakage of the equalizing valve associated with the outer airlock door. Analysis determined that the inner and outer airlock equalizing valves were leaking – caused by lack of lubrication during valve installation. 
+
+ This event is reportable under 10 CFR 50.73(a)(2)(i)(B), as an operation or condition which was prohibited by the plant’s Technical Specifications. The event is also being reported under 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of a safety function. 
+
+ Actions taken were the lubrication and replacement of the equalizing valve on the outer door. The equalizing valve on the inner door was rebuilt with new O-rings and lubricated prior to reinstallation. Following replacement of the outer door and rebuild of the inner door, the local leak rate test (LLRT) was tested satisfactorily. 
+
+ There were no consequences to the general safety of the public, nuclear safety, industrial safety or radiological safety. No radiological releases occurred due to this event.

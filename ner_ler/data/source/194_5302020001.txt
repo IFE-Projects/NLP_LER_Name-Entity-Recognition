@@ -1,0 +1,9 @@
+Plant: Palo Verde 3.
+Condition Prohibited by Technical Specifications Due to Inoperable Spray Pond Pump.
+ This Licensee Event Report addresses an event in which the Unit 3 Train B Essential Spray Pond System was inoperable for a time longer than permitted by Technical Specifications. 
+
+ December 28, 2019, the Unit 3 Train B spray pond (SP) pump circuit breaker did not close when the control room hand switch was taken to the start position. This resulted in the Unit 3 Train B SP system being declared inoperable. A similar event occurred on December 17, 2019, although an immediate second start attempt was successful. Analysis concluded that the events that occurred on December 17, 2019, and December 28, 2019, were a result of the same failure mechanism. 
+
+ The root cause of the circuit breaker failing to close is the failure to implement a General Electric (GE) Service Advisory Letter (SAL) recommendation to replace the cast-iron square shaft bushing with a bronze equivalent. The corrective actions will be to implement the SAL recommendations on breakers containing the cast-iron bushings. 
+
+ No previous similar events have been reported to the NRC by PVNGS in the prior three years.

@@ -1,0 +1,7 @@
+Plant: Farley 2.
+Manual Reactor Trip due to Misaligned Rod during Low Power Physics Testing.
+ At 16:43 CDT on May 1, 2019. with Farley Nuclear Plant (FNP) Unit 2 in Mode 2 with power in the Intermediate Range the reactor was manually tripped. Operators manually tripped the reactor during Low Power Physics Testing due to a misaligned rod. The trip was not complex with all systems responding normally. Operations stabilized the plant in Mode 3. Decay heat was removed by the Steam Generator Atmospheric Relief Valves due to Main Steam Isolation Valves being closed during Low Power Physics Testing. 
+
+ This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to manual actuation of systems listed in 10CFR50.73(a)(2)(iv)(B). FNP Unit 1 was not affected during this event. 
+
+ Corrective Actions included resistance readings in the power cabinet and inspecting local connectors on the reactor head. Additionally, multiple control rod bank withdrawals and insertions were performed while collecting system operating data. No abnormal conditions were identified, and crud is the suspected reason for the misalignment.

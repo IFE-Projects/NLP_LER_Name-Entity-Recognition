@@ -1,0 +1,7 @@
+Plant: Turkey Point 3.
+Automatic Reactor Trip due to Reactor Trip Breaker Cell Switch Malfunction.
+ On 3/1/21 at 11:08 hours, Turkey Point Unit 3 experienced an unplanned reactor trip from 100% power. Restoration from a routine test of the Reactor Protection System (RPS) was in progress when the reactor trip occurred. As expected for the conditions, the Auxiliary Feedwater System (AFW) automatically initiated in response to the reactor trip to maintain Steam Generator levels in normal bands. All equipment required for the immediate reactor trip response functioned normally. 
+
+ A malfunction of the B-train Reactor Trip Breaker cubicle cell switch during the RPS test restoration caused the reactor trip. The breaker and cell switch have since been replaced and Unit 3 returned to normal power operation. 
+
+ This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) for initiation of the Reactor Protection [10 CFR 50.73(a)(2)(iv)(B)(1)] and Auxiliary Feedwater [10 CFR 50.73(a)(2)(iv)(B)(6)] systems.

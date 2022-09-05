@@ -1,0 +1,7 @@
+Plant: LaSalle 1.
+Safety Related Electrical Bus Undervoltage Results in Valid Actuation of the Common Emergency Diesel Generator.
+ On February 28, 2019, while shut down for a scheduled refueling outage in Mode 5, Unit 2 Division 1 safety-related electrical bus (241Y) tripped during surveillance testing. The purpose of the surveillance testing was to demonstrate the operability of the air circuit breakers (ACBs) necessary to provide the second off site source to Unit 2. The trip of the electrical bus resulted in a valid undervoltage actuation signal to the common emergency diesel generator ('0' EDG), causing it to start and load to Bus 241Y. Resulting from the 241Y bus trip and '0' EDG actuation signal, plant responses occurred as designed. Affected systems were restored, with no adverse impacts to either unit. Unit 1 remained stable during this event. 
+
+ This condition was previously reported on March 1, 2019 (ENS 53903) in accordance with 10 CFR 50.72(b)(3)(iv)(A) for a valid specified system actuation. This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), as an event that results in a valid actuation of the emergency AC electrical power system.
+
+ Troubleshooting and causal investigation determined the cause was attributed to ACB 2414 having a degraded lug on the terminal between the Unit 2 ACB 2414 A-phase current transformer and the Unit 1 ACB 1414 differential current relay. Corrective actions were taken to replace a degraded lug on the terminal that feeds the relay from the Unit 2 Bus 241Y A-phase current transformer.

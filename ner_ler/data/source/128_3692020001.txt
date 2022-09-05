@@ -1,0 +1,9 @@
+Plant: McGuire 2.
+Condition Prohibited by Technical Specification 3.4.15, Reactor Coolant System (RCS) Leakage Detection Instrumentation.
+ On June 29, 2020 with Unit 1 in Mode 1 at approximately 100 percent power and Unit 2 in Mode 1 at approximately 100 percent power, McGuire determined that Revision 0 of calculation MCC-1223.15-01-0015, Containment Floor and Equipment Sumps Volume Calculation, contained non-conservative assumptions that would have prevented the containment floor and equipment (CFAE) sump level monitors from detecting and alarming on a one gallon per minute input within one hour. Revision 0 of calculation MCC-1223.15-01-0015 was approved for use on April 15, 1994.
+
+ Discovery of the non-conservative assumptions in Revision 0 of calculation MCC-1223.15-01-0015 resulted in a condition prohibited by Technical Specification (TS) 3.4.15, Reactor Coolant System (RCS) Leakage Detection Instrumentation, since the CFAE Sump Monitors for both Units was determined to be inoperable for longer than allowed by the TS 3.4.15 Limiting Condition for Operation (LCO) action statements. 
+
+ No causal analysis was performed due to the legacy nature of Revision 0 of calculation MCC-1223.15-01-0015. 
+
+ An Engineering Change has been implemented to insert the revised containment floor and equipment sump monitor rate of rise set point, from revised calculation MCC-1223.15-01-0015, on the Operator Aid Computer.

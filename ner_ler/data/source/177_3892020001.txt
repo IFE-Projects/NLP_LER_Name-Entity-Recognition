@@ -1,0 +1,7 @@
+Plant: St. Lucie 2.
+Turbine Loss of Load Trip Found Outside Technical Specification Allowable Range due to Unspecified Legacy M&TE or Calibration Deficiencies.
+ On February 22, 2020, St. Lucie Unit 2 was in Mode 6 for the SL2-25 refueling outage. During performance of the periodic outage calibration of the reactor protection system (RPS) turbine loss of load pressure switches, the as-found trip setpoint value for all four channels were outside the Technical Specification (TS) allowable values. The subject pressure switches were recalibrated, tested satisfactorily, and returned to service.
+
+ The actual cause of the event was indeterminate. The most likely match for the observed condition was inadequate calibration of the pressure instruments due to either legacy M&TE or calibration deficiencies. Corrective actions are planned to revise the calibration procedures to require replacement of any pressure switches requiring large adjustments. 
+
+ Reactor Trip on Turbine Trip is not credited for reactor safety. It is an equipment protection trip. Additionally, the as-found setpoints would have had no measureable impact on RPS performance during a postulated turbine trip. Therefore, this event had no impact on the health and safety of the public.

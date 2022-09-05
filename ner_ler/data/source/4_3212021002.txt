@@ -1,0 +1,7 @@
+Plant: Hatch 1.
+Low Pressure Coolant Injection Inoperable Longer than the Allowed Technical Specification Completion Time.
+ On 08/03/2021 at 11:50 EDT, while Unit 1 was at 0% power and in MODE 3 following an unplanned reactor SCRAM, the 'B' reactor recirculation discharge isolation valve failed to initially close when required to do so during the restart of the 'A' reactor recirculation pump. The safety function of the reactor recirculation discharge isolation valve is to ensure that Low Pressure Coolant Injection (LPCI) flow does not bypass the core when it injects into the recirculation lines as described in Technical Specification (TS) Bases 3.3.5.1. 
+
+ Further investigation revealed that a loose fuse connection caused intermittent contact within the control power circuitry, resulting in the valve being unable to reliably function. Because the same intermittent position indication of the 'B' reactor recirculation discharge isolation valve was identified on 07/05/2021, it is likely that the reactor recirculation discharge isolation valve and subsequently the 'B' LPCI loop was inoperable for longer than allowed by TS 3.5.1. The corrective action to replace the loose bayonet connectors for the fuse holders has been completed. 
+
+ This condition is reportable per 10 CFR 50.73(a)(2)(i)(B).

@@ -1,0 +1,7 @@
+Plant: Davis-Besse.
+Manual Reactor Trip on Trip of Reactor Coolant Pumps due to Loss of 13.8 kV Bus Potential Transformer Fuse.
+ On March 25, 2020, with the Davis-Besse Nuclear Power Station starting up from a refueling outage in Mode 2 at approximately zero (0) percent power in the Intermediate Range, the control room operators received a plant computer trouble alarm and low voltage indication for the 13.8 kV B Bus. As a result of this indicated power loss on B Bus, the two (2) Reactor Coolant Pumps powered from this bus tripped. The operators subsequently manually tripped the reactor at 1240 hours and performed actions to stabilize Reactor Coolant System temperature and pressure. Plant response to the reactor trip was uncomplicated and decay heat removal through normal feedwater and main condenser remained available and the plant remained in Mode 3.
+
+ The most likely cause of the fuse failure (and subsequent manual reactor trip) is that the replacement fuses installed and specified by a 2014 equivalency evaluation were not appropriate for this fuse application. Actions taken include replacing the B Bus fuses. Scheduled actions include determining a more appropriate fuse for this and similar applications and replacing identified fuses. 
+
+ This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as a manual actuation of the Reactor Protection System.

@@ -1,0 +1,7 @@
+Plant: Hatch 1.
+Automatic Reactor Scram And Containment Isolation On Low Reactor Water Level Due To Trip Of Both Reactor Feed Pumps.
+ On 08/03/2021 at 1026 EDT, Unit 1 experienced an automatic reactor SCRAM and containment isolation due to low reactor water level. A spurious trip of a Turbine Building 600V breaker caused a loss of control power and immediate trip of both 1A and 1B reactor feed pumps. Due to loss of reactor feedwater, the reactor water level lowered to the setpoints for the following automatic actuations: reactor SCRAM, High Pressure Coolant Injection (HPCI) start, Reactor Core Isolation Cooling (RCIC) start, and both primary and secondary containment isolation. All safety-related actuations occurred as designed. Reactor operators responded to stabilize the plant and control reactor water level. Unit 2 was not affected. The initial notification to the NRC was documented in Event Notification 55394. 
+
+ Corrective action was completed to replace the failed breaker with a more reliable breaker. 
+
+ This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) due to actuations of systems listed in 10 CFR 50.73(a)(2)(iv)(B).

@@ -1,0 +1,7 @@
+Plant: Waterford 3.
+Automatic Reactor Scram due to Steam Generator #1 High Level Resulting from a Main Turbine Trip and Subsequent Reactor Power Cutback due to Failed Diode Modules within the Main Exciter.
+ On May 16, 2019, at 1348, Waterford 3 experienced an automatic reactor trip due to Steam Generator 1 high level, which occurred following a main turbine trip and reactor power cutback. The automatic reactor trip due to Steam Generator 1 high level was caused by feedwater control shifting to manual during reactor power cutback due to a deviation between Steam Generator level channels. Because feedwater control was in manual, the system could not lower feed water flow in response to rising Steam Generator level. Main Feedwater Isolation Valves #1 and #2 closed on high Steam Generator levels. Emergency Feedwater automatically actuated as expected for Steam Generator #1 and #2. Main Feedwater was restored to both Steam Generators by 1629. 
+
+ The main turbine trip was caused by a loss of excitation within the main generator field. The cause of the loss of excitation was determined to be a short between 2 diode modules within the rotating rectifier circuit of the Main Exciter. The Main Exciter was mechanically disassembled and the failed fuses and diode modules in the rotating rectifier wheel were replaced. The entire rotating rectifier assembly was refurbished and/or repaired as appropriate. The exciter control system was fully calibrated prior to startup. 
+
+ All required safety-related equipment responded as expected during this event.

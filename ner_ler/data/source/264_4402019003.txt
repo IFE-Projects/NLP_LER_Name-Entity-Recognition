@@ -1,0 +1,9 @@
+Plant: Perry.
+Equipment Fault Causes Turbine Stop Valve Closure and Reactor Protection System Actuation.
+ On July 27, 2019, at 1929 hours, the Reactor Protection System (RPS) automatically actuated due to a closure of the turbine stop valves. This event was caused by a failed component in the mechanical overspeed trip testing circuit. 
+
+ The defective component was replaced, restoring the mechanical overspeed testing circuit The apparentcause of the event was determined to be infant mortality of mechanical shutoff valve 1N32F0400, as the valve had been replaced four months earlier during the last refueling outage. 
+
+ A corrective action will evaluate and apply enhanced procurement for the Electro Hydraulic Control (EHC) Single Point Vulnerability components that are a part of the turbine front standard. 
+
+ The plant responded as expected and all control rods inserted fully. The safety significance of this event is considered very small in accordance with the Regulatory Guidance. This event is reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event or condition that resulted in an automatic actuation of the RPS and a valid actuation of the Reactor Core Isolation Cooling (RCIC) system.

@@ -1,0 +1,7 @@
+Plant: Pilgrim.
+Condition Prohibited by Technical Specifications Involving the Mechanical Vacuum Pump.
+ On April 13, 2019, the operating crew placed the key lock switch for Main Steam Process Radiation Monitor (PRM) 1705-2D to the INOP position and restored the Mechanical Vacuum (MV) pump to ready state. Subsequent research into the INOP position for the PRM 1705-2D switch revealed that this action does not introduce a channel trip signal. Not placing the PRM in a trip condition with the MV pump restored to ready state, is a violation of Technical Specification Action Statement 3.8.2.A.2 to place the channel or associated trip system in trip within 24 hours. 
+
+ There were no actual consequences to safety of the general public, nuclear safety, industrial safety, or radiological safety for this event. 
+
+ This report is submitted in accordance with Title 10 Code of Federal Regulations 50.73(a)(2)(i)(B).

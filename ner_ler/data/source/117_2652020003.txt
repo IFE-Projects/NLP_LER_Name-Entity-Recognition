@@ -1,0 +1,7 @@
+Plant: Quad Cities 2.
+Oscillation Power Range Monitors (OPRMs) Count Setpoint Discrepancy Due to Inadequate Instructions.
+ On July 22, 2020 during the performance of an Oscillation Power Range Monitor (OPRM) time test it was identified that the as-found OPRM maximum confirmation count setpoint on the Unit 2 OPRMs did not match the values in the Quad Cities Unit 2 Core Operating Limits Report (COLR). All Unit 2 OPRMS were declared inoperable at 1030 on July 22, 2020. Operations entered Technical Specification (TS) 3.3.1.3 Condition A for OPRMs 1-8 and Condition B for loss of trip capability. The setpoint discrepancy was corrected and all the Unit 2 OPRMs were declared operable on July 23, 2020 at 1210. TS 3.3.1.3 Condition A and Condition B were exited at that time.
+
+ The cause of the incorrect OPRM count setpoint was due to insufficient work package guidance and a lack of verification to ensure that the work instructions contained the proper setpoints. 
+
+ This is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B), operation or condition prohibited by Technical Specifications, 10 CFR 50.73(a)(2)(v)(D), event or condition that could have prevented fulfillment of a safety function, and 10 CFR 50.73(a)(2)(vii), common cause inoperability of independent trains or channels. No 10 CFR 50.72 report was made for this event.

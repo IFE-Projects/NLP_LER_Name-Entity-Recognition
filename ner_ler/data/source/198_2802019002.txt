@@ -1,0 +1,9 @@
+Plant: Surry 1.
+Items Non-Conforming to Design for Tornado Missile Protection.
+ On December 11, 2019, Surry Nuclear Power Plant determined that the certain Unit 1 and 2 Class 1 Structures, Systems, and Components (SSCs) did not conform with the licensing basis for protection against a design basis tornado generated missile.
+
+ The affected equipment was declared inoperable and enforcement discretion invoked in accordance with NRC Enforcement Guidance Memorandum (EGM) 15-002, Rev. 1, "Enforcement Discretion for Tornado Missile Protection Noncompliance." Initial compensatory measures were implemented pursuant to the guidance of NRC Interim Staff Guidance DSS-ISG-2016-01, Appendix A, within the time allowed by the applicable Limiting Conditions for Operation and the associated systems were then declared operable, but nonconforming. 
+
+ Since the condition was part of the original plant design and licensing of the station, there was no specific cause identified.
+
+ There were no safety consequences as a result of this event. Actions are underway to address the condition.

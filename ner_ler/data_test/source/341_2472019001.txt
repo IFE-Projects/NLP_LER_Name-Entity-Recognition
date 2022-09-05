@@ -1,0 +1,7 @@
+Plant: Indian Point 2.
+Loss of Excitation Main Generator Trip.
+ On March 15, 2019 at approximately 1300 hours Eastern Standard Time, Indian Point Unit 2 experienced an automatic reactor trip on a turbine trip, which was in response to a main generator trip. The main generator trip was initiated by actuation of the generator Protection System due to a main generator loss of excitation. 
+
+ All control rods fully inserted and all required safety systems functioned properly. The plant was stabilized in hot standby with decay heat being removed by the main condenser. The Auxiliary Feedwater System automatically started as expected on steam generator low level to provide feedwater flow to the steam generators. The plant was stabilized in hot standby with decay heat being removed by the main condenser. The direct cause of this event was a failure of both diodes in the C-phase middle diode stack of the 24 Rectifier. The root cause of this event was the fact that the power diode test method was unable to detect component degradation. 
+
+ This event had no effect on the public health and safety. This event was reported to the Nuclear Regulatory Commission on March 15, 2019 under 10 CFR 50.72(b)(3)(iv)(A) and 10 CFR 50.72(b)(2)(iv)(B) as an event that resulted in the automatic actuation of the Reactor Protection System when the reactor is critical and a valid actuation of the Auxiliary Feedwater System.

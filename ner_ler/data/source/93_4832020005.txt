@@ -1,0 +1,9 @@
+Plant: Callaway.
+Inoperable Isolation Valve Between Safety-Related Essential Service Water and Nonsafety-Related Service Water.
+ During troubleshooting of momentary alarms and flickering handswitch indications that were received during closure stroking of the upstream isolation valve (EFHV0024) between safety-related Essential Service Water (ESW) system train B and the nonsafety-related Service Water (SW) system, it was discovered that a fuse holder in the supply breaker was not holding a control power fuse for EFHV0024 securely, thereby causing intermittent interruptions in the power supplied to the valve. 
+
+ Due to the degraded condition of the fuse holder, its seismic qualification was not assured. This rendered EFHV0024 inoperable during the period when the degraded condition existed. While redundant valve EFHV0026 remained OPERABLE during this period, the capability to automatically isolate the SW system from ESW system train B was not single-failure proof, and actions to provide passive isolation by closing and removing power from EFHV0024 or EFHV0026 were not performed. This rendered ESW train B inoperable and resulted in a condition or operation prohibited by Technical Specifications, as ESW train B was not restored to OPERABLE status to exit the applicable Required Actions within the specified Completion Times. 
+
+ As Control Room indications of a failure of either isolation valve to actuate to its closed position would have alerted Operators to manually isolate the affected valve(s), if needed, the degraded condition was of minor safety significance. 
+
+ ESW train B was restored to OPERABLE status by correcting the degraded condition upon its discovery.

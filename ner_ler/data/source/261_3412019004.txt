@@ -1,0 +1,5 @@
+Plant: Fermi 2.
+Division 2 Mechanical Draft Cooling Tower Fan "D" Tripped When Placed in High Speed due to a Blown Fuse.
+ On July 30, 2019, at 1014 EDT, the Division 2 Mechanical Draft Cooling Tower (MDCT) Fan "D" was declared inoperable due to a trip of the fan while placing it in high speed The MDCT Fans are required to support operability of the Ultimate Heat Sink (UHS). The UHS is required to support operability of the Division 2 Emergency Equipment Cooling Water (EECW) system. The EECW system cools various safety related components, including the High Pressure Coolant Injection (HPCI) system room cooler. An unplanned HPCI inoperability occurred based on a loss of the HPCI Room Cooler. The cause of the event was a blown high speed breaker control power fuse.
+
+ The control power fuse was replaced, the MDCT Fan "D" was tested satisfactorily, and HPCI was declared operable on July 30 at 1431 EDT. The blown fuse was quarantined and will be sent for failure analysis. The remaining fuses in the system are being replaced and sent to the vendor for comparison with the blown fuse.

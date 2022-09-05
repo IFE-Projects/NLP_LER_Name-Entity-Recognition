@@ -1,0 +1,12 @@
+Plant: Grand Gulf 1.
+Secondary Containment Personnel Door Failure due to Broken Hinges.
+ On August 5, 2019, at 09:36, the Control Room was notified that a Secondary Containment Door was found with door hinges broken and the door was unable to be closed. 
+
+ Grand Gulf Nuclear Station performed action A.1 for Technical Specification (TS) LCO 3.6.4.1, Secondary Containment, not met due to the Secondary Containment door being inoperable. The broken hinges were replaced with qualified spares, and TS LCO 3.6.4.1 was met on August 5, 2019 at 13:36. 
+
+ Based on vendor's engineering analysis, the Direct Cause was Door 1T101A401B hinge pins failed due to brittle fracture, resulting in a loss of the Secondary Containment Safety Function. 
+
+ The Root Cause for the event is a design deficiency related to the mounting of the door hinges. The planned corrective action is a modification to the door. 
+ This will be done when secondary containment is not required to be operable. 
+
+ This report is made pursuant to 10 CFR 50.73(a)(2)(v)(C) for an event or condition that at the time of discovery could have prevented the fulfillment of the safety function of structures or systems that are needed to control the release of radioactive material. There were no consequences to the general safety of the public, nuclear safety, industrial safety and radiological safety for this event.

@@ -1,0 +1,9 @@
+Plant: Cook 2.
+Manual Reactor Trip due to an Unisolable Steam Leak.
+ On June 22, 2021, Donald C. Cook Unit 2, was operating at 100 percent power. At approximately 2305 hours, equipment operators reported a steam leak in a crossover pipe at the Right Moisture Separator Reheater (MSR) joint that was unisolable. Operators manually tripped the reactor at 2331 hours. All safety systems and Engineered Safety Features equipment operated as expected. 
+
+ Prior to the reactor trip, operators closed the Low Pressure Turbine (LPT) 'B' Left Reheat Steam Intercept Valve at 1040 hours, due to an electro-hydraulic control (EHC) fluid leak from the valve's hydraulic actuator. Following closure of the intercept valve, the EHC fluid leak from the hydraulic actuator was manually isolated. No abnormal system conditions were noted following closure of the valve. This valve closure is an abnormal system alignment. 
+
+ A failure investigation determined that the steam leak occurred at a right MSR crossover piping expansion joint. The expansion joint protective liner was displaced downstream due to a failed weld that exposed the bellows to direct steam flow. 
+
+ The event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), System Actuation, due to the valid actuation of the Reactor Protection System (RPS) and the Auxiliary Feedwater System, as a result of the manual reactor trip.

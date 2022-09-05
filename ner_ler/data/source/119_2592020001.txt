@@ -1,0 +1,9 @@
+Plant: Browns Ferry 2.
+Manual Reactor Shutdown of Two Units on Decreasing Condenser Vacuum due to Eel Grass Intrusion.
+ On July 20, 2020, at approximately 0955 Central Daylight Time (CDT), the Unit 1 control room received the traveling screen differential pressure high alarm. Assistant Unit Operators dispatched to the condenser circulating water (CCW) system forebay reported large masses of eel grass. The influx of eel grass resulted in fouling of the trash racks and traveling water screens for all three units which reduced the CCW flows during this event. 
+
+ As a result of degrading condenser vacuum on Unit 2, operators manually scrammed the reactor at 1325 CDT. On July 21, 2020, as Unit 1 condenser vacuum continued to degrade to the turbine trip setpoint, the Unit 1 operators manually scrammed the reactor at 0435 CDT. 
+
+ The root cause of the event is that existing permanently installed plant equipment at the BFN forebay was not adequate to mitigate the newly developed threat presented by large scale eel grass accumulation on Wheeler Lake. 
+
+ The action plan for addressing the root cause of this event has been developed which consists of deciding which equipment upgrades will be the most effective based on studies of river flow and environmental conditions, funding these upgrades, issuing design packages, and implementing the final designs.

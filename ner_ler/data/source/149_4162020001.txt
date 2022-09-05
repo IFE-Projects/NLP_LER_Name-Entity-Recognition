@@ -1,0 +1,9 @@
+Plant: Grand Gulf 1.
+Residual Heat Removal System Inadvertent Actuation due to Human Error.
+ On April 16, 2020, at 0158 CT, Grand Gulf Nuclear Station Unit 1 received a Division 2 level 1 (-150.3 inches Reactor Water Level) initiation signal. At the time of the event, Instrument and Control (I&C) Technicians were performing Anticipated Transient Without Scram (ATWS) Reactor Vessel Level Transmitter Calibration Channel D in accordance with plant procedures. I&C Technicians were in the process of applying the required input for transmitter calibration.
+
+ The cause was that the transmitter manifold passed high pressure to the common sensing line perturbating multiple trip units into gross fail. This led to an ECCS initiation signal and subsequent injection. Instrument and Control Technicians failed to apply adequate force to properly seat the manifold valve. 
+
+ Corrective action will be to revise plant procedures to isolate the initiation logic prior to performance of this surveillance with a work order to remove the channel associated with the common sensing lines to prevent safety system initiation. 
+
+ This report is made pursuant to 10 CFR 50.73(a)(2)(iv)(A) for an event or condition that resulted in manual or automatic actuation of an Emergency Core Cooling System as a result of a valid signal. This resulted in a discharge of Residual Heat Removal (RHR B), into the Reactor Coolant System. There were no consequences to the general safety of the public, nuclear safety, or radiological safety for this event.

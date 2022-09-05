@@ -1,0 +1,5 @@
+Plant: Palisades.
+Indications Identified in Reactor Pressure Vessel Head Nozzle Penetrations.
+ At the Palisades Nuclear Plant, on September 11, 2020, with the plant in Mode 6, at 0% power, during in-service inspection of reactor pressure vessel head (RPVH) penetrations, ultrasonic testing (UT) data analysis revealed relevant indications in RPVH penetration nozzle 34. On September 13, 2020, relevant indications were also identified in RPVH penetration nozzle 17. UT analysis determined that the indications were consistent with primary water stress corrosion cracking (PWSCC). There was no leak path signal detected. 
+
+ The plant was in cold shutdown for a refueling outage at the time of discovery. Nozzles 17 and 34 were repaired and the RPVH was returned to service. The safety significance of this event was minimal. This event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(A) as a condition that resulted in a principle safety barrier being seriously degraded.

@@ -1,0 +1,7 @@
+Plant: Brunswick 2.
+Unplanned Automatic Start of Emergency Diesel Generators.
+ At 04:02 Eastern Daylight Time (EDT) on March 25, 2019, an actuation of the four Emergency Diesel Generators (EDGs) occurred. Unit 1 was in Mode 1 at approximately 100 percent power and Unit 2 was in Mode 4 at 0 percent power. Unit 2 was in the process of aligning the electrical distribution system to power the emergency buses via the Unit Auxiliary Transformer (UAT) when a main generator differential lockout relay actuated; thereby starting the EDGs. The emergency buses remained energized from offsite power via the Startup Auxiliary Transformer (SAT) and, therefore, the EDGs did not tie to their respective buses. The EDGs responded per design to this event. 
+
+ The cause of event was a historical design change error. During replacement of the original Main Power Transformers (MPTs), the fact that the new transformers have lower second order harmonic in-rush current was not identified and, as a result, appropriate protective relay settings were not implemented. 
+
+ Corrective actions include revising operating procedures to preclude EDG automatic starts on Main Generator primary lockout when restoring the UAT backfeed.

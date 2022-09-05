@@ -1,0 +1,9 @@
+Plant: Susquehanna 2.
+Inoperability of Computer Room Floor Cooling Fan Caused by Extended Operation with Worn Belts due to Less Than Adequate Preventive Maintenance Replacement Interval.
+ On May 4, 2021 at 11:00, Technical Specification (TS) 3.7.3, “Control Room Emergency Outside Air Supply (CREOAS) System” and TS 3.7.4, “Control Room Floor Cooling System” were entered for Units 1 and 2 to support the investigation of elevated vibration associated with the Division II Computer Room Floor Cooling Fan (0V115B) identified on April 29, 2021. During the May 4, 2021 investigation, 0V115B was found with two of the five belts thrown (disengaged from the sheaves) and one belt beginning to loosen. In the as-found condition, mission time requirements for the Division II systems could not be justified. 
+
+ Concurrent with the elevated vibrations on Division II, the associated Division I systems were inoperable due to trip of the Division I Control Structure (CS) Chiller. Since the vibration is considered to have been the result of the degraded belts, both ventilation trains were concurrently inoperable from April 29, 2021 to April 30, 2021, when the Division I CS Chiller was returned to service. Based on information available, the concurrent inoperability is considered to have existed for longer than allowed by TS 3.0.3 and is reportable as a condition prohibited by TS (10 CFR 50.73(a)(2)(i)(B)) and a condition that could have prohibited the fulfillment of a safety function (10 CFR 50.73(a)(2)(v)(D)). 
+
+ The cause was determined to be extended operation with worn belts due to less than adequate preventive maintenance (PM) replacement interval. Key corrective actions include replacing the belts and revising the PM frequency from eight years to six years. 
+
+ There were no actual consequences to the health and safety of the public as a result of this event.

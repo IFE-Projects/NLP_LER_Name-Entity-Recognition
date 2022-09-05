@@ -1,0 +1,9 @@
+Plant: Diablo Canyon 2.
+Unit 2 Shutdown Required by Technical Specifications.
+ On February 13, 2020, at 1025 hours Pacific Standard Time, during the performance of the quarterly control rod exercise surveillance test, Shutdown Bank "B" Group 1 became misaligned greater than 12 steps from its group demand position. In accordance with Technical Specification 3.1.4, "Rod Group Alignment Limits," Action D, a Unit 2 shutdown to Mode 3 was commenced at 1233 hours. The shutdown to Mode 3 was completed February 13, 2020, at 1545 hours. 
+
+ This event is being reported per 10 CFR 50.73(a)(2)(i)(A) as the completion of any nuclear plant shutdown required by the plant's Technical Specifications. 
+
+ This event was a result of rod misalignment caused by a failure of a slave cycler decoder lift card to provide proper timing signals.
+
+ There was no impact on the health and safety of the public or plant personnel.

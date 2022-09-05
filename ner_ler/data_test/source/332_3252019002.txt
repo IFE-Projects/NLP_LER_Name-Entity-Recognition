@@ -1,0 +1,7 @@
+Plant: Brunswick 1.
+Degraded Principal Safety Barrier, Technical Specification Shutdown, and Automatic System Actuation.
+ At 14:19 Eastern Daylight Time (EDT) on March 28, 2019, with Unit 1 in Mode 1 at approximately 100 percent power, drywell pressure and floor drain leakage began to increase. Operators proceeded with a controlled shutdown per procedures. The reactor was scrammed at 16:03 EDT to complete the shutdown. At 16:54 EDT, following the scram, Primary Containment Isolation System (PCIS) actuation occurred, closing the outboard Main Steam Isolation Valves (MSIVs) due to low condenser vacuum. Subsequently, Reactor Protection System (RPS) actuation occurred due to low reactor water level. The safety function of the MSIVs and RPS had already been completed. There was no impact on the health and safety of the public or plant personnel. 
+
+ This event was a result of a steam leak in the drywell caused by the failure of a 1-inch cryogenic pipe coupling. The failure was due to hydrogen embrittlement from long-term exposure to high temperature and elevated hydrogen levels. A Unit 1 and Unit 2 extent of condition evaluation was performed; susceptible cryogenic couplings were replaced with welded fittings. 
+
+ As a result of the Technical Specification-required shutdown, the valid actuations of PCIS and RPS, and the degradation of a principal safety barrier, this event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(A), 10 CFR 50.73(a)(2)(iv)(A), and 10 CFR 50.73(a)(2)(ii)(A) respectively.

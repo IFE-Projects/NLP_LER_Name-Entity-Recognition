@@ -1,0 +1,9 @@
+Plant: Davis-Besse.
+Anticipatory Reactor Trip System Actuated During Turbine Stop Valve Testing due to the Closure of a Main Turbine Stop Valve.
+ On September 7, 2019, with the Davis-Besse Nuclear Power Station operating at approximately 95 percent power, during scheduled Main Turbine Stop Valve 2 (MSV) testing, Main Turbine Stop Valve 4 unexpectedly stroked closed and Anticipatory Reactor Trip System (ARTS) actuated, tripping the reactor. 
+
+ The most likely cause of the MSV 4 closure was mechanical binding / sticking or foreign material in the internals of the valve operating system (fast acting solenoid valve) causing its inadvertent actuation. 
+
+ Actions taken include replacing and testing the MSV 4 fast acting solenoid valve and testing ARTS. Scheduled actions include replacing similar components on the other MSVs, and cleaning the EHC fluid sump, replacing the EHC fluid and particulate strainers. 
+
+ This issue is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).

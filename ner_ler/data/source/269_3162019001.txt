@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Manual Reactor Trip due to Non-Essential Service Water System Degraded Condition.
+ On July 19, 2019, Donald C. Cook Nuclear Plant (CNP) Unit 2 started experiencing degraded performance on the Unit 2 Non-Essential Service Water System (NESW), which affected one (1) NESW pump. On July 21, 2019, a second NESW pump on Unit 2 was affected. On July 21, 2019, a rapid downpower over approximately 40 minutes was conducted on Unit 2, and a manual reactor trip was initiated from 17 percent power to allow for investigation and repair of the degraded NESW System, before any thresholds were exceeded. The manual reactor trip was completed at 0826 EDT on July 21, 2019. 
+
+ The manual Reactor Protection System (RPS) actuation was reported via Event Notification 54176 in accordance with 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A). This manual RPS actuation is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) as, "Any event or condition that resulted in manual or automatic actuation of the RPS." 
+
+ The direct cause of the degraded NESW system performance was a high differential pressure on both Unit 2 NESW strainers, due to excessive loading of small mussels and plugged backwash lines. Both strainers were cleaned, backwashed lines flushed, and returned to service.

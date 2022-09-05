@@ -1,0 +1,9 @@
+Plant: Quad Cities 1.
+Automatic Actuation of Emergency Diesel Generator due to Transformer Maintenance.
+ On March 19, 2021, Unit 1 was in a refueling outage and Unit 2 was operating at 100% power with the 1/2 Emergency Diesel Generator (EDG) inoperable for planned maintenance. On March 19, 2021 at 2030 hours, the Operational Analysis Department (OAD) was performing Unit 1 Reserve Auxiliary Transformer (RAT) to Bus 12 relay routines when an unplanned trip of the Unit 1 RAT occurred and the Unit 1 EDG automatically started and loaded to Bus 14-1. All automatic actions occurred as expected. Unit 2 entered TS 3.8.1 Condition A for the RAT inoperability, and TS 3.8.1 Condition D due to inoperability of the 1/2 EDG and the RAT. 
+
+ The cause of the Unit 1 RAT trip and auto initiation of the Unit 1 EDG was due to a human performance error. 
+
+ Immediate corrective actions included the restoration of power to the Unit 1 RAT and associated electrical power buses. Follow up corrective actions include management to reinforce expectations for pre-job briefs. 
+
+ This report is being submitted under 10 CFR50.73(a)(2)(iv)(A) for any event or condition that resulted in manual or automatic actuation of an emergency AC electrical power systems.

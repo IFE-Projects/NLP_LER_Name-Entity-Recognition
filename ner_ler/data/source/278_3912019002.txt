@@ -1,0 +1,7 @@
+Plant: Watts Bar 2.
+Breach due to Penetration Boot Seal Separation Results in Shield Building Inoperability.
+ On June 20, 2019, at 1340 Eastern Daylight Time (EDT), a breach in excess of allowable margin was identified in the Watts Bar Nuclear Plant (WBN) Unit 2 Shield Building annulus. The breach consisted of a penetration boot seal that had pulled away from the shield building wall, creating a gap between the boot seal and the annulus wall. As a result, WBN U2 entered Technical Specification (TS) Limiting Condition for Operation (LCO) 3.6.15, Condition A, for the shield building being inoperable. On June 21, 2019, at 0036, the boot seal was repaired, and WBN U2 exited LCO 3.6.15, Condition A. 
+
+ There were no human performance errors identified that contributed to this event. Corrective actions included repairing the boot seal, and modifying permanent scaffolding. 
+
+ This event is being reported to the Nuclear Regulatory Commission (NRC) under 10 CFR 50.73(a)(2)(v)(C) as an event or condition that could have prevented fulfillment of a safety function of structures or systems that are needed to control the release of radioactive material.

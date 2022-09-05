@@ -1,0 +1,11 @@
+Plant: Prairie Island 1.
+Reactor Trip Caused by Spurious Neutron Flux Signal During Reactor Protection System Testing.
+ On August 26, 2020, Prairie Island Nuclear Generating Plant (PINGP), Unit 1 reactor automatically tripped on a spurious Power Range Negative Rate trip signal. Surveillance testing was in progress on the Nuclear Instrumentation System (NIS) Power Range Channel which placed one of the Neutron Flux Power Range bistables in trip, reducing the normal two-out-of-four trip logic to one-out-of-three trip logic. 
+
+ This event is reportable under 10CFR 50.73(a)(2)(iv)(A) due to the Reactor Protection System (RPS) actuation.
+
+ There were no nuclear safety impacts. The system operated as designed and initiated an automatic reactor trip that placed the plant in a safe condition. All systems responded normally. Operations stabilized the plant without complication. 
+
+ The direct cause of this event was attributed to a spurious negative rate signal of 1N41 Reactor Trip bistable during NIS Power Range Channel Calibration surveillance testing. 
+
+ The corrective actions include replacement of 1N41 components as well as a design modification.

@@ -1,0 +1,7 @@
+Plant: Watts Bar 2.
+Automatic Reactor Trip on Main Turbine Trip Caused by Main Feed Pump Trip due to Low Condenser Vacuum.
+ On March 17, 2021, at 1004 Eastern Daylight Time (EDT), the Watts Bar Nuclear Plant (WBN) Unit 2 experienced an automatic reactor trip on a main turbine trip due to a main feed pump trip on low condenser vacuum. Concurrent with the reactor trip, the Auxiliary Feedwater system actuated as designed. All control and shutdown rods inserted properly and all safety systems responded as designed. 
+
+ The direct cause of the event was failure of a close latch to maintain an Alternate Supply Breaker open after installation in the Unit 2C Board. The Alternate Supply Breaker closed causing the Normal Supply Breaker to open, de-energizing the Unit 2C Board. The 2C Condenser Circulating Water (CCW) Pump lost power causing a reduction of CCW flow and subsequent main feed pump trip on low condenser vacuum. Corrective actions include incorporating vendor enhancements to the breaker maintenance procedures. 
+
+ This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).

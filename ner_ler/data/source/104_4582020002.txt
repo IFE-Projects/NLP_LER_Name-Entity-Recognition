@@ -1,0 +1,5 @@
+Plant: River Bend.
+Manual Reactor Trip due to Reactor Recirculation Pump Trip.
+ On August 21, 2020 at 0908 CT, River Bend Station (RBS) was operating at 100% reactor power when Reactor Recirculation Pump 'B' tripped. At 0918 CT, a manual reactor scram was inserted at 67% reactor power after receiving indications of flux oscillations on the Period Based Detection System (PBDS) and Average Power Range Monitors (APRMs). All control rods fully inserted and there were no complications. All systems responded as designed.
+
+ This report is made in accordance with 10 CFR 50.73(a)(2)(iv)(A) for the manual reactor trip.

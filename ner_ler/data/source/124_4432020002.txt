@@ -1,0 +1,5 @@
+Plant: Seabrook.
+Remote Shutdown System Indicator Exceeded Allowable Value for Time Longer than Permitted by the Technical Specifications.
+ On July 04, 2020, while performing a monthly surveillance of Remote Shutdown System (RSS) instrumentation, the Reactor Coolant System (RCS) loop 1 wide range cold leg temperature indicator was indicating high. The associated electronic chart recorder data indicated the instrument likely failed approximately two weeks prior to discovery. This condition resulted in exceeding the Technical Specification allowed outage time of 7 days. The cause was determined to be loose electrical connections at the terminations within the instrument loop which were tightened after discovery. The instrument failure did not affect the control room monitoring of RCS loop 1 cold leg temperature indication. 
+
+ This condition is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specification.

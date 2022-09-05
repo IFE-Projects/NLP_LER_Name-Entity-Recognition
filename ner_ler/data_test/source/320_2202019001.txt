@@ -1,0 +1,7 @@
+Plant: Nine Mile Point 1.
+Automatic Reactor Scram due to High Reactor Pressure.
+ On April 14, 2019 at 00:03, Nine Mile Point Unit 1 received an automatic scram of the reactor due to high reactor pressure. Due to the Turbine trip, the High Pressure Coolant Injection (HPCI) System automatically initiated, as designed. This event is reportable under 10 CFR 50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A) as any event or condition that resulted in a manual or automatic actuation of any of the systems listed in 10 CFR 50.72(b)(3)(iv)(B). 
+
+ The cause of the scram is that station personnel did not identify that the Restoring Arm Breakdown was incorrectly installed and therefore non-functional. This resulted in ineffective knowledge-based troubleshooting to correct a condition as opposed to corrections with controlled technical guidance and the right expertise. 
+
+ The event described in this LER is documented in the plant's corrective action program.

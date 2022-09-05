@@ -1,0 +1,7 @@
+Plant: Davis-Besse.
+Auxiliary Feedwater Trains Inoperable due to Loss of Train Separation from Door Being Left Open.
+ On August 19, 2019, with the Davis-Besse Nuclear Power Station operating in Mode 1 at approximately 100 percent power, the door separating the two Auxiliary Feedwater (AFW) Pump Rooms was left open for approximately 75 minutes during scheduled work on AFW Train 1 piping. The watertight door, which serves as a Fire, Flood, Tornado, Security, and High Energy Line Break barrier, was closed upon discovery by a plant operator performing rounds. With the door open and unattended, both AFW trains were inoperable due to the loss of train separation.
+
+ The cause of the door being left open and unattended was worker inattention to door signage, resulting in nonadherence to door usage requirements. Contributing to the event was less than adequate monitoring of the door by Site Protection in accordance with procedures. Corrective actions included coaching of the workers on the importance of maintaining vital area doors, communication on door design, functions and usage with site employees, discussion on lessons learned from the event, and incorporation of additional guidance in Site Protection procedures. 
+
+ This event is being reported pursuant with 10 CFR 50.73(a)(2)(v)(B) and 10 CFR 50.73(a)(2)(vii)(B).

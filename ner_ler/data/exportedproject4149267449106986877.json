@@ -1,0 +1,5931 @@
+{
+  "name" : "SuccessLERSecond Test",
+  "slug" : null,
+  "description" : "This project is relate to S-40337-04-002 PoC NLP Document AI. The object is a set ov event downloaded from the LER database\r\n\r\nTesting by Chau",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "1_3182021003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535473,
+    "updated" : 1662365286538
+  }, {
+    "name" : "10_3882021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535876,
+    "updated" : 1662030513297
+  }, {
+    "name" : "100_3162020003.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1662029920672,
+    "created" : 1662028539325,
+    "updated" : 1662029960311
+  }, {
+    "name" : "101_4582020004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539362,
+    "updated" : 1662036830245
+  }, {
+    "name" : "102_2822020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539411,
+    "updated" : 1662036830245
+  }, {
+    "name" : "103_3822020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539468,
+    "updated" : 1662036830245
+  }, {
+    "name" : "104_4582020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539517,
+    "updated" : 1662029990294
+  }, {
+    "name" : "105_2502020004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539571,
+    "updated" : 1662030030210
+  }, {
+    "name" : "106_2502020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539645,
+    "updated" : 1662030125889
+  }, {
+    "name" : "107_2502020005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539680,
+    "updated" : 1662030167918
+  }, {
+    "name" : "108_2502020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539708,
+    "updated" : 1662030215073
+  }, {
+    "name" : "109_4002020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539737,
+    "updated" : 1662030281561
+  }, {
+    "name" : "11_4992021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535915,
+    "updated" : 1662031065572
+  }, {
+    "name" : "110_3252020004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539764,
+    "updated" : 1662030590586
+  }, {
+    "name" : "111_3312020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539793,
+    "updated" : 1662030637018
+  }, {
+    "name" : "112_2982020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539824,
+    "updated" : 1662030681490
+  }, {
+    "name" : "113_3252020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539904,
+    "updated" : 1662030708283
+  }, {
+    "name" : "114_3252020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539934,
+    "updated" : 1662030748915
+  }, {
+    "name" : "115_2552020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539967,
+    "updated" : 1662030796214
+  }, {
+    "name" : "116_3282020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539997,
+    "updated" : 1662030839570
+  }, {
+    "name" : "117_2652020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540027,
+    "updated" : 1662030917009
+  }, {
+    "name" : "118_2592020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540058,
+    "updated" : 1662030992032
+  }, {
+    "name" : "119_2592020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540087,
+    "updated" : 1662031031657
+  }, {
+    "name" : "12_3952021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535946,
+    "updated" : 1662031821592
+  }, {
+    "name" : "120_3232020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540116,
+    "updated" : 1662031125196
+  }, {
+    "name" : "121_3902020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540147,
+    "updated" : 1662031160705
+  }, {
+    "name" : "122_3902020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540178,
+    "updated" : 1662031212721
+  }, {
+    "name" : "123_2512020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540208,
+    "updated" : 1662031234403
+  }, {
+    "name" : "124_4432020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540241,
+    "updated" : 1662031276501
+  }, {
+    "name" : "125_2602020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540269,
+    "updated" : 1662031330869
+  }, {
+    "name" : "126_3412020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540299,
+    "updated" : 1662031405417
+  }, {
+    "name" : "127_3692020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540329,
+    "updated" : 1662031474068
+  }, {
+    "name" : "128_3692020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540357,
+    "updated" : 1662031738679
+  }, {
+    "name" : "129_4822020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540388,
+    "updated" : 1662031757959
+  }, {
+    "name" : "13_3162021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535966,
+    "updated" : 1662032548293
+  }, {
+    "name" : "130_4582020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540419,
+    "updated" : 1662031915001
+  }, {
+    "name" : "131_4432020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540446,
+    "updated" : 1662031944032
+  }, {
+    "name" : "132_3902020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540476,
+    "updated" : 1662031993851
+  }, {
+    "name" : "133_3902020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540507,
+    "updated" : 1662032095254
+  }, {
+    "name" : "134_3912020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540537,
+    "updated" : 1662032130921
+  }, {
+    "name" : "135_3272020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540569,
+    "updated" : 1662032161120
+  }, {
+    "name" : "136_4132020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540607,
+    "updated" : 1662032213972
+  }, {
+    "name" : "137_3872020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540636,
+    "updated" : 1662032272917
+  }, {
+    "name" : "138_2962020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540667,
+    "updated" : 1662032410221
+  }, {
+    "name" : "139_2502020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540698,
+    "updated" : 1662032480878
+  }, {
+    "name" : "14_3462021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536004,
+    "updated" : 1662033309620
+  }, {
+    "name" : "140_2722020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540732,
+    "updated" : 1662032684137
+  }, {
+    "name" : "141_2722020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540762,
+    "updated" : 1662032754228
+  }, {
+    "name" : "142_2202020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540823,
+    "updated" : 1662032783619
+  }, {
+    "name" : "143_2982020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540852,
+    "updated" : 1662032825954
+  }, {
+    "name" : "144_3162020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540882,
+    "updated" : 1662032922485
+  }, {
+    "name" : "145_4122020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540911,
+    "updated" : 1662032973461
+  }, {
+    "name" : "146_3662020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028540941,
+    "updated" : 1662033026195
+  }, {
+    "name" : "147_3362020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541087,
+    "updated" : 1662033113259
+  }, {
+    "name" : "148_3952020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541127,
+    "updated" : 1662033203252
+  }, {
+    "name" : "149_4162020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541157,
+    "updated" : 1662033251386
+  }, {
+    "name" : "15_4002021005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536035,
+    "updated" : 1662046565083
+  }, {
+    "name" : "150_4572020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541187,
+    "updated" : 1662033364271
+  }, {
+    "name" : "151_2542020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541222,
+    "updated" : 1662033398264
+  }, {
+    "name" : "152_2542020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541251,
+    "updated" : 1662033458120
+  }, {
+    "name" : "153_4232020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541280,
+    "updated" : 1662033476698
+  }, {
+    "name" : "154_2872020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541314,
+    "updated" : 1662033537381
+  }, {
+    "name" : "155_3392020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541344,
+    "updated" : 1662033579933
+  }, {
+    "name" : "156_4232020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541377,
+    "updated" : 1662033616908
+  }, {
+    "name" : "157_2652020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541408,
+    "updated" : 1662035649952
+  }, {
+    "name" : "158_2722020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541440,
+    "updated" : 1662036695763
+  }, {
+    "name" : "159_3462020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541471,
+    "updated" : 1662046492325
+  }, {
+    "name" : "16_4562021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536068,
+    "updated" : 1662125202985
+  }, {
+    "name" : "160_3252020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541500,
+    "updated" : 1662046758562
+  }, {
+    "name" : "161_4982020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541530,
+    "updated" : 1662046932731
+  }, {
+    "name" : "162_4982020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541566,
+    "updated" : 1662046997967
+  }, {
+    "name" : "163_4002020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541604,
+    "updated" : 1662047015209
+  }, {
+    "name" : "164_3252020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541633,
+    "updated" : 1662047157356
+  }, {
+    "name" : "165_4242020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541662,
+    "updated" : 1662047202514
+  }, {
+    "name" : "166_2652020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541689,
+    "updated" : 1662047245186
+  }, {
+    "name" : "167_3822020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541716,
+    "updated" : 1662047290130
+  }, {
+    "name" : "168_4102020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541753,
+    "updated" : 1662124883942
+  }, {
+    "name" : "169_4402020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541781,
+    "updated" : 1662125157883
+  }, {
+    "name" : "17_4162021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536089,
+    "updated" : 1662125974813
+  }, {
+    "name" : "170_3412020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541812,
+    "updated" : 1662125277946
+  }, {
+    "name" : "171_4102020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541839,
+    "updated" : 1662125336181
+  }, {
+    "name" : "172_2962020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541871,
+    "updated" : 1662125379071
+  }, {
+    "name" : "173_5292020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028541902,
+    "updated" : 1662125480643
+  }, {
+    "name" : "174_2772020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542012,
+    "updated" : 1662125568419
+  }, {
+    "name" : "175_2772020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542103,
+    "updated" : 1662125638747
+  }, {
+    "name" : "176_3462020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542139,
+    "updated" : 1662125658212
+  }, {
+    "name" : "177_3892020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542199,
+    "updated" : 1662125690834
+  }, {
+    "name" : "178_3332020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542265,
+    "updated" : 1662125860226
+  }, {
+    "name" : "179_3902020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542381,
+    "updated" : 1662125927859
+  }, {
+    "name" : "18_4402021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536160,
+    "updated" : 1662364513289
+  }, {
+    "name" : "180_3382020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542476,
+    "updated" : 1662126036840
+  }, {
+    "name" : "181_3882020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542514,
+    "updated" : 1662126082117
+  }, {
+    "name" : "182_3232020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542550,
+    "updated" : 1662363908205
+  }, {
+    "name" : "183_4132020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542576,
+    "updated" : 1662363949556
+  }, {
+    "name" : "184_4822020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542618,
+    "updated" : 1662364046624
+  }, {
+    "name" : "185_3332020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542649,
+    "updated" : 1662364124641
+  }, {
+    "name" : "186_3272020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542683,
+    "updated" : 1662364181215
+  }, {
+    "name" : "187_4232020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542716,
+    "updated" : 1662364240815
+  }, {
+    "name" : "188_4582020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542747,
+    "updated" : 1662364382233
+  }, {
+    "name" : "189_3662020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542792,
+    "updated" : 1662364447362
+  }, {
+    "name" : "19_4582021004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536194,
+    "updated" : 1662365228554
+  }, {
+    "name" : "190_4462020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542821,
+    "updated" : 1662364586442
+  }, {
+    "name" : "191_3362019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542850,
+    "updated" : 1662364654082
+  }, {
+    "name" : "192_3412019006.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542879,
+    "updated" : 1662364700121
+  }, {
+    "name" : "193_4232019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542914,
+    "updated" : 1662364768483
+  }, {
+    "name" : "194_5302020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542947,
+    "updated" : 1662364854557
+  }, {
+    "name" : "195_3272019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028542978,
+    "updated" : 1662364929112
+  }, {
+    "name" : "196_3272019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543010,
+    "updated" : 1662364998329
+  }, {
+    "name" : "197_3282019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543041,
+    "updated" : 1662365011863
+  }, {
+    "name" : "198_2802019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543072,
+    "updated" : 1662365108976
+  }, {
+    "name" : "199_2802019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543103,
+    "updated" : 1662365170021
+  }, {
+    "name" : "2_2702021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535529,
+    "updated" : 1662373161185
+  }, {
+    "name" : "20_2552021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536220,
+    "updated" : 1662366298329
+  }, {
+    "name" : "200_2982019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543134,
+    "updated" : 1662365317059
+  }, {
+    "name" : "201_3232019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543167,
+    "updated" : 1662365370309
+  }, {
+    "name" : "202_3952019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543199,
+    "updated" : 1662365404391
+  }, {
+    "name" : "203_2812019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543231,
+    "updated" : 1662365501824
+  }, {
+    "name" : "204_3902019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543263,
+    "updated" : 1662365553390
+  }, {
+    "name" : "205_3902019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543288,
+    "updated" : 1662365592690
+  }, {
+    "name" : "206_3162020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543366,
+    "updated" : 1662365613484
+  }, {
+    "name" : "207_3542019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543398,
+    "updated" : 1662366108457
+  }, {
+    "name" : "208_3952019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543429,
+    "updated" : 1662366200345
+  }, {
+    "name" : "209_3342019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543558,
+    "updated" : 1662366252927
+  }, {
+    "name" : "21_3542021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536253,
+    "updated" : 1662366852226
+  }, {
+    "name" : "210_3342019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543667,
+    "updated" : 1662366341512
+  }, {
+    "name" : "211_4102019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543764,
+    "updated" : 1662366382974
+  }, {
+    "name" : "212_2542019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543852,
+    "updated" : 1662366421408
+  }, {
+    "name" : "213_2542019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028543963,
+    "updated" : 1662366474797
+  }, {
+    "name" : "214_4582019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544043,
+    "updated" : 1662366487206
+  }, {
+    "name" : "215_4992019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544097,
+    "updated" : 1662366549635
+  }, {
+    "name" : "216_2782019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544153,
+    "updated" : 1662366681988
+  }, {
+    "name" : "217_4002019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544311,
+    "updated" : 1662366743132
+  }, {
+    "name" : "218_3872019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544406,
+    "updated" : 1662366773532
+  }, {
+    "name" : "219_3872019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544456,
+    "updated" : 1662366818418
+  }, {
+    "name" : "22_4462021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536292,
+    "updated" : 1662367581606
+  }, {
+    "name" : "220_3482019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544506,
+    "updated" : 1662366894541
+  }, {
+    "name" : "221_4252019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544554,
+    "updated" : 1662366952078
+  }, {
+    "name" : "222_4142019005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544592,
+    "updated" : 1662367109389
+  }, {
+    "name" : "223_4612019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544673,
+    "updated" : 1662367153110
+  }, {
+    "name" : "224_2602019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544732,
+    "updated" : 1662367196532
+  }, {
+    "name" : "225_3412019005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544791,
+    "updated" : 1662367287465
+  }, {
+    "name" : "226_3972019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544850,
+    "updated" : 1662367395131
+  }, {
+    "name" : "227_4562019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544910,
+    "updated" : 1662367459266
+  }, {
+    "name" : "228_3642019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028544970,
+    "updated" : 1662367488842
+  }, {
+    "name" : "229_2492019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545030,
+    "updated" : 1662367543351
+  }, {
+    "name" : "23_2602021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536323,
+    "updated" : 1662368449932
+  }, {
+    "name" : "230_4612019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545098,
+    "updated" : 1662367625104
+  }, {
+    "name" : "231_4162019005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545149,
+    "updated" : 1662368135813
+  }, {
+    "name" : "232_2592019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545190,
+    "updated" : 1662368157820
+  }, {
+    "name" : "233_2592019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545229,
+    "updated" : 1662368197832
+  }, {
+    "name" : "234_2592019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545325,
+    "updated" : 1662368213190
+  }, {
+    "name" : "235_3352019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545456,
+    "updated" : 1662368231149
+  }, {
+    "name" : "236_3462019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545496,
+    "updated" : 1662368297452
+  }, {
+    "name" : "237_4992019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545543,
+    "updated" : 1662368337759
+  }, {
+    "name" : "238_3902019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545607,
+    "updated" : 1662368377244
+  }, {
+    "name" : "239_3352019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545653,
+    "updated" : 1662368430038
+  }, {
+    "name" : "24_4402021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536358,
+    "updated" : 1662369061974
+  }, {
+    "name" : "240_3872019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545700,
+    "updated" : 1662368480631
+  }, {
+    "name" : "241_3872019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545734,
+    "updated" : 1662368519512
+  }, {
+    "name" : "242_4162019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545759,
+    "updated" : 1662368538636
+  }, {
+    "name" : "243_3272019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545781,
+    "updated" : 1662368581316
+  }, {
+    "name" : "244_3522019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545827,
+    "updated" : 1662368630486
+  }, {
+    "name" : "245_2542019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545845,
+    "updated" : 1662368682909
+  }, {
+    "name" : "246_3662019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545874,
+    "updated" : 1662368877915
+  }, {
+    "name" : "247_3462019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545919,
+    "updated" : 1662368927599
+  }, {
+    "name" : "248_4822019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028545964,
+    "updated" : 1662368971789
+  }, {
+    "name" : "249_4142019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546140,
+    "updated" : 1662369003111
+  }, {
+    "name" : "25_3742021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536377,
+    "updated" : 1662369637229
+  }, {
+    "name" : "250_5292019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546178,
+    "updated" : 1662369125013
+  }, {
+    "name" : "251_2612019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546196,
+    "updated" : 1662369181172
+  }, {
+    "name" : "252_3112019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546251,
+    "updated" : 1662369237881
+  }, {
+    "name" : "253_2982019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546274,
+    "updated" : 1662369273431
+  }, {
+    "name" : "254_4402019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546320,
+    "updated" : 1662369328770
+  }, {
+    "name" : "255_4162019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546362,
+    "updated" : 1662369365307
+  }, {
+    "name" : "256_2202019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546395,
+    "updated" : 1662369392684
+  }, {
+    "name" : "257_3542019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546425,
+    "updated" : 1662369442814
+  }, {
+    "name" : "258_4612019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546456,
+    "updated" : 1662369525100
+  }, {
+    "name" : "259_3062019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546485,
+    "updated" : 1662369572559
+  }, {
+    "name" : "26_4142021003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536410,
+    "updated" : 1662370242584
+  }, {
+    "name" : "260_3822019007.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546562,
+    "updated" : 1662369730706
+  }, {
+    "name" : "261_3412019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546617,
+    "updated" : 1662369804595
+  }, {
+    "name" : "262_4982019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546658,
+    "updated" : 1662369864083
+  }, {
+    "name" : "263_3332019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546690,
+    "updated" : 1662369924996
+  }, {
+    "name" : "264_4402019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546726,
+    "updated" : 1662369970122
+  }, {
+    "name" : "265_2692019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546751,
+    "updated" : 1662370002382
+  }, {
+    "name" : "266_3532019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546800,
+    "updated" : 1662370058704
+  }, {
+    "name" : "267_2802019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546832,
+    "updated" : 1662370151715
+  }, {
+    "name" : "268_2802019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546859,
+    "updated" : 1662370177871
+  }, {
+    "name" : "269_3162019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546898,
+    "updated" : 1662370208750
+  }, {
+    "name" : "27_3272021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536447,
+    "updated" : 1662371356349
+  }, {
+    "name" : "270_4252019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546931,
+    "updated" : 1662370293976
+  }, {
+    "name" : "271_4832019005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028546968,
+    "updated" : 1662370326987
+  }, {
+    "name" : "272_4002019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547043,
+    "updated" : 1662370375382
+  }, {
+    "name" : "273_2592019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547133,
+    "updated" : 1662370411549
+  }, {
+    "name" : "274_4142019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547220,
+    "updated" : 1662370442712
+  }, {
+    "name" : "275_3882019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547271,
+    "updated" : 1662370470444
+  }, {
+    "name" : "276_3822019006.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547329,
+    "updated" : 1662370504398
+  }, {
+    "name" : "277_3462019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547395,
+    "updated" : 1662370554063
+  }, {
+    "name" : "278_3912019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547455,
+    "updated" : 1662370588736
+  }, {
+    "name" : "279_3282019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547613,
+    "updated" : 1662371294155
+  }, {
+    "name" : "28_5292021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536473,
+    "updated" : 1662372374680
+  }, {
+    "name" : "280_3242019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547718,
+    "updated" : 1662371753111
+  }, {
+    "name" : "281_3902019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547759,
+    "updated" : 1662371786381
+  }, {
+    "name" : "282_3902019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547789,
+    "updated" : 1662371974438
+  }, {
+    "name" : "283_2632019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547806,
+    "updated" : 1662371984059
+  }, {
+    "name" : "284_3532019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547844,
+    "updated" : 1662372066162
+  }, {
+    "name" : "285_4582019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028547928,
+    "updated" : 1662372114774
+  }, {
+    "name" : "286_2602019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548017,
+    "updated" : 1662372236530
+  }, {
+    "name" : "287_3152019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548104,
+    "updated" : 1662372284782
+  }, {
+    "name" : "288_3272019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548204,
+    "updated" : 1662372324885
+  }, {
+    "name" : "289_3412019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548315,
+    "updated" : 1662372353975
+  }, {
+    "name" : "29_2772021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536512,
+    "updated" : 1662373095453
+  }, {
+    "name" : "290_3682019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548413,
+    "updated" : 1662372436010
+  }, {
+    "name" : "291_4402019002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548450,
+    "updated" : 1662372471454
+  }, {
+    "name" : "292_4822019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548480,
+    "updated" : 1662372510626
+  }, {
+    "name" : "293_3872019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548509,
+    "updated" : 1662372561485
+  }, {
+    "name" : "294_3872019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548546,
+    "updated" : 1662372599036
+  }, {
+    "name" : "295_3912019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548576,
+    "updated" : 1662372654221
+  }, {
+    "name" : "296_4612019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548612,
+    "updated" : 1662372716236
+  }, {
+    "name" : "297_2502019001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548642,
+    "updated" : 1662372846309
+  }, {
+    "name" : "298_2932019004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548670,
+    "updated" : 1662372961157
+  }, {
+    "name" : "299_3822019005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548698,
+    "updated" : 1662373032133
+  }, {
+    "name" : "3_3212021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535617,
+    "updated" : 1662373839324
+  }, {
+    "name" : "30_4822021003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536546,
+    "updated" : 1662373322695
+  }, {
+    "name" : "300_4832019003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028548729,
+    "updated" : 1662373256733
+  }, {
+    "name" : "31_3342021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536630,
+    "updated" : 1662373377407
+  }, {
+    "name" : "32_3382021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536665,
+    "updated" : 1662373432233
+  }, {
+    "name" : "33_3412021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536696,
+    "updated" : 1662373516014
+  }, {
+    "name" : "35_2772021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536756,
+    "updated" : 1662373596961
+  }, {
+    "name" : "36_3872021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536785,
+    "updated" : 1662373672152
+  }, {
+    "name" : "37_3872021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536816,
+    "updated" : 1662037052225
+  }, {
+    "name" : "38_4002021004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028536836,
+    "updated" : 1662373760630
+  }, {
+    "name" : "39_4562021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537030,
+    "updated" : 1662373794962
+  }, {
+    "name" : "4_3212021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535672,
+    "updated" : 1662374393364
+  }, {
+    "name" : "40_2602021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537058,
+    "updated" : 1662373898444
+  }, {
+    "name" : "41_3482021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537089,
+    "updated" : 1662373961381
+  }, {
+    "name" : "42_4142021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537119,
+    "updated" : 1662373982186
+  }, {
+    "name" : "43_2502021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537151,
+    "updated" : 1662374054678
+  }, {
+    "name" : "44_2502021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537175,
+    "updated" : 1662374139359
+  }, {
+    "name" : "45_3162021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537229,
+    "updated" : 1662374160223
+  }, {
+    "name" : "46_4582021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537259,
+    "updated" : 1662374224779
+  }, {
+    "name" : "47_2692021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537286,
+    "updated" : 1662374246975
+  }, {
+    "name" : "48_2692021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537314,
+    "updated" : 1662374341032
+  }, {
+    "name" : "49_2692021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537344,
+    "updated" : 1662374364426
+  }, {
+    "name" : "5_2662021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535705,
+    "updated" : 1662374804306
+  }, {
+    "name" : "50_4432021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537373,
+    "updated" : 1662374461076
+  }, {
+    "name" : "51_4582021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537402,
+    "updated" : 1662374496457
+  }, {
+    "name" : "52_3182021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537430,
+    "updated" : 1662374539037
+  }, {
+    "name" : "53_2982021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537461,
+    "updated" : 1662374586475
+  }, {
+    "name" : "54_2542021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537490,
+    "updated" : 1662374613330
+  }, {
+    "name" : "55_3912021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537529,
+    "updated" : 1662374640336
+  }, {
+    "name" : "56_3132021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537563,
+    "updated" : 1662374658914
+  }, {
+    "name" : "57_3872021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537588,
+    "updated" : 1662374683976
+  }, {
+    "name" : "58_3182021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537643,
+    "updated" : 1662374709960
+  }, {
+    "name" : "59_2502021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537683,
+    "updated" : 1662374778685
+  }, {
+    "name" : "6_3972021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535744,
+    "updated" : 1662376611461
+  }, {
+    "name" : "60_3902021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537715,
+    "updated" : 1662374847130
+  }, {
+    "name" : "61_3902021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537746,
+    "updated" : 1662374872415
+  }, {
+    "name" : "62_3152021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537779,
+    "updated" : 1662374894880
+  }, {
+    "name" : "63_3152021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537809,
+    "updated" : 1662374941385
+  }, {
+    "name" : "64_5292021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537842,
+    "updated" : 1662374951131
+  }, {
+    "name" : "65_4162021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537878,
+    "updated" : 1662374977063
+  }, {
+    "name" : "66_4002021003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537916,
+    "updated" : 1662375011681
+  }, {
+    "name" : "67_4982021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537947,
+    "updated" : 1662375035133
+  }, {
+    "name" : "68_3462021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028537980,
+    "updated" : 1662375100621
+  }, {
+    "name" : "69_2982021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538009,
+    "updated" : 1662375118746
+  }, {
+    "name" : "7_3232021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535786,
+    "updated" : 1662377183548
+  }, {
+    "name" : "70_4832021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538039,
+    "updated" : 1662376666470
+  }, {
+    "name" : "71_2822021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538068,
+    "updated" : 1662376712533
+  }, {
+    "name" : "72_2822021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538105,
+    "updated" : 1662376772430
+  }, {
+    "name" : "73_3892021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538146,
+    "updated" : 1662376818493
+  }, {
+    "name" : "74_4122021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538191,
+    "updated" : 1662376851273
+  }, {
+    "name" : "75_4822021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538221,
+    "updated" : 1662376905721
+  }, {
+    "name" : "76_3822021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538250,
+    "updated" : 1662376933490
+  }, {
+    "name" : "77_3742021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538282,
+    "updated" : 1662377010979
+  }, {
+    "name" : "78_4002021002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538311,
+    "updated" : 1662377084549
+  }, {
+    "name" : "79_4002021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538343,
+    "updated" : 1662377166008
+  }, {
+    "name" : "8_3362021001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535806,
+    "updated" : 1662377683259
+  }, {
+    "name" : "80_3682020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538373,
+    "updated" : 1662377218888
+  }, {
+    "name" : "81_3212020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538406,
+    "updated" : 1662377293901
+  }, {
+    "name" : "82_4612020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538436,
+    "updated" : 1662377310810
+  }, {
+    "name" : "83_3522020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538471,
+    "updated" : 1662377358418
+  }, {
+    "name" : "84_3912020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538500,
+    "updated" : 1662377387900
+  }, {
+    "name" : "85_3152020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538532,
+    "updated" : 1662377455294
+  }, {
+    "name" : "86_3162020004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538562,
+    "updated" : 1662377491897
+  }, {
+    "name" : "87_3642020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538598,
+    "updated" : 1662377534251
+  }, {
+    "name" : "88_2662020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538728,
+    "updated" : 1662377556455
+  }, {
+    "name" : "89_4562020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538746,
+    "updated" : 1662377627213
+  }, {
+    "name" : "9_3462021003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028535846,
+    "updated" : 1662378311294
+  }, {
+    "name" : "90_4232020005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538761,
+    "updated" : 1662377749509
+  }, {
+    "name" : "91_4242020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538838,
+    "updated" : 1662377803431
+  }, {
+    "name" : "92_4832020006.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538898,
+    "updated" : 1662377860679
+  }, {
+    "name" : "93_4832020005.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028538975,
+    "updated" : 1662377897246
+  }, {
+    "name" : "94_3342020001.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539052,
+    "updated" : 1662378058556
+  }, {
+    "name" : "95_2542020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539111,
+    "updated" : 1662378122933
+  }, {
+    "name" : "96_2542020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539157,
+    "updated" : 1662378177987
+  }, {
+    "name" : "97_2552020002.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539190,
+    "updated" : 1662378203850
+  }, {
+    "name" : "98_4832020004.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539228,
+    "updated" : 1662378241523
+  }, {
+    "name" : "99_4132020003.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1662028539268,
+    "updated" : 1662378276054
+  } ],
+  "annotation_documents" : [ {
+    "name" : "100_3162020003.txt",
+    "user" : "chaut",
+    "state" : "FINISHED",
+    "timestamp" : 1662028834072,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662028800103,
+    "updated" : 1662029967796
+  }, {
+    "name" : "101_4582020004.txt",
+    "user" : "chaut",
+    "state" : "FINISHED",
+    "timestamp" : 1662028916428,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662028882302,
+    "updated" : 1662029972026
+  }, {
+    "name" : "102_2822020001.txt",
+    "user" : "chaut",
+    "state" : "FINISHED",
+    "timestamp" : 1662028958281,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662028943999,
+    "updated" : 1662029974313
+  }, {
+    "name" : "103_3822020002.txt",
+    "user" : "chaut",
+    "state" : "FINISHED",
+    "timestamp" : 1662028984230,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662028962091,
+    "updated" : 1662029975947
+  }, {
+    "name" : "104_4582020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030021350,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662029990237,
+    "updated" : 1662030021350
+  }, {
+    "name" : "105_2502020004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030119310,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030030150,
+    "updated" : 1662030119310
+  }, {
+    "name" : "106_2502020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030496397,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030125832,
+    "updated" : 1662030496397
+  }, {
+    "name" : "107_2502020005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030439267,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030167864,
+    "updated" : 1662030439267
+  }, {
+    "name" : "108_2502020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030389573,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030215017,
+    "updated" : 1662030389574
+  }, {
+    "name" : "109_4002020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030346389,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030281498,
+    "updated" : 1662030346389
+  }, {
+    "name" : "10_3882021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030583386,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030513212,
+    "updated" : 1662030583387
+  }, {
+    "name" : "110_3252020004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030633965,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030590516,
+    "updated" : 1662030633965
+  }, {
+    "name" : "111_3312020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030666690,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030636948,
+    "updated" : 1662030666691
+  }, {
+    "name" : "112_2982020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030701831,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030681409,
+    "updated" : 1662030701831
+  }, {
+    "name" : "113_3252020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030739906,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030708228,
+    "updated" : 1662030739907
+  }, {
+    "name" : "114_3252020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030786039,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030748796,
+    "updated" : 1662030786039
+  }, {
+    "name" : "115_2552020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030833608,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030796153,
+    "updated" : 1662030833609
+  }, {
+    "name" : "116_3282020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030912308,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030839482,
+    "updated" : 1662030912308
+  }, {
+    "name" : "117_2652020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662030982738,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030916942,
+    "updated" : 1662030982739
+  }, {
+    "name" : "118_2592020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031024076,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662030991977,
+    "updated" : 1662031024077
+  }, {
+    "name" : "119_2592020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031060899,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031031581,
+    "updated" : 1662031060899
+  }, {
+    "name" : "11_4992021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031118251,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031065508,
+    "updated" : 1662031118251
+  }, {
+    "name" : "120_3232020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031155761,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031125102,
+    "updated" : 1662031155761
+  }, {
+    "name" : "121_3902020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031192437,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031160647,
+    "updated" : 1662031192437
+  }, {
+    "name" : "122_3902020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031224197,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031212659,
+    "updated" : 1662031224197
+  }, {
+    "name" : "123_2512020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031270852,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031234348,
+    "updated" : 1662031270852
+  }, {
+    "name" : "124_4432020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031325175,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031276409,
+    "updated" : 1662031325176
+  }, {
+    "name" : "125_2602020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031398364,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031330795,
+    "updated" : 1662031398364
+  }, {
+    "name" : "126_3412020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031460995,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031405358,
+    "updated" : 1662031460995
+  }, {
+    "name" : "127_3692020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031726243,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031474003,
+    "updated" : 1662031726243
+  }, {
+    "name" : "128_3692020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031753540,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031738624,
+    "updated" : 1662031753540
+  }, {
+    "name" : "129_4822020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031816195,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031757902,
+    "updated" : 1662031816195
+  }, {
+    "name" : "12_3952021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031912633,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031821530,
+    "updated" : 1662031912633
+  }, {
+    "name" : "130_4582020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031940408,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031914943,
+    "updated" : 1662031940408
+  }, {
+    "name" : "131_4432020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662031977664,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031943974,
+    "updated" : 1662031977664
+  }, {
+    "name" : "132_3902020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032091846,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662031993797,
+    "updated" : 1662032091846
+  }, {
+    "name" : "133_3902020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032128436,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032095198,
+    "updated" : 1662032128436
+  }, {
+    "name" : "134_3912020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032156416,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032130853,
+    "updated" : 1662032156416
+  }, {
+    "name" : "135_3272020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032209686,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032161041,
+    "updated" : 1662032209686
+  }, {
+    "name" : "136_4132020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032258108,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032213897,
+    "updated" : 1662032258109
+  }, {
+    "name" : "137_3872020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032368599,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032272860,
+    "updated" : 1662032368599
+  }, {
+    "name" : "138_2962020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032478880,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032410155,
+    "updated" : 1662032478880
+  }, {
+    "name" : "139_2502020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032531845,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032480769,
+    "updated" : 1662032531845
+  }, {
+    "name" : "13_3162021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032678637,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032548235,
+    "updated" : 1662032678638
+  }, {
+    "name" : "140_2722020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032750544,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032684058,
+    "updated" : 1662032750544
+  }, {
+    "name" : "141_2722020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032778396,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032754168,
+    "updated" : 1662032778396
+  }, {
+    "name" : "142_2202020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032812316,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032783547,
+    "updated" : 1662032812316
+  }, {
+    "name" : "143_2982020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032893354,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032825864,
+    "updated" : 1662032893354
+  }, {
+    "name" : "144_3162020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662032962996,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032922424,
+    "updated" : 1662032962996
+  }, {
+    "name" : "145_4122020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033019364,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662032973403,
+    "updated" : 1662033019364
+  }, {
+    "name" : "146_3662020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033105040,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033026134,
+    "updated" : 1662033105040
+  }, {
+    "name" : "147_3362020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033196711,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033113188,
+    "updated" : 1662033196711
+  }, {
+    "name" : "148_3952020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033232427,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033203191,
+    "updated" : 1662033232427
+  }, {
+    "name" : "149_4162020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033295455,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033251325,
+    "updated" : 1662033295456
+  }, {
+    "name" : "14_3462021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033358742,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033309520,
+    "updated" : 1662033358742
+  }, {
+    "name" : "150_4572020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033392132,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033364214,
+    "updated" : 1662033392132
+  }, {
+    "name" : "151_2542020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033450804,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033398170,
+    "updated" : 1662033450804
+  }, {
+    "name" : "152_2542020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033472093,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033458056,
+    "updated" : 1662033472093
+  }, {
+    "name" : "153_4232020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033528420,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033476620,
+    "updated" : 1662033528420
+  }, {
+    "name" : "154_2872020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033562312,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033537324,
+    "updated" : 1662033562312
+  }, {
+    "name" : "155_3392020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033613393,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033579880,
+    "updated" : 1662033613394
+  }, {
+    "name" : "156_4232020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662033616891,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662033616847,
+    "updated" : 1662033616892
+  }, {
+    "name" : "157_2652020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662035745814,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662035649848,
+    "updated" : 1662035745814
+  }, {
+    "name" : "158_2722020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662036776826,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662036695716,
+    "updated" : 1662036776826
+  }, {
+    "name" : "37_3872021002.txt",
+    "user" : "rossella",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662037096210,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662037052169,
+    "updated" : 1662037096210
+  }, {
+    "name" : "159_3462020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662046558099,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662046492273,
+    "updated" : 1662046558099
+  }, {
+    "name" : "15_4002021005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662046754418,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662046565021,
+    "updated" : 1662046754418
+  }, {
+    "name" : "160_3252020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662046916216,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662046758490,
+    "updated" : 1662046916216
+  }, {
+    "name" : "161_4982020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662046978965,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662046932653,
+    "updated" : 1662046978966
+  }, {
+    "name" : "162_4982020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047011377,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662046997906,
+    "updated" : 1662047011377
+  }, {
+    "name" : "163_4002020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047146816,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662047015154,
+    "updated" : 1662047146816
+  }, {
+    "name" : "164_3252020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047196152,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662047157300,
+    "updated" : 1662047196152
+  }, {
+    "name" : "165_4242020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047242818,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662047202453,
+    "updated" : 1662047242818
+  }, {
+    "name" : "166_2652020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047285623,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662047245086,
+    "updated" : 1662047285623
+  }, {
+    "name" : "167_3822020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662047319904,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662047290076,
+    "updated" : 1662047319904
+  }, {
+    "name" : "168_4102020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125151421,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662124882843,
+    "updated" : 1662125151421
+  }, {
+    "name" : "169_4402020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125190047,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125157757,
+    "updated" : 1662125190047
+  }, {
+    "name" : "16_4562021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125271011,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125202856,
+    "updated" : 1662125271011
+  }, {
+    "name" : "170_3412020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125332245,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125277884,
+    "updated" : 1662125332245
+  }, {
+    "name" : "171_4102020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125368339,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125336101,
+    "updated" : 1662125368339
+  }, {
+    "name" : "172_2962020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125464731,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125379015,
+    "updated" : 1662125464731
+  }, {
+    "name" : "173_5292020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125564960,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125480581,
+    "updated" : 1662125564960
+  }, {
+    "name" : "174_2772020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125631822,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125568346,
+    "updated" : 1662125631822
+  }, {
+    "name" : "175_2772020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125654047,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125638690,
+    "updated" : 1662125654047
+  }, {
+    "name" : "176_3462020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125688941,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125658144,
+    "updated" : 1662125688941
+  }, {
+    "name" : "177_3892020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125856490,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125690720,
+    "updated" : 1662125856491
+  }, {
+    "name" : "178_3332020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125918687,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125860173,
+    "updated" : 1662125918687
+  }, {
+    "name" : "179_3902020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662125963465,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125927793,
+    "updated" : 1662125963465
+  }, {
+    "name" : "17_4162021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662126033741,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662125974758,
+    "updated" : 1662126033741
+  }, {
+    "name" : "180_3382020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662126080308,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662126036784,
+    "updated" : 1662126080308
+  }, {
+    "name" : "181_3882020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662126089419,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662126082050,
+    "updated" : 1662126089419
+  }, {
+    "name" : "182_3232020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662363939011,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662363908003,
+    "updated" : 1662363939011
+  }, {
+    "name" : "183_4132020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364029576,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662363949492,
+    "updated" : 1662364029576
+  }, {
+    "name" : "184_4822020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364120877,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364046552,
+    "updated" : 1662364120877
+  }, {
+    "name" : "185_3332020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364168905,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364124566,
+    "updated" : 1662364168905
+  }, {
+    "name" : "186_3272020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364211111,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364181161,
+    "updated" : 1662364211112
+  }, {
+    "name" : "187_4232020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364379706,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364240765,
+    "updated" : 1662364379706
+  }, {
+    "name" : "188_4582020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364444421,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364381850,
+    "updated" : 1662364444422
+  }, {
+    "name" : "189_3662020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364511617,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364447202,
+    "updated" : 1662364511617
+  }, {
+    "name" : "18_4402021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364580769,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364513229,
+    "updated" : 1662364580769
+  }, {
+    "name" : "190_4462020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364644721,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364586391,
+    "updated" : 1662364644722
+  }, {
+    "name" : "191_3362019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364685362,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364654011,
+    "updated" : 1662364685363
+  }, {
+    "name" : "192_3412019006.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364756675,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364700064,
+    "updated" : 1662364756676
+  }, {
+    "name" : "193_4232019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364848324,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364768419,
+    "updated" : 1662364848325
+  }, {
+    "name" : "194_5302020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364923921,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364854497,
+    "updated" : 1662364923921
+  }, {
+    "name" : "195_3272019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662364993125,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364928980,
+    "updated" : 1662364993125
+  }, {
+    "name" : "196_3272019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365008819,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662364998266,
+    "updated" : 1662365008819
+  }, {
+    "name" : "197_3282019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365104527,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365011796,
+    "updated" : 1662365104527
+  }, {
+    "name" : "198_2802019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365167232,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365108923,
+    "updated" : 1662365167232
+  }, {
+    "name" : "199_2802019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365185603,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365169928,
+    "updated" : 1662365185603
+  }, {
+    "name" : "19_4582021004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365282399,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365228496,
+    "updated" : 1662365282400
+  }, {
+    "name" : "1_3182021003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365312706,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365286485,
+    "updated" : 1662365312706
+  }, {
+    "name" : "200_2982019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365366456,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365316552,
+    "updated" : 1662365366456
+  }, {
+    "name" : "201_3232019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365400780,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365370240,
+    "updated" : 1662365400781
+  }, {
+    "name" : "202_3952019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365495625,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365404326,
+    "updated" : 1662365495625
+  }, {
+    "name" : "203_2812019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365550210,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365501762,
+    "updated" : 1662365550211
+  }, {
+    "name" : "204_3902019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365585875,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365553338,
+    "updated" : 1662365585875
+  }, {
+    "name" : "205_3902019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662365607038,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365592631,
+    "updated" : 1662365607038
+  }, {
+    "name" : "206_3162020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366104274,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662365613435,
+    "updated" : 1662366104274
+  }, {
+    "name" : "207_3542019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366196881,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366108373,
+    "updated" : 1662366196881
+  }, {
+    "name" : "208_3952019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366249121,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366200197,
+    "updated" : 1662366249121
+  }, {
+    "name" : "209_3342019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366289807,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366252869,
+    "updated" : 1662366289807
+  }, {
+    "name" : "20_2552021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366338792,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366298260,
+    "updated" : 1662366338792
+  }, {
+    "name" : "210_3342019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366380070,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366341382,
+    "updated" : 1662366380070
+  }, {
+    "name" : "211_4102019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366417380,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366382732,
+    "updated" : 1662366417381
+  }, {
+    "name" : "212_2542019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366473560,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366421351,
+    "updated" : 1662366473560
+  }, {
+    "name" : "213_2542019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366486416,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366474743,
+    "updated" : 1662366486416
+  }, {
+    "name" : "214_4582019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366545126,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366487018,
+    "updated" : 1662366545126
+  }, {
+    "name" : "215_4992019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366678459,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366549580,
+    "updated" : 1662366678459
+  }, {
+    "name" : "216_2782019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366740014,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366681940,
+    "updated" : 1662366740014
+  }, {
+    "name" : "217_4002019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366766093,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366743052,
+    "updated" : 1662366766093
+  }, {
+    "name" : "218_3872019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366812326,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366773480,
+    "updated" : 1662366812326
+  }, {
+    "name" : "219_3872019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366858735,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366818344,
+    "updated" : 1662366858735
+  }, {
+    "name" : "21_3542021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366889096,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366852139,
+    "updated" : 1662366889096
+  }, {
+    "name" : "220_3482019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662366949554,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366894463,
+    "updated" : 1662366949554
+  }, {
+    "name" : "221_4252019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367104759,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662366952025,
+    "updated" : 1662367104759
+  }, {
+    "name" : "222_4142019005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367146768,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367109334,
+    "updated" : 1662367146768
+  }, {
+    "name" : "223_4612019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367194196,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367153057,
+    "updated" : 1662367194196
+  }, {
+    "name" : "224_2602019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367282568,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367196439,
+    "updated" : 1662367282568
+  }, {
+    "name" : "225_3412019005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367393555,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367287401,
+    "updated" : 1662367393555
+  }, {
+    "name" : "226_3972019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367455399,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367395035,
+    "updated" : 1662367455399
+  }, {
+    "name" : "227_4562019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367483527,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367459196,
+    "updated" : 1662367483527
+  }, {
+    "name" : "228_3642019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367537924,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367488770,
+    "updated" : 1662367537924
+  }, {
+    "name" : "229_2492019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367570818,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367543301,
+    "updated" : 1662367570818
+  }, {
+    "name" : "22_4462021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662367620981,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367581553,
+    "updated" : 1662367620981
+  }, {
+    "name" : "230_4612019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368131193,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662367625045,
+    "updated" : 1662368131193
+  }, {
+    "name" : "231_4162019005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368154114,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368135757,
+    "updated" : 1662368154114
+  }, {
+    "name" : "232_2592019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368193003,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368157724,
+    "updated" : 1662368193003
+  }, {
+    "name" : "233_2592019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368209581,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368197758,
+    "updated" : 1662368209581
+  }, {
+    "name" : "234_2592019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368228644,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368213122,
+    "updated" : 1662368228644
+  }, {
+    "name" : "235_3352019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368292035,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368231023,
+    "updated" : 1662368292035
+  }, {
+    "name" : "236_3462019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368333539,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368297392,
+    "updated" : 1662368333539
+  }, {
+    "name" : "237_4992019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368375729,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368337680,
+    "updated" : 1662368375729
+  }, {
+    "name" : "238_3902019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368410732,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368377169,
+    "updated" : 1662368410732
+  }, {
+    "name" : "239_3352019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368447218,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368429978,
+    "updated" : 1662368447218
+  }, {
+    "name" : "23_2602021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368477871,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368449813,
+    "updated" : 1662368477871
+  }, {
+    "name" : "240_3872019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368523237,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368480479,
+    "updated" : 1662368523237
+  }, {
+    "name" : "241_3872019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368537758,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368519460,
+    "updated" : 1662368537758
+  }, {
+    "name" : "242_4162019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368577931,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368538575,
+    "updated" : 1662368577931
+  }, {
+    "name" : "243_3272019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368619550,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368581238,
+    "updated" : 1662368619550
+  }, {
+    "name" : "244_3522019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368678637,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368630430,
+    "updated" : 1662368678638
+  }, {
+    "name" : "245_2542019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368871032,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368682856,
+    "updated" : 1662368871032
+  }, {
+    "name" : "246_3662019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368923628,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368877860,
+    "updated" : 1662368923628
+  }, {
+    "name" : "247_3462019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662368968770,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368927490,
+    "updated" : 1662368968770
+  }, {
+    "name" : "248_4822019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369000595,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662368971649,
+    "updated" : 1662369000595
+  }, {
+    "name" : "249_4142019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369058308,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369003055,
+    "updated" : 1662369058309
+  }, {
+    "name" : "24_4402021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369120541,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369061916,
+    "updated" : 1662369120541
+  }, {
+    "name" : "250_5292019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369169793,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369124900,
+    "updated" : 1662369169793
+  }, {
+    "name" : "251_2612019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369236017,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369181102,
+    "updated" : 1662369236017
+  }, {
+    "name" : "252_3112019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369262388,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369237416,
+    "updated" : 1662369262388
+  }, {
+    "name" : "253_2982019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369314779,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369273360,
+    "updated" : 1662369314779
+  }, {
+    "name" : "254_4402019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369360180,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369328702,
+    "updated" : 1662369360180
+  }, {
+    "name" : "255_4162019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369389793,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369365252,
+    "updated" : 1662369389794
+  }, {
+    "name" : "256_2202019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369437404,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369392616,
+    "updated" : 1662369437404
+  }, {
+    "name" : "257_3542019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369516480,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369442748,
+    "updated" : 1662369516480
+  }, {
+    "name" : "258_4612019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369570710,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369525050,
+    "updated" : 1662369570710
+  }, {
+    "name" : "259_3062019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369629170,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369572497,
+    "updated" : 1662369629171
+  }, {
+    "name" : "25_3742021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369719809,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369637176,
+    "updated" : 1662369719809
+  }, {
+    "name" : "260_3822019007.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369794392,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369730620,
+    "updated" : 1662369794392
+  }, {
+    "name" : "261_3412019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369841320,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369804541,
+    "updated" : 1662369841320
+  }, {
+    "name" : "262_4982019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369922736,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369864037,
+    "updated" : 1662369922736
+  }, {
+    "name" : "263_3332019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662369969174,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369924807,
+    "updated" : 1662369969174
+  }, {
+    "name" : "264_4402019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370000660,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662369970067,
+    "updated" : 1662370000660
+  }, {
+    "name" : "265_2692019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370055923,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370002216,
+    "updated" : 1662370055924
+  }, {
+    "name" : "266_3532019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370139949,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370058625,
+    "updated" : 1662370139949
+  }, {
+    "name" : "267_2802019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370174479,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370151651,
+    "updated" : 1662370174479
+  }, {
+    "name" : "268_2802019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370205558,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370177714,
+    "updated" : 1662370205558
+  }, {
+    "name" : "269_3162019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370240084,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370208660,
+    "updated" : 1662370240085
+  }, {
+    "name" : "26_4142021003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370290059,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370242528,
+    "updated" : 1662370290059
+  }, {
+    "name" : "270_4252019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370322990,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370293793,
+    "updated" : 1662370322990
+  }, {
+    "name" : "271_4832019005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370370776,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370326806,
+    "updated" : 1662370370776
+  }, {
+    "name" : "272_4002019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370402469,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370375236,
+    "updated" : 1662370402469
+  }, {
+    "name" : "273_2592019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370436741,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370411497,
+    "updated" : 1662370436741
+  }, {
+    "name" : "274_4142019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370461520,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370442555,
+    "updated" : 1662370461520
+  }, {
+    "name" : "275_3882019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370503403,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370470387,
+    "updated" : 1662370503403
+  }, {
+    "name" : "276_3822019006.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370551141,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370504169,
+    "updated" : 1662370551141
+  }, {
+    "name" : "277_3462019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662370584013,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370553897,
+    "updated" : 1662370584013
+  }, {
+    "name" : "278_3912019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371287628,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662370588663,
+    "updated" : 1662371287628
+  }, {
+    "name" : "279_3282019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371344318,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371294092,
+    "updated" : 1662371344318
+  }, {
+    "name" : "27_3272021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371589221,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371356288,
+    "updated" : 1662371589221
+  }, {
+    "name" : "280_3242019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371781570,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371753043,
+    "updated" : 1662371781570
+  }, {
+    "name" : "281_3902019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371960153,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371786314,
+    "updated" : 1662371960153
+  }, {
+    "name" : "282_3902019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662371980955,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371974386,
+    "updated" : 1662371980956
+  }, {
+    "name" : "283_2632019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372053335,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662371983913,
+    "updated" : 1662372053335
+  }, {
+    "name" : "284_3532019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372094353,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372066112,
+    "updated" : 1662372094353
+  }, {
+    "name" : "285_4582019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372233341,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372114722,
+    "updated" : 1662372233341
+  }, {
+    "name" : "286_2602019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372280704,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372236476,
+    "updated" : 1662372280704
+  }, {
+    "name" : "287_3152019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372312073,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372284731,
+    "updated" : 1662372312073
+  }, {
+    "name" : "288_3272019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372347927,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372324834,
+    "updated" : 1662372347927
+  }, {
+    "name" : "289_3412019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372372114,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372353920,
+    "updated" : 1662372372115
+  }, {
+    "name" : "28_5292021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372428667,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372374599,
+    "updated" : 1662372428668
+  }, {
+    "name" : "290_3682019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372466560,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372435874,
+    "updated" : 1662372466560
+  }, {
+    "name" : "291_4402019002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372507814,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372471358,
+    "updated" : 1662372507814
+  }, {
+    "name" : "292_4822019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372555848,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372510500,
+    "updated" : 1662372555849
+  }, {
+    "name" : "293_3872019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372593827,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372561348,
+    "updated" : 1662372593827
+  }, {
+    "name" : "294_3872019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372648295,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372598752,
+    "updated" : 1662372648295
+  }, {
+    "name" : "295_3912019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372699406,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372654154,
+    "updated" : 1662372699406
+  }, {
+    "name" : "296_4612019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372841260,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372716173,
+    "updated" : 1662372841260
+  }, {
+    "name" : "297_2502019001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662372957427,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372846252,
+    "updated" : 1662372957427
+  }, {
+    "name" : "298_2932019004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373018979,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662372961102,
+    "updated" : 1662373018979
+  }, {
+    "name" : "299_3822019005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373066259,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373032070,
+    "updated" : 1662373066259
+  }, {
+    "name" : "29_2772021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373138239,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373095397,
+    "updated" : 1662373138240
+  }, {
+    "name" : "2_2702021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373251892,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373161115,
+    "updated" : 1662373251892
+  }, {
+    "name" : "300_4832019003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373318876,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373256447,
+    "updated" : 1662373318876
+  }, {
+    "name" : "30_4822021003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373366911,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373322281,
+    "updated" : 1662373366912
+  }, {
+    "name" : "31_3342021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373423925,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373377350,
+    "updated" : 1662373423925
+  }, {
+    "name" : "32_3382021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373509139,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373431999,
+    "updated" : 1662373509139
+  }, {
+    "name" : "33_3412021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373594185,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373515461,
+    "updated" : 1662373594185
+  }, {
+    "name" : "35_2772021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373668043,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373596890,
+    "updated" : 1662373668043
+  }, {
+    "name" : "36_3872021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373724606,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373672093,
+    "updated" : 1662373724606
+  }, {
+    "name" : "37_3872021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373755293,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373733529,
+    "updated" : 1662373755294
+  }, {
+    "name" : "38_4002021004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373789573,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373760496,
+    "updated" : 1662373789574
+  }, {
+    "name" : "39_4562021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373827583,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373794844,
+    "updated" : 1662373827583
+  }, {
+    "name" : "3_3212021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373891485,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373839256,
+    "updated" : 1662373891485
+  }, {
+    "name" : "40_2602021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373955615,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373898344,
+    "updated" : 1662373955615
+  }, {
+    "name" : "41_3482021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662373978286,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373961317,
+    "updated" : 1662373978286
+  }, {
+    "name" : "42_4142021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374048513,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662373982043,
+    "updated" : 1662374048513
+  }, {
+    "name" : "43_2502021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374133143,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374054625,
+    "updated" : 1662374133143
+  }, {
+    "name" : "44_2502021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374158628,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374139278,
+    "updated" : 1662374158628
+  }, {
+    "name" : "45_3162021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374221395,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374160161,
+    "updated" : 1662374221395
+  }, {
+    "name" : "46_4582021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374243811,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374224617,
+    "updated" : 1662374243811
+  }, {
+    "name" : "47_2692021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374335577,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374246912,
+    "updated" : 1662374335577
+  }, {
+    "name" : "48_2692021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374363084,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374340941,
+    "updated" : 1662374363084
+  }, {
+    "name" : "49_2692021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374390150,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374364139,
+    "updated" : 1662374390150
+  }, {
+    "name" : "4_3212021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374458429,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374393274,
+    "updated" : 1662374458429
+  }, {
+    "name" : "50_4432021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374490234,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374460964,
+    "updated" : 1662374490234
+  }, {
+    "name" : "51_4582021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374538145,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374496398,
+    "updated" : 1662374538145
+  }, {
+    "name" : "52_3182021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374575468,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374538957,
+    "updated" : 1662374575468
+  }, {
+    "name" : "53_2982021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374612378,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374586418,
+    "updated" : 1662374612379
+  }, {
+    "name" : "54_2542021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374631857,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374613171,
+    "updated" : 1662374631857
+  }, {
+    "name" : "55_3912021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374649489,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374640283,
+    "updated" : 1662374649489
+  }, {
+    "name" : "56_3132021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374676543,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374658808,
+    "updated" : 1662374676543
+  }, {
+    "name" : "57_3872021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374705292,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374683896,
+    "updated" : 1662374705292
+  }, {
+    "name" : "58_3182021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374768526,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374709887,
+    "updated" : 1662374768526
+  }, {
+    "name" : "59_2502021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374797955,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374778629,
+    "updated" : 1662374797955
+  }, {
+    "name" : "5_2662021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374841680,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374804160,
+    "updated" : 1662374841680
+  }, {
+    "name" : "60_3902021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374869554,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374847078,
+    "updated" : 1662374869554
+  }, {
+    "name" : "61_3902021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374893854,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374872204,
+    "updated" : 1662374893854
+  }, {
+    "name" : "62_3152021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374929365,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374894633,
+    "updated" : 1662374929365
+  }, {
+    "name" : "63_3152021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374953800,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374941303,
+    "updated" : 1662374953800
+  }, {
+    "name" : "64_5292021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662374968220,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374950979,
+    "updated" : 1662374968220
+  }, {
+    "name" : "65_4162021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662375009657,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662374977006,
+    "updated" : 1662375009657
+  }, {
+    "name" : "66_4002021003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662375028242,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662375011624,
+    "updated" : 1662375028242
+  }, {
+    "name" : "67_4982021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662375085090,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662375034992,
+    "updated" : 1662375085090
+  }, {
+    "name" : "68_3462021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662375117779,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662375100567,
+    "updated" : 1662375117779
+  }, {
+    "name" : "69_2982021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376609770,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662375118688,
+    "updated" : 1662376609770
+  }, {
+    "name" : "6_3972021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376662523,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376611232,
+    "updated" : 1662376662523
+  }, {
+    "name" : "70_4832021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376711539,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376666227,
+    "updated" : 1662376711539
+  }, {
+    "name" : "71_2822021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376769301,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376712354,
+    "updated" : 1662376769301
+  }, {
+    "name" : "72_2822021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376816283,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376772137,
+    "updated" : 1662376816284
+  }, {
+    "name" : "73_3892021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376842167,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376818343,
+    "updated" : 1662376842167
+  }, {
+    "name" : "74_4122021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376898932,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376851203,
+    "updated" : 1662376898932
+  }, {
+    "name" : "75_4822021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662376923426,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376905300,
+    "updated" : 1662376923426
+  }, {
+    "name" : "76_3822021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377031085,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662376933359,
+    "updated" : 1662377031085
+  }, {
+    "name" : "77_3742021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377076772,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377010716,
+    "updated" : 1662377076772
+  }, {
+    "name" : "78_4002021002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377165385,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377084169,
+    "updated" : 1662377165385
+  }, {
+    "name" : "79_4002021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377177668,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377165891,
+    "updated" : 1662377177668
+  }, {
+    "name" : "7_3232021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377214667,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377183477,
+    "updated" : 1662377214667
+  }, {
+    "name" : "80_3682020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377285924,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377218804,
+    "updated" : 1662377285924
+  }, {
+    "name" : "81_3212020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377305794,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377293846,
+    "updated" : 1662377305794
+  }, {
+    "name" : "82_4612020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377353577,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377310620,
+    "updated" : 1662377353577
+  }, {
+    "name" : "83_3522020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377386779,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377358251,
+    "updated" : 1662377386780
+  }, {
+    "name" : "84_3912020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377451993,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377387838,
+    "updated" : 1662377451994
+  }, {
+    "name" : "85_3152020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377487621,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377455227,
+    "updated" : 1662377487621
+  }, {
+    "name" : "86_3162020004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377532562,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377491478,
+    "updated" : 1662377532562
+  }, {
+    "name" : "87_3642020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377555524,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377534172,
+    "updated" : 1662377555524
+  }, {
+    "name" : "88_2662020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377623515,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377556393,
+    "updated" : 1662377623515
+  }, {
+    "name" : "89_4562020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377680969,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377627072,
+    "updated" : 1662377680969
+  }, {
+    "name" : "8_3362021001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377744426,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377683196,
+    "updated" : 1662377744426
+  }, {
+    "name" : "90_4232020005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377797644,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377749414,
+    "updated" : 1662377797644
+  }, {
+    "name" : "91_4242020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377850070,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377803376,
+    "updated" : 1662377850070
+  }, {
+    "name" : "92_4832020006.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662377895934,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377860628,
+    "updated" : 1662377895934
+  }, {
+    "name" : "93_4832020005.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378050790,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662377897129,
+    "updated" : 1662378050791
+  }, {
+    "name" : "94_3342020001.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378118090,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378058339,
+    "updated" : 1662378118090
+  }, {
+    "name" : "95_2542020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378173800,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378122820,
+    "updated" : 1662378173800
+  }, {
+    "name" : "96_2542020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378201361,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378177813,
+    "updated" : 1662378201361
+  }, {
+    "name" : "97_2552020002.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378237993,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378203799,
+    "updated" : 1662378237993
+  }, {
+    "name" : "98_4832020004.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378272397,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378241360,
+    "updated" : 1662378272397
+  }, {
+    "name" : "99_4132020003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378310602,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378275906,
+    "updated" : 1662378310602
+  }, {
+    "name" : "9_3462021003.txt",
+    "user" : "chaut",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1662378331507,
+    "annotatorState" : "IN_PROGRESS",
+    "sentence_accessed" : 0,
+    "created" : 1662378311232,
+    "updated" : 1662378331507
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "chaut"
+  }, {
+    "level" : "CURATOR",
+    "user" : "chaut"
+  }, {
+    "level" : "USER",
+    "user" : "chaut"
+  }, {
+    "level" : "USER",
+    "user" : "rossella"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Coreference mentions",
+    "description" : "coreference type annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "nam",
+      "tag_description" : "nam"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Coreference relations",
+    "description" : "coreference relation annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "anaphoric",
+      "tag_description" : "anaphoric"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Dependency flavors",
+    "description" : "Dependency flavors",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "basic",
+      "tag_description" : "basic"
+    }, {
+      "tag_name" : "enhanced",
+      "tag_description" : "enhanced"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Named Entity for LER",
+    "description" : "For testing and demo, this labels contain only three primary labels which are the PLACE, DATE, INSTANCE.",
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "TEST_PLACE",
+      "tag_description" : "Place that the incident happened."
+    }, {
+      "tag_name" : "TEST_DATE",
+      "tag_description" : "The date that the incident happened."
+    }, {
+      "tag_name" : "TEST_INSTANCE",
+      "tag_description" : "The machine/block (instance) that the incident happened."
+    }, {
+      "tag_name" : "cause",
+      "tag_description" : "a cause of the event, or initial event"
+    }, {
+      "tag_name" : "corrective",
+      "tag_description" : null
+    }, {
+      "tag_name" : "eventEnd",
+      "tag_description" : "when theevent was solved"
+    }, {
+      "tag_name" : "eventStart",
+      "tag_description" : "the date when the event start"
+    }, {
+      "tag_name" : "facility",
+      "tag_description" : "the facility where the event happened"
+    }, {
+      "tag_name" : "LOC",
+      "tag_description" : null
+    }, {
+      "tag_name" : "status",
+      "tag_description" : "indication of a status of a system or component"
+    }, {
+      "tag_name" : "symptom",
+      "tag_description" : null
+    }, {
+      "tag_name" : "system",
+      "tag_description" : "the main system/ component involved"
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Named Entity tags",
+    "description" : "Named Entity annotation",
+    "language" : "de",
+    "tags" : [ {
+      "tag_name" : "LOC",
+      "tag_description" : "Location"
+    }, {
+      "tag_name" : "LOCderiv",
+      "tag_description" : "Location derivative"
+    }, {
+      "tag_name" : "LOCpart",
+      "tag_description" : "Hyphenated part is location"
+    }, {
+      "tag_name" : "ORG",
+      "tag_description" : "Organization"
+    }, {
+      "tag_name" : "ORGderiv",
+      "tag_description" : "Organization derivative"
+    }, {
+      "tag_name" : "ORGpart",
+      "tag_description" : "Hyphenated part is organization"
+    }, {
+      "tag_name" : "OTH",
+      "tag_description" : "Other: Every name that is not a location, person or organisation"
+    }, {
+      "tag_name" : "OTHderiv",
+      "tag_description" : "Other derivative"
+    }, {
+      "tag_name" : "OTHpart",
+      "tag_description" : "Hyphenated part is Other"
+    }, {
+      "tag_name" : "PER",
+      "tag_description" : "Person"
+    }, {
+      "tag_name" : "PERderiv",
+      "tag_description" : "Person derivative"
+    }, {
+      "tag_name" : "PERpart",
+      "tag_description" : "Hyphenated part is person"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Operation",
+    "description" : "operation to be done with specified in tokenIDs token/tokens in order to correct",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "delete",
+      "tag_description" : "delete"
+    }, {
+      "tag_name" : "insert_after",
+      "tag_description" : "insert after"
+    }, {
+      "tag_name" : "insert_before",
+      "tag_description" : "insert before"
+    }, {
+      "tag_name" : "replace",
+      "tag_description" : "replace"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal Dependencies (v2)",
+    "description" : "The idea of universal dependencies is to propose a set of universal grammatical relations which can be used with relative fidelity to capture any dependency relation between words in any language. Each dependency relation should be typed with one of the relations in the table below.\r\n\r\nThe following table lists the 37 universal syntactic relations used in UD v2. It is a revised version of the relations originally described in Universal Stanford Dependencies: A cross-linguistic typology (de Marneffe et al. 2014).\r\n\r\n© 2014-2017 Universal Dependencies contributors.\r\n\r\nSee also: https://universaldependencies.org/u/dep/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "acl",
+      "tag_description" : "clausal modifier of noun (adjectival clause)"
+    }, {
+      "tag_name" : "advcl",
+      "tag_description" : "adverbial clause modifier"
+    }, {
+      "tag_name" : "advmod",
+      "tag_description" : "adverbial modifier"
+    }, {
+      "tag_name" : "amod",
+      "tag_description" : "adjectival modifier"
+    }, {
+      "tag_name" : "appos",
+      "tag_description" : "appositional modifier"
+    }, {
+      "tag_name" : "aux",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "case",
+      "tag_description" : "case marking"
+    }, {
+      "tag_name" : "cc",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "ccomp",
+      "tag_description" : "clausal complement"
+    }, {
+      "tag_name" : "clf",
+      "tag_description" : "classifier"
+    }, {
+      "tag_name" : "compound",
+      "tag_description" : "compound"
+    }, {
+      "tag_name" : "conj",
+      "tag_description" : "conjunct"
+    }, {
+      "tag_name" : "cop",
+      "tag_description" : "copula"
+    }, {
+      "tag_name" : "csubj",
+      "tag_description" : "clausal subject"
+    }, {
+      "tag_name" : "dep",
+      "tag_description" : "unspecified dependency"
+    }, {
+      "tag_name" : "det",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "discourse",
+      "tag_description" : "discourse element"
+    }, {
+      "tag_name" : "dislocated",
+      "tag_description" : "dislocated elements"
+    }, {
+      "tag_name" : "expl",
+      "tag_description" : "expletive"
+    }, {
+      "tag_name" : "fixed",
+      "tag_description" : "fixed multiword expression"
+    }, {
+      "tag_name" : "flat",
+      "tag_description" : "flat multiword expression"
+    }, {
+      "tag_name" : "goeswith",
+      "tag_description" : "goes with"
+    }, {
+      "tag_name" : "iobj",
+      "tag_description" : "indirect object"
+    }, {
+      "tag_name" : "list",
+      "tag_description" : "list"
+    }, {
+      "tag_name" : "mark",
+      "tag_description" : "marker"
+    }, {
+      "tag_name" : "nmod",
+      "tag_description" : "nominal modifier"
+    }, {
+      "tag_name" : "nsubj",
+      "tag_description" : "nominal subject"
+    }, {
+      "tag_name" : "nummod",
+      "tag_description" : "numeric modifier"
+    }, {
+      "tag_name" : "obj",
+      "tag_description" : "object"
+    }, {
+      "tag_name" : "obl",
+      "tag_description" : "oblique nominal"
+    }, {
+      "tag_name" : "orphan",
+      "tag_description" : "orphan"
+    }, {
+      "tag_name" : "parataxis",
+      "tag_description" : "parataxis"
+    }, {
+      "tag_name" : "punct",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "reparandum",
+      "tag_description" : "overridden disfluency"
+    }, {
+      "tag_name" : "root",
+      "tag_description" : "root"
+    }, {
+      "tag_name" : "vocative",
+      "tag_description" : "vocative"
+    }, {
+      "tag_name" : "xcomp",
+      "tag_description" : "open clausal complement"
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "UD Universal POS tags (v2)",
+    "description" : "These tags mark the core part-of-speech categories from the Universal Dependencies project. To distinguish additional lexical and grammatical properties of words, use the universal features.\r\n\r\n© 2017 Universal Dependencies contributors\r\n\r\nSee: https://universaldependencies.org/u/pos/index.html",
+    "language" : "mul",
+    "tags" : [ {
+      "tag_name" : "ADJ",
+      "tag_description" : "adjective"
+    }, {
+      "tag_name" : "ADP",
+      "tag_description" : "adposition"
+    }, {
+      "tag_name" : "ADV",
+      "tag_description" : "adverb"
+    }, {
+      "tag_name" : "AUX",
+      "tag_description" : "auxiliary"
+    }, {
+      "tag_name" : "CCONJ",
+      "tag_description" : "coordinating conjunction"
+    }, {
+      "tag_name" : "DET",
+      "tag_description" : "determiner"
+    }, {
+      "tag_name" : "INTJ",
+      "tag_description" : "interjection"
+    }, {
+      "tag_name" : "NOUN",
+      "tag_description" : "noun"
+    }, {
+      "tag_name" : "NUM",
+      "tag_description" : "numeral"
+    }, {
+      "tag_name" : "PART",
+      "tag_description" : "particle"
+    }, {
+      "tag_name" : "PRON",
+      "tag_description" : "pronoun"
+    }, {
+      "tag_name" : "PROPN",
+      "tag_description" : "proper noun"
+    }, {
+      "tag_name" : "PUNCT",
+      "tag_description" : "punctuation"
+    }, {
+      "tag_name" : "SCONJ",
+      "tag_description" : "subordinating conjunction"
+    }, {
+      "tag_name" : "SYM",
+      "tag_description" : "symbol"
+    }, {
+      "tag_name" : "VERB",
+      "tag_description" : "verb"
+    }, {
+      "tag_name" : "X",
+      "tag_description" : "other"
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",
+    "features" : [ {
+      "name" : "chunkValue",
+      "tag_set" : null,
+      "uiName" : "Tag",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Chunk tag",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Chunk",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference",
+    "features" : [ {
+      "name" : "referenceRelation",
+      "tag_set" : {
+        "name" : "Coreference relations",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceRelation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference relation",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "referenceType",
+      "tag_set" : {
+        "name" : "Coreference mentions",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "referenceType",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Coreference type",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Coreference",
+    "type" : "chain",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",
+    "features" : [ {
+      "name" : "flavor",
+      "tag_set" : {
+        "name" : "Dependency flavors",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Flavor",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "DependencyType",
+      "tag_set" : {
+        "name" : "UD Universal Dependencies (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Relation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Dependency relation",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Dependency",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Lemma",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "lemma Annotation",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Lemma",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "lemma",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Features",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Morphological features",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Morphological features",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "morph",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "features" : [ {
+      "name" : "identifier",
+      "tag_set" : null,
+      "uiName" : "identifier",
+      "type" : "kb:<ANY>",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Linked entity",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "value",
+      "tag_set" : {
+        "name" : "Named Entity for LER",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "value",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Named entity type",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true
+    } ],
+    "uiName" : "Named entity",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Correction",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Correct this token using the specified operation.",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "operation",
+      "tag_set" : {
+        "name" : "Operation",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Operation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "An operation taken to change this token.",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Orthography Correction",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+    "features" : [ {
+      "name" : "coarseValue",
+      "tag_set" : {
+        "name" : "UD Universal POS tags (v2)",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "UPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Universal part-of-speech tag",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "PosValue",
+      "tag_set" : null,
+      "uiName" : "XPOS",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Language-specific part-of-speech tag",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Part of speech",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "attach_feature" : {
+      "name" : "pos",
+      "layer" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token"
+    },
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "SINGLE_TOKEN",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : true,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+    "features" : [ ],
+    "uiName" : "SemArg",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemPred",
+    "features" : [ {
+      "name" : "arguments",
+      "tag_set" : null,
+      "uiName" : "arguments",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArg",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Arguments of the semantic predicate",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "WITH_ROLE",
+      "link_type_name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemArgLink",
+      "link_type_role_feature_name" : "role",
+      "link_type_target_feature_name" : "target",
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "category",
+      "tag_set" : null,
+      "uiName" : "category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Category of the semantic predicate, e.g. the frame identifier.",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "SemPred",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",
+    "features" : [ {
+      "name" : "value",
+      "tag_set" : null,
+      "uiName" : "Form",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Original surface text",
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Surface form",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ {
+      "name" : "lemma",
+      "tag_set" : null,
+      "uiName" : "lemma",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "morph",
+      "tag_set" : null,
+      "uiName" : "morph",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    }, {
+      "name" : "pos",
+      "tag_set" : null,
+      "uiName" : "pos",
+      "type" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "project_name" : "SuccessLERSecond Test",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true
+    } ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "SuccessLERSecond Test",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1660552103398,
+  "updated" : 1662028805239,
+  "anonymous_curation" : false,
+  "default-preferences" : [ {
+    "name" : "annotation/editor",
+    "traits" : "{\"defaultEditor\":null}"
+  }, {
+    "name" : "annotation/editor/brat/manager",
+    "traits" : "{\"changingScriptDirectionAllowed\":false,\"defaultPageSize\":100}"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"searchAnnotationSidebarFactory\",\"expanded\":true}"
+  } ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 2,
+    "project" : {
+      "id" : 3,
+      "name" : "SuccessLERSecond Test",
+      "slug" : "successler",
+      "description" : "This project is relate to S-40337-04-002 PoC NLP Document AI. The object is a set ov event downloaded from the LER database\r\n\r\nTesting by Chau",
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1660552103398,
+      "updated" : 1662028805239,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "maxRecommendations" : 3,
+    "name" : "[Named entity@value] Multi-Token Sequence Classifier (OpenNLP NER)",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.ner.OpenNlpNerClassificationTool",
+    "traits" : null
+  }, {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "value",
+    "layerName" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",
+    "maxRecommendations" : 3,
+    "name" : "[Named entity@value] String Matcher",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.6,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : "{\"ignoreCase\":false}"
+  } ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  }
+}

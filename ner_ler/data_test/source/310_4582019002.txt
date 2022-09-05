@@ -1,0 +1,5 @@
+Plant: River Bend.
+Reactor Coolant Pressure Boundary Leakage due to Contaminates Deposited on External Pipe Surface After Legacy Adhesive Spill.
+ Through-wall leakage in the Safety Related Standby Liquid Control (SLC) system piping segment was identified and confirmed by Non-Destructive Evaluation personnel during a system leakage examination. The identified leakage from this section of piping was at a rate of 1 drop every 1 to 2 minutes. The leak was discovered while conducting pressure test activities. At the time of discovery, the station was conducting refueling activities in Mode 5.
+
+ The section of piping affected was cut out and replaced in accordance with ASME Section XI IWA-4000. The required elements for examination/material as required in the ASME Code were followed during the replacement of the affected segment of piping. After the required examinations, the pipe was returned to service. The leak was caused by Transgranular Stress Corrosion Cracking due to the presence of aggressive chemical species and crack morphology. A visual external surface inspection was performed which found no evidence of contaminants on any additional SLC system piping.

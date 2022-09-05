@@ -1,0 +1,9 @@
+Plant: Farley 1.
+Automatic Reactor Trip due to Turbine Generator Trip.
+ At 1450 CDT on April 22, 2021, with Farley Nuclear Plant (FNP) Unit 1 in Mode 1 at 48% power an automatic reactor trip occurred due to a main turbine trip. The main turbine / generator trip was due to data input error in the exciter switchgear software during exciter testing. The trip was not complex with all systems responding normally. Operations stabilized the plant in Mode 3. Due to low decay heat load, the Main Steam Isolation valves were closed to minimize cooldown and the Atmospheric Relief Valves were used to remove decay heat. This event was initially reported as event notification 55206. 
+
+ Corrective Actions included correcting the data entry in the exciter switchgear control software and performing causal analysis on the human performance aspect of this event. 
+
+ This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to the automatic actuation of a system listed in 10CFR50.73(a)(2)(iv)(B). 
+
+ FNP Unit 2 was not affected during this event.

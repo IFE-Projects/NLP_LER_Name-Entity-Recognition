@@ -1,0 +1,9 @@
+Plant: Catawba 1.
+Condition Prohibited by Technical Specifications - Cooling Water Flow Path to 1A Emergency Diesel Generator Not Properly Aligned.
+ On March 21, 2019, the 1A Emergency Diesel Generator (EDG) was started for monthly surveillance testing. After three minutes of operation, control room operators identified there was no Nuclear Service Water System (NSWS) flow to the 1A EDG Jacket Water Heat Exchanger. The 1A EDG was subsequently secured.
+
+ At the time of the NSWS no flow issue, the NSWS was in the Single Pond Header Discharge Operation alignment. In this alignment, the NSWS was supplying water to the 1A EDG Jacket Water Heat Exchanger from the normal supply valve, but the return path was in an alternate alignment. 
+
+ 1A EDG was declared inoperable on March 21, 2019, at 1500 following the determination by Operations that the flow path through the B Train Standby Nuclear Service Water Pond (SNSWP) discharge header would not pass flow, which prevented cooling flow to the 1A EDG Jacket Water Heat Exchanger. Subsequent investigation found 1RN-P09 (1A EDG Crossover Valve to B Train Discharge) in the failed closed position due to actuator separation and the valve could not be opened using the gear operator. Valve 1RN-P09 was repaired and returned to service at 0354 on March 22, 2019. 
+
+ There were no actual safety consequences and no effect on public health and safety as a result of this event.

@@ -1,0 +1,9 @@
+Plant: St. Lucie 2.
+Automatic Reactor Trip due to a Breaker Failure on the 2B2 480V Motor Control Center.
+ On January 20, 2021 at 1822 EST with Unit 2 in Mode 1 at 100% power, the reactor automatically tripped on Reactor Protection System Loss of Load Actuation concurrent with an unexpected deenergization of the 480V Motor Control Center 2B2. The trip was uncomplicated with all systems responding normally post trip. Operations stabilized the plant in Mode 3. Auxiliary feedwater automatically actuated on the 2A steam generator post trip. Decay heat removal transitioned from auxiliary feedwater to main feedwater through the 2B main feedwater pump to both steam generators and the steam bypass control system to the main condenser. 
+
+ A breaker failure caused two of the four undervoltage relays in the Diverse Turbine Trip system to deenergize to their failed condition creating an unexpected trip path for actuation. The cause of this event was a legacy drawing issue from 1983 that resulted in inadvertently mis-assigning power to two of the four undervoltage (UV) relays to the incorrect train of power when the system was later modified in 2019. 
+
+ The failed breaker has been removed from service, and field configuration of Diverse Turbine Trip relay power supplies was immediately corrected such that the loss of a single power supply will not result in turbine trip. 
+
+ Automatic reactor trips are analyzed events in the Updated Final Safety Analysis Report. The trip was uncomplicated. Therefore, this event had no impact on the health and safety of the public.

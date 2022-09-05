@@ -1,0 +1,7 @@
+Plant: Cook 2.
+Main Steam Safety Valve Setpoints Found Outside Technical Specifications Limits.
+ On April 15, 2021, Donald C. Cook Unit 2 was in Mode 1 and holding at approximately 49% reactor power while performing Technical Specification (TS) surveillance testing on the Main Steam Safety Valves (MSSVs) prior to the Unit 2 Cycle 26 (U2C26) Refueling Outage. 
+
+ The Unit 2 Steam Generator (SG) #3 MSSV 2-SV-1A-3 and 2-SV-2B-3 as-found lift setpoint test pressures were above the TS allowable setpoint pressure band of +/- 3 percent. SG #2 MSSV 2-SV-2B-2 as-found lift setpoint was below the allowable setpoint pressure. Setpoint drift was determined as the similar cause for the affected MSSVs. Following adjustments, the MSSVs met the as-left testing criteria of +/- 1 percent lift setpoint pressure.
+
+ The identified discrepancies would normally be considered to occur at the time of test. However, based on the guidance in NUREG-1022, Revision 3, for "Multiple Test Failures", the condition may have arisen over a period of time during the operating cycle. In accordance with NUREG-1022 guidance, MSSVs are considered to have been inoperable during plant operation, for a period longer than allowed by TS. Therefore, this event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B), Operation or Condition Prohibited by Technical Specifications.

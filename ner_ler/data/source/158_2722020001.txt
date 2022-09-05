@@ -1,0 +1,7 @@
+Plant: Salem 1.
+Salem Unit 1 Manual Reactor Trip and Auxiliary Feed Water System Actuation.
+ At 0056 on 3/25/2020, with Unit 1 at 17 percent power during a plant return from a scheduled refueling outage, the reactor was manually tripped due to a failure of the 11 Rod Control Motor Generator due to a malfunction of its associated Voltage Regulator. All systems responded normally post-trip. An actuation of the Auxiliary Feedwater system occurred following the manual reactor trip as expected due to low level in the steam generators. The unit was stabilized in Mode 3. 
+
+ The failed equipment was repaired. 
+
+ This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).

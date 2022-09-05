@@ -1,0 +1,7 @@
+Plant: Beaver Valley 1.
+Intake Structure Interconnecting Flood Door Found Open Resulting in a Loss of Train Separation for the Reactor Plant River Water System.
+ On September 16, 2020, with the Beaver Valley Power Station operating at 100% power, the interconnecting flood door separating the two redundant trains of River Water was found to be open. The control room was notified and the interconnecting flood door was closed. A past operability review determined that with this door open, both trains of River Water were inoperable due to a loss of train separation from a postulated internal flood in one of the cubicles. The amount of time that the interconnecting flood door was left open prior to discovery could not be determined but was bounded to 218 days. 
+
+ The apparent cause is an organizational latent acceptance of weak configuration controls applied to a risk significant flooding boundary door. A contributing cause was limited sensitivity to the abnormal condition of this door. Corrective Actions include installing a locking mechanism on the interconnecting flood doors and updating procedures and placards to clarify the importance of the position of the interconnecting flood doors 
+
+ This is being reported under 10 CFR 50.73(a)(2)(i)(B); 10 CFR 50.73(a)(2)(v)(A) and 10 CFR 50.73(a)(2)(v)(B), and 10 CFR 50.73(a)(2)(vii) parts (A) and (B).

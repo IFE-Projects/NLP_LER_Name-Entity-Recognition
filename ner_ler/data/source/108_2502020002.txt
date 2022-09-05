@@ -1,0 +1,5 @@
+Plant: Turkey Point 3.
+Manual Reactor Trip in Response to High Steam Generator Level Following Inadvertent Opening of Feedwater Heater Bypass Valve - Rev. 1.
+ On 8/17/2020 at 2109 hours with Unit 3 at 100% power, the Low Pressure Feedwater Heater Bypass Control Valve inadvertently opened, causing an automatic turbine runback. Due to a deficiency associated with the design of the turbine runback program, levels in the Steam Generators increased in response to the runback. At approximately 86% reactor power, when 3C Steam Generator level increased to 78%, the reactor was manually tripped as directed by procedure. Following the reactor trip the Auxiliary Feedwater System automatically initiated, as expected, to maintain levels in the Steam Generators while Main Feedwater remained in service. Unit 3 was maintained stable in Mode 3 following the event. 
+
+ This event is reportable pursuant to 10 CFR 50.73 (a)(2)(iv)(A) for the manual reactor trip and automatic initiation of the Auxiliary Feedwater System, which is listed as a reportable safety system by 10 CFR 50.73 (a)(2)(iv)(B)(6).

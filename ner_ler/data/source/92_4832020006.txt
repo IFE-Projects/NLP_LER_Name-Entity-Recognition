@@ -1,0 +1,9 @@
+Plant: Callaway.
+Reactor Trip due to Main Generator Ground Fault.
+ On September 27, 2020 at 0203 with the reactor at 98% power during the cycle 24 coastdown, a main generator fault occurred that lead to a turbine trip and reactor trip. Safety systems functioned as required, including actuation of the auxiliary feedwater system, and the Operations staff responded to the event in accordance with applicable plant procedures. The post trip investigation indicated that a fault in the 25-kV portion of the generator output actuated the main generator protection system, which in turn caused the turbine trip (with reactor power above the P-9 setpoint) and an automatic reactor trip. 
+
+ An ENS notification (ENS 54916) was made for this event. 
+
+ The cause of the generator fault was due to a detached section of a flexible link in the B phase of the isophase bus ductwork. 
+
+ All flexible links were inspected during refueling outage 24 and repairs completed.

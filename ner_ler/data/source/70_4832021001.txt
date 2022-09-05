@@ -1,0 +1,9 @@
+Plant: Callaway.
+Manual Actuation of Essential Service Water System.
+ On February 9, 2021, at 0838 operators commenced placing both trains of Essential Service Water (ESW) in manual alignments in accordance with annunciator response procedure OTA-RK-00014, Addendum 12A, "Service Water Pump Lockout." The manual actuation of ESW was in response to a condition where two non-safety Service Water (SW) pumps tripped and locked out due to low lubrication (lube) water pressure. 
+
+ The cause of the trips and subsequent lockouts of the 'A' and 'B' SW pumps was attributed to low lube water pressure caused by fouling of the lube water Y-strainers. The fouling occurred since the normal weekly backflush of the Y-strainers could not be performed while a temporary alteration in support of maintenance (TASM) was installed in order to repair a leak in the permanent lube water piping. Preventive Maintenance (PM) tasks had not been initiated prior to the event to periodically clean the Y-strainers in order to compensate for the inability to backflush. 
+
+ The initial corrective action taken in response to the event was cleaning of the Y-strainers in the lube water piping. In addition, PM tasks were created to clean the Y-strainers on a weekly basis for the remaining time that the TASM was installed. The permanent corrective action was to complete a modification to replace the section of the common lube water piping where the leak occurred. 
+
+ Both trains of ESW were returned to standby alignments on February 9, 2021 at 1140.

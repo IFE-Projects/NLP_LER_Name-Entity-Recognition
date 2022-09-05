@@ -1,0 +1,7 @@
+Plant: Harris.
+'B' Train Chiller for the Essential Services Chilled Water System Tripped on High Compressor Oil Temperature.
+ On July 14, 2019, the Shearon Harris Nuclear Power Plant, Unit 1, declared the 'B' train of the Essential Services Chilled Water (ESCW) system inoperable after the water chiller (WC-2B) tripped on high compressor oil temperature. The ESCW system was last ran successfully on July 13, 2019, and was restored on July 16, 2019. This time frame exceeded the technical specification (TS) allowed out-of-service time. The 'A' train of the ESCW system was operable during this time period. The event represents a condition prohibited by TS per 10 CFR 50.73(a)(2)(i)(B). 
+
+ Several factors caused WC-2B to trip on high oil temperature. Fouling of WC-2B raw water condenser, along with a reduction in refrigerant volume, led to reduced heat transfer from refrigerant to service water in the condenser. The result was an overall increase in compressor bearing loading that exacerbated the effects of the oil level, which was low though in-band. Oil and refrigerant were added and a refrigerant leak was addressed, restoring the system to operable. 
+
+ The condenser was physically cleaned, recovering additional chiller operational margin. Actions are being taken to address service water fouling.

@@ -1,0 +1,5 @@
+Plant: North Anna 1.
+Manual Reactor Trip on Degrading Condenser Vacuum due to Piping Failure.
+ On May 6, 2021 at 1223 hours, Unit 1 was manually tripped from 60% power due to degrading main condenser vacuum. Unit 1 was in the process of decreasing power due to increased secondary sodium levels identified earlier in the day. At 1400 hours on May 6, 2021, a 4-hour and 8-hour non-emergency report was made per 10 CFR 50.72(b)(2)(iv)(B) for RPS Actuation (scram) and 10 CFR 50.72(b)(3)(iv)(A) for a valid actuation of an ESF system, respectively. 
+
+ The direct cause of the event was High Cycle Fatigue Piping Failure of the "A" High Pressure Heater Drain Receiver High Level Divert Line that caused damage to condenser tubes and degraded condenser vacuum. Unit 2 continued to operate at 100% power, Mode 1, during the event. The health and safety of the public were not affected by this event.

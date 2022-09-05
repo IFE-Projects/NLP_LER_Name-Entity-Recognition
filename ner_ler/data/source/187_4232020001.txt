@@ -1,0 +1,9 @@
+Plant: Millstone 3.
+Technical Specification Allowed Outage Time Exceeded by Accident Monitoring Instrument.
+ On 1/15/2020, with Millstone Power Station Unit 3 (MPS3) operating in Mode 1 at 100% power, while performing Technical Specification surveillance SP 3673.6-001, Accident Monitoring Instrumentation, Auxiliary Feedwater (AFW) flow indication to the 'B' Steam Generator on computer point 3FWA-F51B3 indicated 118 gpm while all other channels indicated approximately 12 gpm with no auxiliary feedwater pumps operating. A historical operability determination was performed, and it was determined by trending 3FWA-F51B3 that the elevated indicated flow began on 1/4/2020 at 2023 hours. The channel was therefore inoperable for longer than the time allowed by Technical Specifications. 
+
+ Evaluation of the condition indicates that the transmitter experienced a zero shift in it's calibration. The specific failure mechanism is unknown. At the time the computer point indicated an increased flow, Operations was performing a procedure used for venting the auxiliary feedwater containment header to the 'B' Steam Generator to seat a check valve. 
+
+ There were no adverse safety consequences because of this condition. Redundant and diverse indications were available on the main boards to verify that decay heat removal from the steam generator was maintained.
+
+ This condition is being reported pursuant to 10CFR 50.73 (a)(2)(i)(B) as an operation prohibited by plant technical specifications, as we could conclusively determine when the flow indication became inoperable. This time exceeded the allowed outage time of the applicable Technical Specification action statement.

@@ -1,0 +1,7 @@
+Plant: Quad Cities 2.
+Loss of Both Divisions of Residual Heat Removal Low Pressure Coolant Injection due to Swing Bus Failure to Transfer.
+ On March 20, 2020, at 1025 hours CDT at Quad Cities Nuclear Power Station (QCNPS) Unit 2, a Motor Control Center (MCC) failed to transfer between buses during the performance of the Auto-Transfer Logic Operability Surveillance. This resulted in declaring both loops of the Residual Heat Removal (RHR) Low-Pressure Coolant Injection (LPCI) safety system function inoperable, due to preventing LPCI Motor Operated Valves (MOVs) from opening from the LPCI Loop Select Logic. 
+
+ The apparent cause of the event was a manufacturing error in the LPCI swing bus time delay relay. The barrel spring, which aids in closing the normally closed contacts, was not properly positioned, allowing inconsistent contact closure. 
+
+ This is being reported in accordance with 10 CFR 50.73(a)(2)(v)(D), which requires the reporting of any event or condition that could have prevented the fulfillment of the safety function of systems needed to mitigate the consequences of an accident.

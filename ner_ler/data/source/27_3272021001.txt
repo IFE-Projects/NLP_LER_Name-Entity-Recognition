@@ -1,0 +1,9 @@
+Plant: Sequoyah 1.
+Reactor Trip on High Neutron Flux Rate due to Dropped Control Rods.
+ On May 24, 2021, at 0915 eastern daylight time (EDT), SQN Unit 1 experienced an automatic reactor trip. Approximately 0.5 seconds before the reactor trip, an unexpected Rod Control Urgent Failure alarm annunciated and Control Bank B, Group 2 rods began to lower. The reactor trip first out alarm indicated the trip was from a Power Range High Neutron Flux Rate detected by the Power Range Nuclear Instruments. 
+
+ During troubleshooting, it was discovered that there were bad pin connections on the backplane of the phase card associated with Control Bank B (the card connection between the Control Bank B, Group 2 stationary gripper phase control card and the backplane of its card cage). 
+
+ All plant safety systems responded as designed. All rods fully inserted as required. 
+
+ The direct cause of the failure has been attributed to the card connection between Control Bank B Group 2 stationary gripper phase control card and the backplane of the card cage. Periodic instruction procedure, PI-674 Periodic Calibration of the Full Length Rod Control Power, directs activities to remove phase control cards during calibration which can result in pin deformation. Therefore, the corrective action for this event is to revise the procedure to modify how calibration activities are performed based on learnings obtained from the equipment failure evaluation.

@@ -1,0 +1,9 @@
+Plant: Susquehanna 2.
+Main Steam Isolation Valve Leakage.
+ During the Susquehanna Unit 2 refueling outage, Local Leak Rate Testing (LLRT) conducted on March 27, 2019 determined combined as-found leakage through the inboard Main Steam Isolation Valve (MSIV) (HV241F022D) and the outboard MSIV (HV241F028D) in the "D" Main Steam Line was 55,425 standard cubic centimeters per minute (sccm). Subsequent testing, on March 28, 2019 at approximately 20:30, measured the leakage through HV241F028D as 47,791 sccm, which exceeded the Technical Specification (TS) Surveillance Requirement (SR) 3.6.1.3.12 limit of 100 standard cubic feet per hour (scfh) (47,194 sccm) for individual valve leakage. 
+
+ Based on cause and history, the condition likely existed during the last operating cycle for longer than allowed by TS 3.6.1.3. The condition is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications. 
+
+ The direct cause of the LLRT failure was valve seating surface wear/degradation over the 34 years in service. Repairs made to the valve resulted in an acceptable as-left LLRT. 
+
+ There were no actual safety consequences associated with the condition.

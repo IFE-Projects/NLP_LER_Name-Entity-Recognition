@@ -1,0 +1,7 @@
+Plant: Watts Bar 1.
+Loss of Control Room Emergency Air Temperature Control System due to Air Filter Failure.
+ On June 12, 2019 at 0849 Eastern Daylight Time (EDT) a significant air leak on an inline air filter was identified. At 0908 EDT the leak on the filter was bypassed. This air leak impacted operation of the Control Room Emergency Air Temperature Control System (CREATCS) A Train. Two CREATCS trains are required to be operable in accordance with Technical Specification 3.7.11. At the time of this event, CREATCS B Train was out of service for planned maintenance. 
+
+ The direct cause of this event is an air filter gasket leak. As corrective action, a different vendor approved gasket has been installed. 
+
+ This condition is being reported as an event or condition that could have prevented fulfillment of a safety function needed to mitigate the consequences of an accident in accordance with 10 CFR 50.73(a)(2)(v)(D).
