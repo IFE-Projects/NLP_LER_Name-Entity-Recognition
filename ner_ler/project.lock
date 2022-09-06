@@ -25,6 +25,6 @@ train:
       md5: 160ac50e12072cd5a8486952903224ae
   outs:
     - path: training/model-best
-      md5: 9726f9f47a1abe36faff57983f0ed026
-  spacy_version: 3.3.1
-  spacy_git_version: 5fb597f77
+      md5: 1f28c05572b3e6b823c126bc5d49101e
+  spacy_version: 3.4.1
+  spacy_git_version: Unknown
