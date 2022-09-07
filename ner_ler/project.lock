@@ -16,8 +16,8 @@ evaluate:
 train:
   cmd: python -m spacy run train
   script:
-    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/ler_training.spacy
-      --paths.dev corpus/ler_eval.spacy --gpu-id 0
+    - python -m spacy train configs/config_tok2vec.cfg --output training/ --paths.train
+      corpus/ler_training.spacy --paths.dev corpus/ler_eval.spacy --gpu-id 0
   deps:
     - path: corpus/ler_training.spacy
       md5: 160ac50e12072cd5a8486952903224ae
@@ -25,6 +25,19 @@ train:
       md5: 160ac50e12072cd5a8486952903224ae
   outs:
     - path: training/model-best
-      md5: 1f28c05572b3e6b823c126bc5d49101e
+      md5: 3d83b408d5adabd245400d4d523e84cb
+  spacy_version: 3.4.1
+  spacy_git_version: Unknown
+package:
+  cmd: python -m spacy run package
+  script:
+    - python -m spacy package training/model-best packages --name ner_ler_tok2vec
+      --version 0.0.0 --force
+  deps:
+    - path: training/model-best
+      md5: 3d83b408d5adabd245400d4d523e84cb
+  outs:
+    - path: packages/en_ner_ler_tok2vec-0.0.0/dist/en_ner_ler_tok2vec-0.0.0.tar.gz
+      md5: 56495682ac82d4cdc51770d54b1b3f90
   spacy_version: 3.4.1
   spacy_git_version: Unknown
