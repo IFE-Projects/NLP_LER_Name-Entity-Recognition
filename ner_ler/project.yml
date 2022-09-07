@@ -8,7 +8,7 @@ vars:
   train: "ler_training"
   dev: "ler_eval"
   patterns: "ler_patterns"
-  gpu: -1
+  gpu: 0
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
