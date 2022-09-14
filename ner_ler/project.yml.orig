@@ -60,7 +60,7 @@ commands:
     help: "Train a named entity recognition model"
     script:
       - "python -m spacy train configs/${vars.config} --output training_${vars.name}/ --paths.train corpus/${vars.train}.spacy --paths.dev corpus/${vars.dev}.spacy --gpu-id ${vars.gpu}"
-      - "ln -s ./training_${vars.name} ./training/training_${vars.name}"
+      - "cp -r ./training_${vars.name} ./training/"
     deps:
       - "corpus/${vars.train}.spacy"
       - "corpus/${vars.dev}.spacy"
