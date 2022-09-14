@@ -29,3 +29,17 @@ train:
       md5: 2edd0f8f153d9f923a44d43945afc1af
   spacy_version: 3.4.1
   spacy_git_version: Unknown
+package:
+  cmd: python -m spacy run package
+  script:
+    - python -m spacy package training/model-best packages --name ner_ler_tok2vec
+      --version 0.0.0 --force
+  deps:
+    - path: training/model-best
+      md5: 3d83b408d5adabd245400d4d523e84cb
+  outs:
+    - path: packages/en_ner_ler_tok2vec-0.0.0/dist/en_ner_ler_tok2vec-0.0.0.tar.gz
+      md5: 56495682ac82d4cdc51770d54b1b3f90
+>>>>>>> 23efb6b5524b68b8e2a800034139fb5278fcbdba
+  spacy_version: 3.4.1
+  spacy_git_version: Unknown
