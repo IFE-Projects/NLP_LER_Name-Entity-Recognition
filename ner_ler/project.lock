@@ -1,15 +1,32 @@
 evaluate:
   cmd: python -m spacy run evaluate
   script:
-    - python -m spacy evaluate training_ner_ler_trf_a100/model-best corpus/ler_eval.spacy
-      --output training_ner_ler_trf_a100/metrics.json --gpu-id 1
+    - python -m spacy evaluate training_ner_ler_trf_win/model-best corpus/ler_eval.spacy
+      --output training_ner_ler_trf_win/metrics.json --gpu-id 0
   deps:
     - path: corpus/ler_eval.spacy
       md5: bcaeab928b0e9f01d44c09436c312681
-    - path: training_ner_ler_trf_a100/model-best
-      md5: 2edd0f8f153d9f923a44d43945afc1af
+    - path: training_ner_ler_trf_win/model-best
+      md5: 506d5410f06a487f701383b6f07ab6e3
   outs:
-    - path: training_ner_ler_trf_a100/metrics.json
-      md5: ce9c099d95153b28d6707382c7e0254d
+    - path: training_ner_ler_trf_win/metrics.json
+      md5: 5d5110b057c718b3f71c29dcf78b177d
   spacy_version: 3.4.1
-  spacy_git_version: Unknown
+  spacy_git_version: 5c2a00cef
+train:
+  cmd: python -m spacy run train
+  script:
+    - python -m spacy train configs/config_trf.cfg --output training_ner_ler_trf_win/
+      --paths.train corpus/ler_training.spacy --paths.dev corpus/ler_eval.spacy --gpu-id
+      0
+    - cp -r ./training_ner_ler_trf_win ./training/
+  deps:
+    - path: corpus/ler_training.spacy
+      md5: c85f226b263b3b9a7db34d1a960de4cf
+    - path: corpus/ler_eval.spacy
+      md5: bcaeab928b0e9f01d44c09436c312681
+  outs:
+    - path: training_ner_ler_trf_win/model-best
+      md5: 506d5410f06a487f701383b6f07ab6e3
+  spacy_version: 3.4.1
+  spacy_git_version: 5c2a00cef

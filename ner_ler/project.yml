@@ -2,13 +2,13 @@ title: "Detecting entities in LER reports (Named Entity Recognition)"
 description: "This project uses [`sense2vec`](https://github.com/explosion/sense2vec) and [INCEpTION](https://inception-project.github.io/) to bootstrap an NER model to detect Nuclear Power Plant, Incident Date, and Incident Instances in [LER documents](). For more details, see [Wiki Page]()."
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
-  config: "config_tok2vec.cfg"
-  name: "ner_ler_t2v_d1"
+  config: "config_roberta.cfg"
+  name: "ner_ler_trf_roberta_win"
   version: "0.0.0"
   train: "ler_training"
   dev: "ler_eval"
   patterns: "ler_patterns"
-  gpu: -1
+  gpu: 0
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
