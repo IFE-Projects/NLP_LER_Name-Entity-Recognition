@@ -1,4 +1,6 @@
 /*
-!/ner_ler/training*
+!/ner_ler/training/training**/model-best
+/ner_ler/training/training**/model-last
+/ner_ler/training**/model-last
 !.gitignore
 !.gitattributes
