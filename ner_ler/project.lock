@@ -2,7 +2,7 @@ evaluate:
   cmd: python -m spacy run evaluate
   script:
     - python -m spacy evaluate training_ner_ler_trf_a100/model-best corpus/ler_eval.spacy
-      --output training_ner_ler_trf_a100/metrics.json --gpu-id 1
+      --output training_ner_ler_trf_a100/metrics.json --gpu-id 0
   deps:
     - path: corpus/ler_eval.spacy
       md5: bcaeab928b0e9f01d44c09436c312681
@@ -10,6 +10,6 @@ evaluate:
       md5: 2edd0f8f153d9f923a44d43945afc1af
   outs:
     - path: training_ner_ler_trf_a100/metrics.json
-      md5: ce9c099d95153b28d6707382c7e0254d
+      md5: 2df4de6e0a6b042df47f24ebd385bc2a
   spacy_version: 3.4.1
   spacy_git_version: Unknown
